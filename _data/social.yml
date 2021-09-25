@@ -7,8 +7,9 @@ amazon:
   name: Amazon
   icon: icon-amazon
 google:
-  name: Google
+  name: Google Scholar
   icon: icon-google
+  prepend: 'https://scholar.google.com/citations?user='
 google-plus:
   name: Google+
   icon: icon-google-plus
