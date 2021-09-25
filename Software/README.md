@@ -10,7 +10,7 @@ permalink: /software/
 
 # R Packages
 
-## 1. PSF: Forecasting of Univariate Time Series Using the Pattern Sequence-Based Forecasting (PSF) Algorithm
+### 1. PSF: Forecasting of Univariate Time Series Using the Pattern Sequence-Based Forecasting (PSF) Algorithm
 * Pattern Sequence Based Forecasting (PSF) takes univariate time series data as input and assist to forecast its future values.
 * This algorithm forecasts the behavior of time series based on similarity of pattern sequences.
 * Initially, clustering is done with the labeling of samples from database.
@@ -23,7 +23,7 @@ permalink: /software/
 * Bokde N., Asencio-Cortés G., Martínez-Alvarez F., and Kulat K. D. (2017). [PSF: Introduction to R Package for Pattern Sequence Based Forecasting Algorithm](https://journal.r-project.org/archive/2017/RJ-2017-021/index.html). _The R Journal_ (IF 3.984), 9(1), 324-333. 
 
 
-## 2. imputeTestbench: Test Bench for the Comparison of Imputation Methods
+### 2. imputeTestbench: Test Bench for the Comparison of Imputation Methods
 * Provides a test bench for the comparison of missing data imputation methods in uni-variate time series.
 * Imputation methods are compared using different error metrics.
 * Proposed imputation methods and alternative error metrics can be used.
@@ -36,7 +36,7 @@ permalink: /software/
 * **Bokde N.**, Kulat K. D., Beck M. W., and Asencio Cortés G. (2018). [R package imputeTestbench to compare imputations methods for univariate time series](https://journal.r-project.org/archive/2018/RJ-2018-024/index.html). _The R Journal_ (IF 3.984), 10(1), 208-233.
 
 
-## 3. ForecastTB: Test Bench for the Comparison of Forecast Methods
+### 3. ForecastTB: Test Bench for the Comparison of Forecast Methods
 * Provides a test bench for the comparison of forecasting methods in uni-variate time series.
 * Forecasting methods are compared using different error metrics.
 * Proposed forecasting methods and alternative error metrics can be used.
@@ -49,7 +49,7 @@ permalink: /software/
 * **Bokde N.**, Yaseen Z. M. and Andresen G. B. (2020). [ForecastTB - An R Package as a Test-bench for Time Series Forecasting: Application of Wind Speed and Solar Radiation Modeling](https://www.mdpi.com/1996-1073/13/10/2578). _Energies_ (IF 3.004), 13(10), 2578.
 
 
-## 4. CleanTS: Testbench for Univariate Time Series Cleaning
+### 4. CleanTS: Testbench for Univariate Time Series Cleaning
 * A reliable and efficient tool for cleaning univariate time series data.
 * It implements reliable and efficient procedures for automating the process of cleaning univariate time series data.
 * The package provides integration with already developed and deployed tools for missing value imputation and outlier detection.
@@ -63,7 +63,7 @@ permalink: /software/
 * Under construction.
 
 
-## 5. GuessCompx: Empirically Estimates Algorithm Complexity
+### 5. GuessCompx: Empirically Estimates Algorithm Complexity
 * Make an empirical guess on the time and memory complexities of an algorithm or a function.
 * Tests multiple, increasing size random samples of your data and tries to fit various complexity functions o(n), o(n2), o(log(n)), etc.
 * Based on best fit, it predicts the full computation time on your whole dataset. Results are plotted with 'ggplot2'.
