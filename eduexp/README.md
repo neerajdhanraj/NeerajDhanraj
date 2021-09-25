@@ -9,7 +9,7 @@ permalink: /eduexp/
 ---
 # Experience
 
-## Postdoctoral Researcher - Data Science and Digital Twins 
+## ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) Postdoctoral Researcher - Data Science and Digital Twins 
 ### August 2021 - Present
 [Department of Civil and Architectural Engineering](https://cae.au.dk/en/), 
 
