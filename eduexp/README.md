@@ -9,18 +9,24 @@ permalink: /eduexp/
 ---
 # Experience
 
-### Postdoctoral Researcher - Data Science and Digital Twins (August 2021 - Present)
-Department of Civil and Architectural Engineering (Construction Automation and Information Technologies Group),
+**August 2021 - Present**
+### Postdoctoral Researcher - Data Science and Digital Twins 
+Department of Civil and Architectural Engineering,
+(_Construction Automation and Information Technologies Group_),
 Aarhus University, Aarhus, Denmark.
 
-### Postdoctoral Researcher - Data Science and Renewable Energy (August 2019 - August 2021)
-Department of Mechanical and Production Engineering (Renewable Energy and Thermodynamics Group),
+**August 2019 - August 2021**
+### Postdoctoral Researcher - Data Science and Renewable Energy
+Department of Mechanical and Production Engineering,
+(_Renewable Energy and Thermodynamics Group_),
 Aarhus University, Aarhus, Denmark.
 
-### Doctoral Researcher - Data Science (July 2014 - June 2019)
+**July 2014 - June 2019**
+### Doctoral Researcher - Data Science 
 Department of Electronics and Communication Engineering,
 Visvesvaraya National Institute of Technology, Nagpur, Maharashtra, India.
 
+**January 2014 - June 2014**
 ### Research Inetrn
 Department of Analytical Instrumentaion Devision,
 National Environmental Engineering and Research Institute, Nagpur, Maharashtra, India.
