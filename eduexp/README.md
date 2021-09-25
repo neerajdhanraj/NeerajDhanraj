@@ -25,7 +25,8 @@ permalink: /eduexp/
 
 [Aarhus University, Aarhus, Denmark](https://international.au.dk/).
 
-### ![](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/assets/img/VNIT_LOGO.png)Doctoral Researcher - Data Science 
+### ![VNIT_LOGO](https://user-images.githubusercontent.com/10669836/134785347-b3935408-9b04-4232-9e1b-929db6880ac1.png)
+Doctoral Researcher - Data Science 
 #### July 2014 - June 2019
 [Department of Electronics and Communication Engineering](https://vnit.ac.in/ece/),
 
@@ -86,10 +87,12 @@ of Applied Research and Technology, Engineering and Applied Science Research.
 
 ## Education
 
-### ![](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/assets/img/VNIT_LOGO.png)Ph.D., Data Science (2019)
+### ![VNIT_LOGO](https://user-images.githubusercontent.com/10669836/134785353-16c68fdb-cb49-4a86-85cc-cd7c3ccd4546.png)
+Ph.D., Data Science (2019)
 [Visvesvaraya National Institute of Technology, Nagpur, Maharashtra, India](https://vnit.ac.in/)
 
-### ![](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/assets/img/BITS_LOGO.png)M.E., Embedded Systems (2014)
+### ![BITS_LOGO](https://user-images.githubusercontent.com/10669836/134785358-070831b1-8fd1-41b6-9d81-edd11e6d9ce1.png)
+M.E., Embedded Systems (2014)
 [Birla Institute of Technology and Science, Pilani, Rajasthan, India](https://www.bits-pilani.ac.in/)
 
 ### B.E., Electronics and Tele-communication Engineering (2011)
