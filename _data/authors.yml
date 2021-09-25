@@ -30,11 +30,11 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     #twitter:         <username>
-    github:          <neerajdhanraj>
-    email:           <neerajdhanraj@gmail.com>
+    github:          neerajdhanraj
+    email:           neerajdhanraj@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
-    google:          <N2kk4AQAAAAJ&hl>
+    google:          N2kk4AQAAAAJ&hl
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
@@ -60,7 +60,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        <neeraj-bokde-9680ba19>
+    linkedin:        neeraj-bokde-9680ba19
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
