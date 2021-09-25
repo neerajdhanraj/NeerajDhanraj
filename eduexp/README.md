@@ -17,7 +17,7 @@ permalink: /eduexp/
 
 [Aarhus University, Aarhus, Denmark](https://international.au.dk/).
 
-## Postdoctoral Researcher - Data Science and Renewable Energy
+## ![](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/assets/img/AU_LOGO.png)Postdoctoral Researcher - Data Science and Renewable Energy
 ### August 2019 - August 2021
 [Department of Mechanical and Production Engineering](https://mpe.au.dk/en/),
 
@@ -25,7 +25,7 @@ permalink: /eduexp/
 
 [Aarhus University, Aarhus, Denmark](https://international.au.dk/).
 
-## Doctoral Researcher - Data Science 
+## ![](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/assets/img/VNIT_LOGO.png)Doctoral Researcher - Data Science 
 ### July 2014 - June 2019
 [Department of Electronics and Communication Engineering](https://vnit.ac.in/ece/),
 
@@ -86,10 +86,10 @@ of Applied Research and Technology, Engineering and Applied Science Research.
 
 # Education
 
-### Ph.D., Data Science (2019)
+### ![](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/assets/img/VNIT_LOGO.png)Ph.D., Data Science (2019)
 [Visvesvaraya National Institute of Technology, Nagpur, Maharashtra, India](https://vnit.ac.in/)
 
-### M.E., Embedded Systems (2014)
+### ![](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/assets/img/BITS_LOGO.png)M.E., Embedded Systems (2014)
 [Birla Institute of Technology and Science, Pilani, Rajasthan, India](https://www.bits-pilani.ac.in/)
 
 ### B.E., Electronics and Tele-communication Engineering (2011)
