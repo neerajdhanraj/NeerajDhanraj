@@ -8,7 +8,7 @@ sitemap: false
 permalink: /publication/
 ---
 
-# JCR Articles
+## JCR Articles
 
 ### 2021
 
@@ -68,7 +68,7 @@ simulation. _IEEE Access_ (IF 4.098), 7, 135386-135398.
 * **Bokde N.**, Asencio-Cortés G., Martínez-Alvarez F., and Kulat K. D. (2017). PSF: Introduction to R Package for Pattern Sequence Based Forecasting Algorithm. _The R Journal_ (IF 3.984), 9(1), 324-333.
 
 
-# Other Articles
+## Other Articles
 
 * Naganna, S. R., Beyaztas, B. H., **Bokde, N.**, & Armanuos, A. M. (2020). On the evaluation of the Gradient Tree Boosting model for groundwater level forecasting. _Knowledge-Based Engineering and Sciences_, 1(01), 48–57.
 * Gupta, A., **Bokde, N.**, Marathe, D., and Kulat K. (2018). A Novel Approach for Video based Fire Detection System using Spatial and Texture Analysis. _Indian Journal of Science and Technology_, 11(19). (Scopus indexed)
@@ -78,7 +78,7 @@ Using Soft Computing Techniques. _Engineering, Technology & Applied Science Rese
 * **Bokde, N.**, Bodhe, G. L., Bokade, N., and Kulat, K. D. (2016). Development of adaptive and customizable Base Station system in Wireless Sensor Network. _International Journal of Applied Engineering Research_, 11(1), 33-39. (Scopus indexed)
 * Gupta, A., Mishra, S., **Bokde, N.**, and Kulat, K. (2016). Need of Smart Water Systems In India. _International Journal of Applied Engineering Research_, 11(4), 2216-2223. (Scopus indexed).
 
-# Conference Articles
+## Conference Articles
 ### 2019
 * Villanueva D., Feijoo A., and **Bokde N.** (2019). A Strategy for Power Generation Optimization in a Hybrid Wind-BESS Power Plant. In _International Conference on Renewable
 Energy and Environment Engineering, Munich, Germany_.
@@ -97,13 +97,13 @@ _International Technology Congress, Pune._
 * **Bokde, N.**, Peshwe, P. D., Gupta, A., and Kulat, K. D. (2015). RemoteWSN: A novel technique for remotely visualizing connectivity in WSN working on a weight based
 routing algorithm. In _Recent Advances in Electronics & Computer Engineering (RAECE), 2015 National Conference on (pp. 92-95). IEEE._ (Scopus indexed).
 
-# Book Chapters
+## Book Chapters
 * Patil, J., **Bokde, N.**, Mishra, S., and Kulat, K. D. (2019) PSF based spectrum occupancy prediction in cognitive radio. In _Advanced Engineering Optimization Through Intelligent Techniques, Springer Nature Singapore._
 * * **Bokde, N.**, Wakpanjar, A., Kulat, K. D., and Feijoo A. (2018). Robust performance of PSF method over outliers and random patterns in univariate time series forecasting. In _Computer Science Advances: Research and Applications._ 
 * Gupta, A., Satpute, V. R., Kulat, K. D., and **Bokde, N.** (2016). Real-Time Abandoned Object Detection Using Video Surveillance. In _Proceedings of the International Conference on Recent Cognizance in Wireless Communication & Image Processing (pp. 837-843). Springer, New Delhi._
 
 
-# Technical notes and Preprints
+## Technical notes and Preprints
 * Shende M., **Bokde, N.**, Feijoo A. (2021). cleanTS: Testbench for Univariate Time Series Cleaning. URL _https://cran.r-project.org/package=cleanTS_ R package version, 0.1.0-
 * **Bokde, N.**, Andersen G. B. (2020). ForecastTB: Test Bench for the Comparison of Forecast Methods. URL _https://CRAN.R-project.org/package=ForecastTB_ R package version, 1.0.1.
 * Shende, M., **Bokde, N.** (2019). Jaya: Jaya, a Gradient-Free Optimization Algorithm. URL _https://CRAN.Rproject.org/package=Jaya_. R package version, 0.1.9.
