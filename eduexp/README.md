@@ -9,39 +9,38 @@ permalink: /eduexp/
 ---
 # Experience
 
-### August 2021 - Present
 ### Postdoctoral Researcher - Data Science and Digital Twins 
-Department of Civil and Architectural Engineering,
-(_Construction Automation and Information Technologies Group_),
-Aarhus University, Aarhus, Denmark.
+## August 2021 - Present
+[Department of Civil and Architectural Engineering](https://cae.au.dk/en/),
+(_[Construction Automation and Information Technologies Group](https://cae.au.dk/en/research/key-areas-in-research-and-development/design-and-construction/construction-automation-and-information-technologies/)_),
+[Aarhus University, Aarhus, Denmark](https://international.au.dk/).
 
-### August 2019 - August 2021
 ### Postdoctoral Researcher - Data Science and Renewable Energy
-Department of Mechanical and Production Engineering,
-(_Renewable Energy and Thermodynamics Group_),
-Aarhus University, Aarhus, Denmark.
+## August 2019 - August 2021
+[Department of Mechanical and Production Engineering](https://mpe.au.dk/en/),
+(_[Renewable Energy and Thermodynamics Group](https://mpe.au.dk/en/research/key-areas-in-research-and-development/fluid-mechanics-thermodynamics-and-energy-systems/renewable-energy-and-thermodynamics/)_),
+[Aarhus University, Aarhus, Denmark](https://international.au.dk/).
 
-### July 2014 - June 2019
 ### Doctoral Researcher - Data Science 
-Department of Electronics and Communication Engineering,
-Visvesvaraya National Institute of Technology, Nagpur, Maharashtra, India.
+## July 2014 - June 2019
+[Department of Electronics and Communication Engineering](https://vnit.ac.in/ece/),
+[Visvesvaraya National Institute of Technology, Nagpur, Maharashtra, India.](https://vnit.ac.in/)
 
-### January 2014 - June 2014
 ### Research Inetrn
-Department of Analytical Instrumentaion Devision,
-National Environmental Engineering and Research Institute, Nagpur, Maharashtra, India.
+## January 2014 - June 2014
+Analytical Instrumentaion Devision,
+[National Environmental Engineering and Research Institute, Nagpur, Maharashtra, India.](https://www.neeri.res.in/)
 
 # Volunteer Experience
 
 ### Mentor at Google Summer of Code (GSoC) (Organisation: R Project for Statistical Computing)
-* Asymptotic complexity testing framework/package (Year: 2020 [Link])
-* Automated (AutoML) tool to clean univariate time series at microscales (Year: 2021 [Link])
-* Add Robust Betas to Performance Analytics (Year: 2021 [Link])
+* [Asymptotic complexity testing framework/package](https://summerofcode.withgoogle.com/projects/#4887653356404736) (Year: 2020)
+* [Automated (AutoML) tool to clean univariate time series at microscales](https://summerofcode.withgoogle.com/projects/#4626948166254592) (Year: 2021)
+* [Add Robust Betas to Performance Analytics](https://summerofcode.withgoogle.com/projects/#5412619369840640) (Year: 2021)
 
 ### Statistical package contributor
-* R packages: PSF, imputeTestbench, imputePSF, PredictTestbench, decomposedPSF, WindCurves, GuessCompx,
-Jaya, ForecastTB, CleanTS.
-* Python Package: PSF
+* **R packages:** [PSF](https://cran.r-project.org/package=PSF), [imputeTestbench](https://cran.r-project.org/package=imputeTestbench), [imputePSF](https://cran.r-project.org/package=imputePSF), [PredictTestbench](http://crantastic.org/packages/PredictTestbench), [decomposedPSF](https://cran.r-project.org/package=decomposedPSF), [WindCurves](https://cran.r-project.org/package=WindCurves), [GuessCompx](https://cran.r-project.org/package=GuessCompx), [Jaya](https://cran.r-project.org/package=Jaya), [ForecastTB](https://cran.r-project.org/package=ForecastTB), [CleanTS](https://cran.r-project.org/package=cleanTS).
+* **Python Package:** [PSF](url)
 
 ### Editorship of International Journals
 * Energies (MDPI, SI: Data-Driven Approaches for Environmental Sustainability, Guest Editor)
@@ -82,13 +81,13 @@ of Applied Research and Technology, Engineering and Applied Science Research.
 # Education
 
 ### Ph.D., Data Science (2019)
-Visvesvaraya National Institute of Technology, Nagpur, Maharashtra, India
+[Visvesvaraya National Institute of Technology, Nagpur, Maharashtra, India](https://vnit.ac.in/)
 
 ### M.E., Embedded Systems (2014)
-Birla Institute of Technology and Science, Pilani, Rajasthan, India
+[Birla Institute of Technology and Science, Pilani, Rajasthan, India](https://www.bits-pilani.ac.in/)
 
 ### B.E., Electronics and Tele-communication Engineering (2011)
-St. Vincent Pallotti College of Engineering and Technology, Nagpur, India
+[St. Vincent Pallotti College of Engineering and Technology, Nagpur, India](https://www.stvincentngp.edu.in/)
 
 
 
