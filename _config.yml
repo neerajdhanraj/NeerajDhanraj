@@ -53,6 +53,8 @@ menu:
     url:               /biography/
   - title:             Education and Experience
     url:               /eduexp/
+  - title:             Publications
+    url:               /publication/
   - title:             Documentation
     url:               /docs/
   - title:             About
