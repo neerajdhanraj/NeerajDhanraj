@@ -51,6 +51,8 @@ author:
 menu:
   - title:             Biography
     url:               /biography/
+  - title:             Education and Experience
+    url:               /eduexp/
   - title:             Documentation
     url:               /docs/
   - title:             About
