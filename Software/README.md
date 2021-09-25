@@ -16,11 +16,8 @@ permalink: /software/
 * Initially, clustering is done with the labeling of samples from database.
 * The labels associated with samples are then used for forecasting the future behaviour of time series data.
 ![w1](https://user-images.githubusercontent.com/10669836/134778693-f4c2acf8-0124-44db-af3f-c11f8076f8eb.jpg)
-
-
 #### CRAN
 * [https://cran.r-project.org/package=PSF](https://cran.r-project.org/package=PSF)
-
 #### Publication/Manual
 * Bokde N., Asencio-Cortés G., Martínez-Alvarez F., and Kulat K. D. (2017). [PSF: Introduction to R Package for Pattern Sequence Based Forecasting Algorithm](https://journal.r-project.org/archive/2017/RJ-2017-021/index.html). _The R Journal_ (IF 3.984), 9(1), 324-333. 
 
@@ -30,10 +27,8 @@ permalink: /software/
 * Imputation methods are compared using different error metrics.
 * Proposed imputation methods and alternative error metrics can be used.
 ![w2](https://user-images.githubusercontent.com/10669836/134777727-14e5799a-0bde-49c2-b9c1-336cb3a22a0f.PNG)
-
 #### CRAN
 * [https://cran.r-project.org/package=imputeTestbench](https://cran.r-project.org/package=imputeTestbench)
-
 #### Publication/Manual
 * **Bokde N.**, Kulat K. D., Beck M. W., and Asencio Cortés G. (2018). [R package imputeTestbench to compare imputations methods for univariate time series](https://journal.r-project.org/archive/2018/RJ-2018-024/index.html). _The R Journal_ (IF 3.984), 10(1), 208-233.
 
@@ -43,12 +38,9 @@ permalink: /software/
 * Forecasting methods are compared using different error metrics.
 * Proposed forecasting methods and alternative error metrics can be used.
 ![w3](https://user-images.githubusercontent.com/10669836/134778685-38cca478-aef2-49d7-ad48-a57693cf92c3.PNG)
-
-
 #### CRAN
 * [https://cran.r-project.org/package=ForecastTB](https://cran.r-project.org/package=ForecastTB)
 * [Shiny App](https://psfonline.shinyapps.io/ForeCastTB/?_ga=2.245185158.2036765493.1628790300-1082146698.1628790300)
-
 #### Publication/Manual
 * **Bokde N.**, Yaseen Z. M. and Andresen G. B. (2020). [ForecastTB - An R Package as a Test-bench for Time Series Forecasting: Application of Wind Speed and Solar Radiation Modeling](https://www.mdpi.com/1996-1073/13/10/2578). _Energies_ (IF 3.004), 13(10), 2578.
 
@@ -59,12 +51,9 @@ permalink: /software/
 * The package provides integration with already developed and deployed tools for missing value imputation and outlier detection.
 * It also provides a way of visualizing large time-series data in different resolutions.
 ![w4](https://user-images.githubusercontent.com/10669836/134778677-f44d6e6c-cf06-4046-8d66-ad2270afa87e.PNG)
-
-
 #### CRAN
 * [https://cran.r-project.org/package=cleanTS](https://cran.r-project.org/package=cleanTS)
 * [Shiny App](https://mayur1009.shinyapps.io/cleanTS/)
-
 #### Publication/Manual
 * Under construction.
 
@@ -74,10 +63,21 @@ permalink: /software/
 * Tests multiple, increasing size random samples of your data and tries to fit various complexity functions o(n), o(n2), o(log(n)), etc.
 * Based on best fit, it predicts the full computation time on your whole dataset. Results are plotted with 'ggplot2'.
 ![w5](https://user-images.githubusercontent.com/10669836/134778671-e0ae37a9-0dee-4428-96c6-63b160608069.PNG)
-
-
 #### CRAN
 * [https://cran.r-project.org/package=GuessCompx](https://cran.r-project.org/package=GuessCompx)
-
 #### Publication/Manual
 * Agenis-Nevers M., **Bokde N.**, Yaseen Z., and Shende M. (2020). [An empirical estimation for time and memory algorithm complexities: Newly developed R package](https://link.springer.com/article/10.1007/s11042-020-09471-8). _Multimedia Tools and Applications_ (IF 2.757). (https://doi.org/10.1007/s11042-020-09471-8)
+
+
+### 6. Jaya: a Gradient-Free Optimization Algorithm
+* Maximization or Minimization of a fitness function using Jaya Algorithm (JA).
+* A population based method which repeatedly modifies a population of individual solutions.
+* Capable of solving both constrained and unconstrained optimization problems.
+* It does not contain any hyperparameters.
+* For further details: R.V. Rao (2016) <doi:10.5267/j.ijiec.2015.8.004> .
+![w6a](https://user-images.githubusercontent.com/10669836/134778951-a1aab9bf-be55-4edf-924f-b78cab5a4dec.PNG)
+![w6b](https://user-images.githubusercontent.com/10669836/134778958-c7482a0e-47b7-47ad-9e21-6c617db893ac.PNG)
+#### CRAN
+* [https://cran.r-project.org/package=Jaya](https://cran.r-project.org/package=Jaya)
+#### Publication/Manual
+* **Bokde N.**, and Shende M. (2020). [A guide to Jaya Package](https://cran.rstudio.com/web/packages/Jaya/vignettes/A_guide_to_JA.html). 
