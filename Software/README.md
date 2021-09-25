@@ -16,7 +16,7 @@ permalink: /software/
 * Initially, clustering is done with the labeling of samples from database.
 * The labels associated with samples are then used for forecasting the future behaviour of time series data.
 
-![](image.png)
+![](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/assets/img/w2.PNG)
 
 #### CRAN
 * [https://cran.r-project.org/package=PSF](https://cran.r-project.org/package=PSF)
