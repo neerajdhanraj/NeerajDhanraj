@@ -7,37 +7,37 @@ hide_description: true
 sitemap: false
 permalink: /eduexp/
 ---
-# Experience
+## Experience
 
-## ![](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/assets/img/AU_LOGO.png)Postdoctoral Researcher - Data Science and Digital Twins
-### August 2021 - Present
+### ![](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/assets/img/AU_LOGO.png)Postdoctoral Researcher - Data Science and Digital Twins
+#### August 2021 - Present
 [Department of Civil and Architectural Engineering](https://cae.au.dk/en/), 
 
 (_[Construction Automation and Information Technologies Group](https://cae.au.dk/en/research/key-areas-in-research-and-development/design-and-construction/construction-automation-and-information-technologies/)_),
 
 [Aarhus University, Aarhus, Denmark](https://international.au.dk/).
 
-## ![](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/assets/img/AU_LOGO.png)Postdoctoral Researcher - Data Science and Renewable Energy
-### August 2019 - August 2021
+### ![](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/assets/img/AU_LOGO.png)Postdoctoral Researcher - Data Science and Renewable Energy
+#### August 2019 - August 2021
 [Department of Mechanical and Production Engineering](https://mpe.au.dk/en/),
 
 (_[Renewable Energy and Thermodynamics Group](https://mpe.au.dk/en/research/key-areas-in-research-and-development/fluid-mechanics-thermodynamics-and-energy-systems/renewable-energy-and-thermodynamics/)_),
 
 [Aarhus University, Aarhus, Denmark](https://international.au.dk/).
 
-## ![](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/assets/img/VNIT_LOGO.png)Doctoral Researcher - Data Science 
-### July 2014 - June 2019
+### ![](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/assets/img/VNIT_LOGO.png)Doctoral Researcher - Data Science 
+#### July 2014 - June 2019
 [Department of Electronics and Communication Engineering](https://vnit.ac.in/ece/),
 
 [Visvesvaraya National Institute of Technology, Nagpur, Maharashtra, India.](https://vnit.ac.in/)
 
-## Research Inetrn
-### January 2014 - June 2014
+### Research Inetrn
+#### January 2014 - June 2014
 Analytical Instrumentaion Devision,
 
 [National Environmental Engineering and Research Institute, Nagpur, Maharashtra, India.](https://www.neeri.res.in/)
 
-# Volunteer Experience
+## Volunteer Experience
 
 ### Mentor at Google Summer of Code (GSoC) (Organisation: R Project for Statistical Computing)
 * [Asymptotic complexity testing framework/package](https://summerofcode.withgoogle.com/projects/#4887653356404736) (Year: 2020)
@@ -84,7 +84,7 @@ Practice and Experience, Engineering Reports.
 Computers and Information Technology, Computers, Materials & Continua, PLoS One, Journal
 of Applied Research and Technology, Engineering and Applied Science Research.
 
-# Education
+## Education
 
 ### ![](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/assets/img/VNIT_LOGO.png)Ph.D., Data Science (2019)
 [Visvesvaraya National Institute of Technology, Nagpur, Maharashtra, India](https://vnit.ac.in/)
