@@ -55,6 +55,8 @@ menu:
     url:               /eduexp/
   - title:             Publications
     url:               /publication/
+  - title:             Software
+    url:               /software/
   - title:             Documentation
     url:               /docs/
   - title:             About
