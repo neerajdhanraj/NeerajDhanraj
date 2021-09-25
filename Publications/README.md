@@ -68,5 +68,51 @@ simulation. _IEEE Access_ (IF 4.098), 7, 135386-135398.
 * **Bokde N.**, Asencio-Cortés G., Martínez-Alvarez F., and Kulat K. D. (2017). PSF: Introduction to R Package for Pattern Sequence Based Forecasting Algorithm. _The R Journal_ (IF 3.984), 9(1), 324-333.
 
 
+# Other Articles
 
+* Naganna, S. R., Beyaztas, B. H., **Bokde, N.**, & Armanuos, A. M. (2020). On the evaluation of the Gradient Tree Boosting model for groundwater level forecasting. _Knowledge-Based Engineering and Sciences_, 1(01), 48–57.
+* Gupta, A., **Bokde, N.**, Marathe, D., and Kulat K. (2018). A Novel Approach for Video based Fire Detection System using Spatial and Texture Analysis. _Indian Journal of Science and Technology_, 11(19). (Scopus indexed)
+* **Bokde, N.**, Gupta, A., and Kulat, K. (2017). Backward Elimination Approach of Regression Model to Decide the Road Safety Policies Across the States in India. _Indian Journal of Science and Technology_, 9(48). (Scopus indexed)
+* Gupta, A., **Bokde, N.**, Marathe, D., and Kulat, K. (2016). Leakage Reduction in Water Distribution Systems with Efficient Placement and Control of Pressure Reducing Valves
+Using Soft Computing Techniques. _Engineering, Technology & Applied Science Research_, 7(2), pp-1528. (Scopus and ESCI indexed)
+* **Bokde, N.**, Bodhe, G. L., Bokade, N., and Kulat, K. D. (2016). Development of adaptive and customizable Base Station system in Wireless Sensor Network. _International Journal of Applied Engineering Research_, 11(1), 33-39. (Scopus indexed)
+* Gupta, A., Mishra, S., **Bokde, N.**, and Kulat, K. (2016). Need of Smart Water Systems In India. _International Journal of Applied Engineering Research_, 11(4), 2216-2223. (Scopus indexed).
 
+# Conference Articles
+### 2019
+* Villanueva D., Feijoo A., and **Bokde N.** (2019). A Strategy for Power Generation Optimization in a Hybrid Wind-BESS Power Plant. In _International Conference on Renewable
+Energy and Environment Engineering, Munich, Germany_.
+* Durán P., Villanueva D., Feijoo A., and **Bokde N.** (2019). Interior Point Algorithm Applied to the Optimization of the Power Supplied by a Wind Farm with a BESS. In _International Conference on Renewable Energy and Environment Engineering, Munich, Germany._
+* Patil, J., **Bokde, N.**, Mishra, S., and Kulat, K. D. (2019) A segmentation approach to optimize spectrum allocation for secondary users in a cognitive network. In _International Conference on Computing, Communication and Networking Technologies, IIT Kanpur._
+
+### 2018
+* Patil, J., **Bokde, N.**, Mishra, S., and Kulat, K. D. (2018) PSF based spectrum occupancy prediction in cognitive radio. In _International Conference on Advanced Engineering Optimization Through Intelligent Techniques, SVNIT Surat._
+
+### 2017
+* **Bokde, N.**, Wakpanjar, A., Kulat, K. D., and Feijoo A. (2017) Robust performance of PSF method over outliers and random patterns in univariate time series forecasting. In
+_International Technology Congress, Pune._
+* **Bokde, N.**, Troncoso, A., Asencio-Cortés, G., Kulat, K., and Martínez-Álvarez, F. (2017) Pattern sequence similarity based techniques for wind speed forecasting. In _International Work-Conference on Time Series (ITISE), Granada, Spain 2, 786-794._ (Scopus indexed)
+
+### 2015
+* **Bokde, N.**, Peshwe, P. D., Gupta, A., and Kulat, K. D. (2015). RemoteWSN: A novel technique for remotely visualizing connectivity in WSN working on a weight based
+routing algorithm. In _Recent Advances in Electronics & Computer Engineering (RAECE), 2015 National Conference on (pp. 92-95). IEEE._ (Scopus indexed).
+
+# Book Chapters
+* Patil, J., **Bokde, N.**, Mishra, S., and Kulat, K. D. (2019) PSF based spectrum occupancy prediction in cognitive radio. In _Advanced Engineering Optimization Through Intelligent Techniques, Springer Nature Singapore._
+* Gupta, A., Satpute, V. R., Kulat, K. D., and **Bokde, N.** (2016). Real-Time Abandoned Object Detection Using Video Surveillance. In _Proceedings of the International Conference on Recent Cognizance in Wireless Communication & Image Processing (pp. 837-843). Springer, New Delhi._
+* **Bokde, N.**, Wakpanjar, A., Kulat, K. D., and Feijoo A. (2018). Robust performance of PSF method over outliers and random patterns in univariate time series forecasting. In
+C_omputer Science Advances: Research and Applications._ 
+
+# Technical notes and Preprints
+* Shende M., **Bokde, N.**, Feijoo A. (2021). cleanTS: Testbench for Univariate Time Series Cleaning. URL _https://cran.r-project.org/package=cleanTS_ R package version, 0.1.0-
+* **Bokde, N.**, Andersen G. B. (2020). ForecastTB: Test Bench for the Comparison of Forecast Methods. URL _https://CRAN.R-project.org/package=ForecastTB_ R package version, 1.0.1.
+* Shende, M., **Bokde, N.** (2019). Jaya: Jaya, a Gradient-Free Optimization Algorithm. URL _https://CRAN.Rproject.org/package=Jaya_. R package version, 0.1.9.
+* Agenis, M., **Bokde, N.** (2019). GuessCompx: Empirically Estimates Algorithm Complexity. URL _https://CRAN.Rproject.org/package=GuessCompx_. R package version, 1.0.3.
+* **Bokde N.** and Feijoo A. (2018). WindCurves: Tool to Fit Wind Turbine Power Curves. URL _https://cran.r-project.org/package=WindCurves_. R package version 0.1.3.
+* **Bokde, N.**, & Kulat, K. (2016). Demonstration of an open source platform for reproducible comparison of predictive models (No. e2251v1). _PeerJ Preprints_.
+* **Bokde, N.**, Gupta, A., & Kulat, K. (2016). Introduction of seasonality concept in PSF algorithm to improve univariate time series predictions (No. e2184v1). _PeerJ Preprints_.
+* **Bokde, N.**, Asencio-Cortés G., Martínez-Álvarez F. (2016). PSF: Algorithm for Pattern Sequence Based Forecasting. URL _https://CRAN.Rproject.org/package=PSF_. R package version, 0.4
+* **Bokde, N.**, Beck M. W. (2016). imputeTestbench: Testbench for Missing Data Imputing Models/Methods Comparison. URL _https://CRAN.Rproject.org/package=imputetestbench_. R
+package version, 3.0.1.
+* **Bokde, N.** (2016). imputePSF: Impute Missing Data in Time Series Data with PSF Based Method. URL _https://CRAN.Rproject.org/package=imputePSF_. R package version, 0.1.0.
+* Bokde, N. (2016). PredictTestbench: Testbench for Comparison of Data Prediction Models. URL _https://CRAN.Rproject.org/package=Predicttestbench_. R package version, 1.1.3.
