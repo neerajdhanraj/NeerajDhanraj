@@ -46,7 +46,7 @@ Analytical Instrumentaion Devision,
 
 ### Statistical package contributor
 * **R packages:** [PSF](https://cran.r-project.org/package=PSF), [imputeTestbench](https://cran.r-project.org/package=imputeTestbench), [imputePSF](https://cran.r-project.org/package=imputePSF), [PredictTestbench](http://crantastic.org/packages/PredictTestbench), [decomposedPSF](https://cran.r-project.org/package=decomposedPSF), [WindCurves](https://cran.r-project.org/package=WindCurves), [GuessCompx](https://cran.r-project.org/package=GuessCompx), [Jaya](https://cran.r-project.org/package=Jaya), [ForecastTB](https://cran.r-project.org/package=ForecastTB), [CleanTS](https://cran.r-project.org/package=cleanTS).
-* **Python Package:** [PSF](url)
+* **Python Package:** [PSF](https://pypi.org/project/PSF-Py/)
 
 ### Editorship of International Journals
 * Energies (MDPI, SI: Data-Driven Approaches for Environmental Sustainability, Guest Editor)
