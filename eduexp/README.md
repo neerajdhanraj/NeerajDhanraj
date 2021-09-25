@@ -9,26 +9,32 @@ permalink: /eduexp/
 ---
 # Experience
 
-### Postdoctoral Researcher - Data Science and Digital Twins 
-## August 2021 - Present
-[Department of Civil and Architectural Engineering](https://cae.au.dk/en/),
+## Postdoctoral Researcher - Data Science and Digital Twins 
+### August 2021 - Present
+[Department of Civil and Architectural Engineering](https://cae.au.dk/en/), 
+
 (_[Construction Automation and Information Technologies Group](https://cae.au.dk/en/research/key-areas-in-research-and-development/design-and-construction/construction-automation-and-information-technologies/)_),
+
 [Aarhus University, Aarhus, Denmark](https://international.au.dk/).
 
-### Postdoctoral Researcher - Data Science and Renewable Energy
-## August 2019 - August 2021
+## Postdoctoral Researcher - Data Science and Renewable Energy
+### August 2019 - August 2021
 [Department of Mechanical and Production Engineering](https://mpe.au.dk/en/),
+
 (_[Renewable Energy and Thermodynamics Group](https://mpe.au.dk/en/research/key-areas-in-research-and-development/fluid-mechanics-thermodynamics-and-energy-systems/renewable-energy-and-thermodynamics/)_),
+
 [Aarhus University, Aarhus, Denmark](https://international.au.dk/).
 
-### Doctoral Researcher - Data Science 
-## July 2014 - June 2019
+## Doctoral Researcher - Data Science 
+### July 2014 - June 2019
 [Department of Electronics and Communication Engineering](https://vnit.ac.in/ece/),
+
 [Visvesvaraya National Institute of Technology, Nagpur, Maharashtra, India.](https://vnit.ac.in/)
 
-### Research Inetrn
-## January 2014 - June 2014
+## Research Inetrn
+### January 2014 - June 2014
 Analytical Instrumentaion Devision,
+
 [National Environmental Engineering and Research Institute, Nagpur, Maharashtra, India.](https://www.neeri.res.in/)
 
 # Volunteer Experience
