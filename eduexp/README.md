@@ -9,7 +9,7 @@ permalink: /eduexp/
 ---
 # Experience
 
-## ![](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/images/AU_LOGO.png?raw=true) Postdoctoral Researcher - Data Science and Digital Twins 
+## ![Postdoctoral Researcher - Data Science and Digital Twins](https://github.com/neerajdhanraj/NeerajDhanraj/blob/master/images/AU_LOGO.png?raw=true) 
 ### August 2021 - Present
 [Department of Civil and Architectural Engineering](https://cae.au.dk/en/), 
 
