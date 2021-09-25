@@ -99,9 +99,9 @@ routing algorithm. In _Recent Advances in Electronics & Computer Engineering (RA
 
 # Book Chapters
 * Patil, J., **Bokde, N.**, Mishra, S., and Kulat, K. D. (2019) PSF based spectrum occupancy prediction in cognitive radio. In _Advanced Engineering Optimization Through Intelligent Techniques, Springer Nature Singapore._
+* * **Bokde, N.**, Wakpanjar, A., Kulat, K. D., and Feijoo A. (2018). Robust performance of PSF method over outliers and random patterns in univariate time series forecasting. In _Computer Science Advances: Research and Applications._ 
 * Gupta, A., Satpute, V. R., Kulat, K. D., and **Bokde, N.** (2016). Real-Time Abandoned Object Detection Using Video Surveillance. In _Proceedings of the International Conference on Recent Cognizance in Wireless Communication & Image Processing (pp. 837-843). Springer, New Delhi._
-* **Bokde, N.**, Wakpanjar, A., Kulat, K. D., and Feijoo A. (2018). Robust performance of PSF method over outliers and random patterns in univariate time series forecasting. In
-C_omputer Science Advances: Research and Applications._ 
+
 
 # Technical notes and Preprints
 * Shende M., **Bokde, N.**, Feijoo A. (2021). cleanTS: Testbench for Univariate Time Series Cleaning. URL _https://cran.r-project.org/package=cleanTS_ R package version, 0.1.0-
