@@ -12,23 +12,29 @@ permalink: /eduexp/
 ### ![AU_LOGO](https://user-images.githubusercontent.com/10669836/134785307-902c66e4-a553-4b6c-84dc-7bc2acc04bc3.png)Postdoctoral Researcher - Data Science and Digital Twins
 #### August 2021 - Present
 [Department of Civil and Architectural Engineering](https://cae.au.dk/en/), 
+
 (_[Construction Automation and Information Technologies Group](https://cae.au.dk/en/research/key-areas-in-research-and-development/design-and-construction/construction-automation-and-information-technologies/)_),
+
 [Aarhus University, Aarhus, Denmark](https://international.au.dk/).
 
 ### ![AU_LOGO](https://user-images.githubusercontent.com/10669836/134785307-902c66e4-a553-4b6c-84dc-7bc2acc04bc3.png)Postdoctoral Researcher - Data Science and Renewable Energy
 #### August 2019 - August 2021
 [Department of Mechanical and Production Engineering](https://mpe.au.dk/en/),
+
 (_[Renewable Energy and Thermodynamics Group](https://mpe.au.dk/en/research/key-areas-in-research-and-development/fluid-mechanics-thermodynamics-and-energy-systems/renewable-energy-and-thermodynamics/)_),
+
 [Aarhus University, Aarhus, Denmark](https://international.au.dk/).
 
 ### ![VNIT_LOGO](https://user-images.githubusercontent.com/10669836/134785347-b3935408-9b04-4232-9e1b-929db6880ac1.png)Doctoral Researcher - Data Science 
 #### July 2014 - June 2019
 [Department of Electronics and Communication Engineering](https://vnit.ac.in/ece/),
+
 [Visvesvaraya National Institute of Technology, Nagpur, Maharashtra, India.](https://vnit.ac.in/)
 
 ### ![download](https://user-images.githubusercontent.com/10669836/134785592-5c941240-68bd-4bff-9b06-2ed49298f873.png)Research Inetrn
 #### January 2014 - June 2014
 Analytical Instrumentaion Devision,
+
 [National Environmental Engineering and Research Institute, Nagpur, Maharashtra, India.](https://www.neeri.res.in/)
 
 ## Volunteer Experience
