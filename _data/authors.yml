@@ -2,17 +2,20 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Neeraj Dhanraj> <Bokde>
+  email:             <neerajdhanraj@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Originally from Nagpur, India, I am currently based in Aarhus, Denmark,
+    where I work as a Postdoctoral Researcher in the Construction Automation and
+    Information Technologies Group within the Department of Civil and Architectural Engineering at Aarhus University.
+    I was educated and trained in India and Denmark in engineering, data science, renewable energy, and computer science.
+    At the crossroads of these fields, my research interests lie within the general area of theoretical and applied data science,
+    time series analysis view on industrial applications such as in digital twins, artificial intelligence, statistical software development,
+    visualization techniques, and predictive analysis; and on exploring the scope of automation of the machine learning and data science methodologies.
     
-    Open `_data/authors.yml` to edit this text.
 
   # This photo will be used in the about section
   picture:
@@ -26,12 +29,12 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    #twitter:         <username>
+    github:          <neerajdhanraj>
+    email:           <neerajdhanraj@gmail.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
-    # google:          <number>
+    google:          <N2kk4AQAAAAJ&hl>
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
@@ -57,7 +60,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        <neeraj-bokde-9680ba19>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
