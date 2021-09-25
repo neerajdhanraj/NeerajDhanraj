@@ -81,3 +81,35 @@ permalink: /software/
 * [https://cran.r-project.org/package=Jaya](https://cran.r-project.org/package=Jaya)
 #### Publication/Manual
 * **Bokde N.**, and Shende M. (2020). [A guide to Jaya Package](https://cran.rstudio.com/web/packages/Jaya/vignettes/A_guide_to_JA.html). 
+
+
+### 7. WindCurves: Tool to Fit Wind Turbine Power Curves
+* Provides a tool to fit and compare the wind turbine power curves with successful curve fitting techniques.
+* Facilitates to examine and compare the performance of a user-defined power curve fitting techniques.
+* Also, provide features to generate power curve discrete points from a graphical power curves.
+* Data on the power curves of the wind turbine from major manufacturers are provided.
+![w7](https://user-images.githubusercontent.com/10669836/134779462-31abb810-78fa-4be7-8a6a-1d341f92490b.PNG)
+#### CRAN
+* [https://cran.r-project.org/package=WindCurves](https://cran.r-project.org/package=WindCurves)
+#### Publication/Manual
+* **Bokde N.**, Feijoo A., and Villanueva D. (2018). [Wind turbine power curves based on Weibull cumulative distribution function](https://www.mdpi.com/2076-3417/8/10/1757). _Applied Sciences_ (Invited/Feature paper) (IF 2.679), 8(10), 1757.
+
+
+### 8. decomposedPSF: Time Series Prediction with PSF and Decomposition Methods (EMD and EEMD)
+* Predict future values with hybrid combinations of Pattern Sequence based Forecasting (PSF), Autoregressive Integrated Moving Average (ARIMA), Empirical Mode Decomposition (EMD) and Ensemble Empirical Mode Decomposition (EEMD) methods based hybrid methods.
+#### CRAN
+* [https://cran.r-project.org/package=decomposedPSF](https://cran.r-project.org/package=decomposedPSF)
+#### Publication/Manual
+* **Bokde N.**, Feijoo A., Villanueva D., and Kulat K. (2019). [A review on hybrid empirical mode decomposition models for wind speed and wind power prediction](https://www.mdpi.com/1996-1073/12/2/254). _Energies_ (IF 3.004), 12(2), 254.
+* **Bokde N.**, Feijoo A., and Kulat K. (2018). [Analysis of Differencing and Decomposition prepossessing methods for wind speed prediction](https://www.sciencedirect.com/science/article/pii/S1568494618304290?casa_token=i-1txOkUNcMAAAAA:laMUdOcRv7mPGy4YpFGvOsNL4CjW20MELiGunz9v5zmi-Di8OZqZtdq6Elol6BIdBWY5QdY). _Applied Soft Computing_ (IF 6.725), 71(), 926-938.
+* **Bokde N.**, Tranberg B., and Andresen G. B. (2021). [Short-term CO2 emissions forecasting based on decomposition approaches and its impact on electricity market scheduling](https://www.sciencedirect.com/science/article/pii/S0306261920314926). _Applied Energy_ (IF 9.746). 281, 116061. (Preprint: https://arxiv.org/pdf/2003.10868).
+
+
+### 9. imputePSF: Impute Missing Data in Time Series Data with PSF Based Method
+* Imputes the missing values in time series data with PSF algorithm based approach.
+* The details about PSF algorithm are available at: <https://cran.r-project.org/package=PSF>.
+#### CRAN
+* [https://cran.r-project.org/package=imputePSF](https://cran.r-project.org/package=imputePSF)
+
+
+
