@@ -92,7 +92,7 @@ of Applied Research and Technology, Engineering and Applied Science Research.
 ### ![BITS_LOGO](https://user-images.githubusercontent.com/10669836/134785358-070831b1-8fd1-41b6-9d81-edd11e6d9ce1.png)M.E., Embedded Systems (2014)
 [Birla Institute of Technology and Science, Pilani, Rajasthan, India](https://www.bits-pilani.ac.in/)
 
-### B.E., Electronics and Tele-communication Engineering (2011)
+### ![SVPCLOGO](https://user-images.githubusercontent.com/10669836/134785471-5c0cf7d9-3263-43ff-bea8-f2f8f54e05cc.jpg)B.E., Electronics and Tele-communication Engineering (2011)
 [St. Vincent Pallotti College of Engineering and Technology, Nagpur, India](https://www.stvincentngp.edu.in/)
 
 
