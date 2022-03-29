@@ -58,7 +58,8 @@ Analytical Instrumentaion Devision,
 * **Elsevier:** Computer Methods and Programs in Biomedicine, Journal of Hazardous Materials,
 Journal of Hydrology, Applied Energy, Data in Brief, Ocean Engineering, Measurement, Marine
 Pollution Bulletin.
-* **IEEE:** IEEE Access, IEEE Transactions on Knowledge and Data Engineering.
+* **IEEE:** IEEE Access, IEEE Transactions on Knowledge and Data Engineering, IEEE Signal Processing Letters,
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, IEEE Systems Journal.
 * **IET:** IET Signal Processing, IET Renewable Power Generation, IET Microwaves, Antennas &
 Propagation, IET Image Processing, IET Cyber-Physical Systems: Theory & Applications,
 Electronics Letters.
@@ -67,22 +68,31 @@ Hazards, Environmental Science and Pollution Research, Energy Systems, Engineeri
 Computers, Artificial Intelligence Review.
 * **Taylor & Francis:** Engineering Applications of Computational Fluid Mechanics, ISH Journal of
 Hydraulic Engineering, Hydrological Sciences Journal, International Journal of Green Energy,
-Journal of the Chinese Institute of Engineers, Applied Artificial Intelligence.
+Journal of the Chinese Institute of Engineers, Applied Artificial Intelligence, Cyber-Physical Systems, Cybernetics and Systems,
+Journal of Building Performance Simulation.
 * **MDPI:** Information, Water, Sustainability, Energies, Sensors, Electronics, Materials, Applied
 Sciences, International Journal of Environmental Research and Public Health, Aerospace,
-Future Internet.
+Future Internet, Entropy, Urban Science, Actuators, Tropical Medicine and Infectious Disease, Biology, Wind, Diagnostics, Buildings, Atmosphere,
+Algorithm.
 * **Hindawi:** Computational Intelligence and Neuroscience, Mathematical Problems in
 Engineering, BioMed Research International, Complexity, Journal of Probability and Statistics,
 Journal of Advanced Transportation, International Journal of Photoenergy, The Scientific
-World Journal.
+World Journal,  Advances in Meteorology, Journal
+of Mathematics, Discrete Dynamics in Nature and Society, Journal of Applied Mathematics, Journal of
+Sensors, Mobile Information Systems, Scientific Programming, Journal of Electrical and Computer Engineering,
+International Journal of Aerospace Engineering, Computational and Mathematical Methods in Medicine.
 * **Wiley:** International Transactions on Electrical Energy Systems, Concurrency Computation
 Practice and Experience, Engineering Reports.
 * **Emerald:** International Journal of Intelligent Computing and Cybernetics.
-* **Frontiers:** Frontiers in Energy Research
-* **Nature:** BMC Health Services Research
+* **Frontiers:** Frontiers in Energy Research.
+* **Nature:** BMC Health Services Research, Scientific Reports.
+* **PLOS:** PLOS One, PLOS Water.
+* **World Scientific:** International Journal of Information Technology and Decision Making.
 * **Miscellaneous:** The R Journal, Canadian Journal of Civil Engineering, Jordanian Journal of
 Computers and Information Technology, Computers, Materials & Continua, PLoS One, Journal
-of Applied Research and Technology, Engineering and Applied Science Research.
+of Applied Research and Technology, Engineering and Applied Science Research, Open Physics, Karbala International Journal of Modern Science,
+F1000 Research, Journal of Sustainability Science and Management, Journal of Harbin Institute of Technology.
+* **News Articles/Magazines:** REVE (Wind Energy and Electric Vehicle Magazine).
 
 ## Education
 
