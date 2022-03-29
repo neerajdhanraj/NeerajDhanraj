@@ -10,6 +10,7 @@ permalink: /publication/
 
 ## JCR Articles
 
+
 ### 2022
 
 * Tao, H., **Bokde N.**, et al. (2022). Groundwater level prediction with machine and deep learning: a comprehensive review. _Neurocomputing_ (IF 5.719). 489, 271-308. 
