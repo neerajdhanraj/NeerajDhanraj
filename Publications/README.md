@@ -13,7 +13,8 @@ permalink: /publication/
 
 ### 2022
 
-* Tao, H., **Bokde N.**, et al. (2022). Groundwater level prediction with machine and deep learning: a comprehensive review. _Neurocomputing_ (IF 5.719). 489, 271-308. 
+* Tao, H., **Bokde N.**, et al. (2022). Groundwater level prediction with machine and deep learning: a comprehensive review. _Neurocomputing_ (IF 5.719). 489, 271-308.
+`Review` `Deep Learning` 
 * Naik B., Hashmi M. F., Geem Z. W., and **Bokde N.** (2022). DeepPlayer-Track: Player and Referee Tracking with Jersey Color Recognition in Soccer. _IEEE Access_ (IF 4.098), Accepted. DOI: 10.1109/ACCESS.2022.3161441
 * Dandu S., Kumar V., Sengupta J., and **Bokde N.** (2022). Performance Analysis of Multilayer Coil Based MI Waveguide Communication System. _Computers, Materials Continua_ (IF 3.780), Accepted.
 
