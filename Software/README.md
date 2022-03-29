@@ -22,8 +22,6 @@ permalink: /software/
 #### Publication/Manual
 * Bokde N., Asencio-Cortés G., Martínez-Alvarez F., and Kulat K. D. (2017). [PSF: Introduction to R Package for Pattern Sequence Based Forecasting Algorithm](https://journal.r-project.org/archive/2017/RJ-2017-021/index.html). _The R Journal_ (IF 3.984), 9(1), 324-333. 
 
-----
-
 
 ### 2. imputeTestbench: Test Bench for the Comparison of Imputation Methods
 * Provides a test bench for the comparison of missing data imputation methods in uni-variate time series.
@@ -34,7 +32,6 @@ permalink: /software/
 * [https://cran.r-project.org/package=imputeTestbench](https://cran.r-project.org/package=imputeTestbench)
 #### Publication/Manual
 * **Bokde N.**, Kulat K. D., Beck M. W., and Asencio Cortés G. (2018). [R package imputeTestbench to compare imputations methods for univariate time series](https://journal.r-project.org/archive/2018/RJ-2018-024/index.html). _The R Journal_ (IF 3.984), 10(1), 208-233.
-----
 
 
 ### 3. ForecastTB: Test Bench for the Comparison of Forecast Methods
@@ -48,7 +45,7 @@ permalink: /software/
 * [Shiny App](https://psfonline.shinyapps.io/ForeCastTB/?_ga=2.245185158.2036765493.1628790300-1082146698.1628790300)
 #### Publication/Manual
 * **Bokde N.**, Yaseen Z. M. and Andresen G. B. (2020). [ForecastTB - An R Package as a Test-bench for Time Series Forecasting: Application of Wind Speed and Solar Radiation Modeling](https://www.mdpi.com/1996-1073/13/10/2578). _Energies_ (IF 3.004), 13(10), 2578.
-----
+
 
 ### 4. CleanTS: Testbench for Univariate Time Series Cleaning
 * A reliable and efficient tool for cleaning univariate time series data.
@@ -62,7 +59,7 @@ permalink: /software/
 * [Shiny App](https://mayur1009.shinyapps.io/cleanTS/)
 #### Publication/Manual
 * Under construction.
-----
+
 
 ### 5. GuessCompx: Empirically Estimates Algorithm Complexity
 * Make an empirical guess on the time and memory complexities of an algorithm or a function.
