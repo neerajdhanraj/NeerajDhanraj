@@ -59,8 +59,8 @@ menu:
     url:               /publication/
   - title:             Software and Tools
     url:               /software/
-#  - title:             Documentation
-#    url:               /docs/
+  - title:             News and Updates
+    url:               /news/
   - title:             About
     url:               /about/
 
