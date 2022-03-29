@@ -21,6 +21,7 @@ permalink: /software/
 * [https://cran.r-project.org/package=PSF](https://cran.r-project.org/package=PSF)
 #### Publication/Manual
 * Bokde N., Asencio-Cortés G., Martínez-Alvarez F., and Kulat K. D. (2017). [PSF: Introduction to R Package for Pattern Sequence Based Forecasting Algorithm](https://journal.r-project.org/archive/2017/RJ-2017-021/index.html). _The R Journal_ (IF 3.984), 9(1), 324-333. 
+
 ----
 
 
