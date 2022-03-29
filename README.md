@@ -1,13 +1,4 @@
 # Neeraj Dhanraj Bokde
----
-layout: page
-title: Biography
-description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-hide_description: true
-sitemap: false
-permalink: /biography/
----
 
 Originally from Nagpur, India, I am currently based in Aarhus, Denmark, where I work as a Postdoctoral Researcher in the Construction Automation and Information Technologies Group within the Department of Civil and Architectural Engineering at Aarhus University.
 
