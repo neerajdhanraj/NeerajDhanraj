@@ -25,6 +25,6 @@ Please feel free to contact. The contact details and other social media profiles
 * LinkedIn: [https://www.linkedin.com/in/neeraj-bokde-9680ba19/](https://www.linkedin.com/in/neeraj-bokde-9680ba19/)
 * GitHub: [https://github.com/neerajdhanraj](https://github.com/neerajdhanraj)
 * Orcid ID: [https://orcid.org/0000-0002-3493-9302](https://orcid.org/0000-0002-3493-9302)
-* Scopus: [http://www.scopus.com/inward/authorDetails.url?authorID=57148487500&partnerID=MN8TOARS](http://www.scopus.com/inward/authorDetails.url?authorID=57148487500&partnerID=MN8TOARS)
+* Scopus: [https://www.scopus.com/authid/detail.uri?authorId=57148487500](https://www.scopus.com/authid/detail.uri?authorId=57148487500)
 * Publons: [https://publons.com/researcher/1592857/neeraj-dhanraj-bokde](https://publons.com/researcher/1592857/neeraj-dhanraj-bokde)
 
