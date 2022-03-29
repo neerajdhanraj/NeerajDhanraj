@@ -10,8 +10,17 @@ permalink: /publication/
 
 ## JCR Articles
 
+### 2022
+
+* Tao, H., **Bokde N.**, et al. (2022). Groundwater level prediction with machine and deep learning: a comprehensive review. _Neurocomputing_ (IF 5.719). 489, 271-308. 
+* Naik B., Hashmi M. F., Geem Z. W., and **Bokde N.** (2022). DeepPlayer-Track: Player and Referee Tracking with Jersey Color Recognition in Soccer. _IEEE Access_ (IF 4.098), Accepted. DOI: 10.1109/ACCESS.2022.3161441
+* Dandu S., Kumar V., Sengupta J., and **Bokde N.** (2022). Performance Analysis of Multilayer Coil Based MI Waveguide Communication System. _Computers, Materials Continua_ (IF 3.780), Accepted.
+
 ### 2021
 
+* Sharma A., Dongre S., Gupta R., Pandey P., and **Bokde N.** (2021). Partitioning of Water Distribution Network Accounting Existing Valves. _Computer Modeling in Engineering and Sciences_ (IF 1.593). 130(3), 1-23.
+* Hashmi M. F., Ashish B. K., Chaitanya P., Keskar A. G., Salih S., and **Bokde N.** (2021). GaitVision: Pattern Recognition based Gait Recognition. _Complexity_ (IF 2.833), 2021, Article ID 1589716, 15.
+* Sawant M., Shende M., Feijoo A., and **Bokde N.** (2021). The State-of-the-art Progress in Cloud Detection, Identification, and Tracking Approaches: A Systematic Review. _Energies_ (IF 3.004). 14(23), 8119.
 * Paliwal V., Ghare A., Mirajkar A., **Bokde N.**, and Yaseen Z. (2021). Proposition of New Metaphor-Less Algorithms for Reservoir Operation. _Complexity_ (IF 2.833), 2021, Article ID
 6642986, 11.
 * Sawant M., Thakare S., Rao P., Feijoo A., and **Bokde N.** (2021). A review on state-of-the-art reviews in wind turbine and wind farms related topics. _Energies_ (IF 3.004). 14(8), 2041.
@@ -99,7 +108,7 @@ routing algorithm. In _Recent Advances in Electronics & Computer Engineering (RA
 
 ## Book Chapters
 * Patil, J., **Bokde, N.**, Mishra, S., and Kulat, K. D. (2019) PSF based spectrum occupancy prediction in cognitive radio. In _Advanced Engineering Optimization Through Intelligent Techniques, Springer Nature Singapore._
-* * **Bokde, N.**, Wakpanjar, A., Kulat, K. D., and Feijoo A. (2018). Robust performance of PSF method over outliers and random patterns in univariate time series forecasting. In _Computer Science Advances: Research and Applications._ 
+* **Bokde, N.**, Wakpanjar, A., Kulat, K. D., and Feijoo A. (2018). Robust performance of PSF method over outliers and random patterns in univariate time series forecasting. In _Computer Science Advances: Research and Applications._ 
 * Gupta, A., Satpute, V. R., Kulat, K. D., and **Bokde, N.** (2016). Real-Time Abandoned Object Detection Using Video Surveillance. In _Proceedings of the International Conference on Recent Cognizance in Wireless Communication & Image Processing (pp. 837-843). Springer, New Delhi._
 
 
