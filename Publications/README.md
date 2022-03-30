@@ -126,4 +126,4 @@ routing algorithm. In _Recent Advances in Electronics & Computer Engineering (RA
 * **Bokde, N.**, Beck M. W. (2016). imputeTestbench: Testbench for Missing Data Imputing Models/Methods Comparison. URL _https://CRAN.Rproject.org/package=imputetestbench_. R
 package version, 3.0.1.
 * **Bokde, N.** (2016). imputePSF: Impute Missing Data in Time Series Data with PSF Based Method. URL _https://CRAN.Rproject.org/package=imputePSF_. R package version, 0.1.0.
-* Bokde, N. (2016). PredictTestbench: Testbench for Comparison of Data Prediction Models. URL _https://CRAN.Rproject.org/package=Predicttestbench_. R package version, 1.1.3.
+* **Bokde, N.** (2016). PredictTestbench: Testbench for Comparison of Data Prediction Models. URL _https://CRAN.Rproject.org/package=Predicttestbench_. R package version, 1.1.3.
