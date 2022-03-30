@@ -9,16 +9,20 @@ permalink: /eduexp/
 ---
 ## Experience
 
-### ![AU_LOGO](https://user-images.githubusercontent.com/10669836/134785307-902c66e4-a553-4b6c-84dc-7bc2acc04bc3.png)Postdoctoral Researcher - Data Science and Digital Twins
 #### August 2021 - Present
+
+### ![AU_LOGO](https://user-images.githubusercontent.com/10669836/134785307-902c66e4-a553-4b6c-84dc-7bc2acc04bc3.png) Postdoctoral Researcher - Data Science and Digital Twins
+
 [Department of Civil and Architectural Engineering](https://cae.au.dk/en/), 
 
 (_[Construction Automation and Information Technologies Group](https://cae.au.dk/en/research/key-areas-in-research-and-development/design-and-construction/construction-automation-and-information-technologies/)_),
 
 [Aarhus University, Aarhus, Denmark](https://international.au.dk/).
 
-### ![AU_LOGO](https://user-images.githubusercontent.com/10669836/134785307-902c66e4-a553-4b6c-84dc-7bc2acc04bc3.png)Postdoctoral Researcher - Data Science and Renewable Energy
+---
+
 #### August 2019 - August 2021
+### ![AU_LOGO](https://user-images.githubusercontent.com/10669836/134785307-902c66e4-a553-4b6c-84dc-7bc2acc04bc3.png)Postdoctoral Researcher - Data Science and Renewable Energy
 [Department of Mechanical and Production Engineering](https://mpe.au.dk/en/),
 
 (_[Renewable Energy and Thermodynamics Group](https://mpe.au.dk/en/research/key-areas-in-research-and-development/fluid-mechanics-thermodynamics-and-energy-systems/renewable-energy-and-thermodynamics/)_),
