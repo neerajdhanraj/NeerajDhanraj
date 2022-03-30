@@ -90,9 +90,12 @@ Using Soft Computing Techniques. _Engineering, Technology & Applied Science Rese
 * Gupta, A., Mishra, S., **Bokde, N.**, and Kulat, K. (2016). Need of Smart Water Systems In India. _International Journal of Applied Engineering Research_, 11(4), 2216-2223. (Scopus indexed).
 
 ## Conference Articles
+
+### 2021
+* **Bokde N.**, Johansen K.,Wandahl S., and Teizer J. (2021). ADigital Twin Framework For Equipment Emissions FromConstruction Site Operations. In _Proceedings of 21st International Conference on Construction Application of Virtual Reality (pp. 31-42). Middlesbrough, UK: Teesside University Press_.
+
 ### 2019
-* Villanueva D., Feijoo A., and **Bokde N.** (2019). A Strategy for Power Generation Optimization in a Hybrid Wind-BESS Power Plant. In _International Conference on Renewable
-Energy and Environment Engineering, Munich, Germany_.
+* Villanueva D., Feijoo A., and **Bokde N.** (2019). A Strategy for Power Generation Optimization in a Hybrid Wind-BESS Power Plant. In _International Conference on Renewable Energy and Environment Engineering, Munich, Germany_.
 * Durán P., Villanueva D., Feijoo A., and **Bokde N.** (2019). Interior Point Algorithm Applied to the Optimization of the Power Supplied by a Wind Farm with a BESS. In _International Conference on Renewable Energy and Environment Engineering, Munich, Germany._
 * Patil, J., **Bokde, N.**, Mishra, S., and Kulat, K. D. (2019) A segmentation approach to optimize spectrum allocation for secondary users in a cognitive network. In _International Conference on Computing, Communication and Networking Technologies, IIT Kanpur._
 
