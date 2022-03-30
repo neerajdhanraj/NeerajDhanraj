@@ -10,7 +10,6 @@ permalink: /eduexp/
 ## Experience
 
 #### August 2021 - Present
-
 ### ![AU_LOGO](https://user-images.githubusercontent.com/10669836/134785307-902c66e4-a553-4b6c-84dc-7bc2acc04bc3.png) Postdoctoral Researcher - Data Science and Digital Twins
 
 [Department of Civil and Architectural Engineering](https://cae.au.dk/en/), 
@@ -19,27 +18,35 @@ permalink: /eduexp/
 
 [Aarhus University, Aarhus, Denmark](https://international.au.dk/).
 
----
+-----
 
 #### August 2019 - August 2021
-### ![AU_LOGO](https://user-images.githubusercontent.com/10669836/134785307-902c66e4-a553-4b6c-84dc-7bc2acc04bc3.png)Postdoctoral Researcher - Data Science and Renewable Energy
+### ![AU_LOGO](https://user-images.githubusercontent.com/10669836/134785307-902c66e4-a553-4b6c-84dc-7bc2acc04bc3.png) Postdoctoral Researcher - Data Science and Renewable Energy
 [Department of Mechanical and Production Engineering](https://mpe.au.dk/en/),
 
 (_[Renewable Energy and Thermodynamics Group](https://mpe.au.dk/en/research/key-areas-in-research-and-development/fluid-mechanics-thermodynamics-and-energy-systems/renewable-energy-and-thermodynamics/)_),
 
 [Aarhus University, Aarhus, Denmark](https://international.au.dk/).
 
-### ![VNIT_LOGO](https://user-images.githubusercontent.com/10669836/134785347-b3935408-9b04-4232-9e1b-929db6880ac1.png)Doctoral Researcher - Data Science 
+---
+
 #### July 2014 - June 2019
+### ![VNIT_LOGO](https://user-images.githubusercontent.com/10669836/134785347-b3935408-9b04-4232-9e1b-929db6880ac1.png) Doctoral Researcher - Data Science 
+
 [Department of Electronics and Communication Engineering](https://vnit.ac.in/ece/),
 
 [Visvesvaraya National Institute of Technology, Nagpur, Maharashtra, India.](https://vnit.ac.in/)
 
-### ![download](https://user-images.githubusercontent.com/10669836/134785592-5c941240-68bd-4bff-9b06-2ed49298f873.png)Research Inetrn
+---
+
 #### January 2014 - June 2014
+### ![download](https://user-images.githubusercontent.com/10669836/134785592-5c941240-68bd-4bff-9b06-2ed49298f873.png) Research Inetrn
+
 Analytical Instrumentaion Devision,
 
 [National Environmental Engineering and Research Institute, Nagpur, Maharashtra, India.](https://www.neeri.res.in/)
+
+---
 
 ## Volunteer Experience
 
@@ -48,15 +55,21 @@ Analytical Instrumentaion Devision,
 * [Automated (AutoML) tool to clean univariate time series at microscales](https://summerofcode.withgoogle.com/projects/#4626948166254592) (Year: 2021)
 * [Add Robust Betas to Performance Analytics](https://summerofcode.withgoogle.com/projects/#5412619369840640) (Year: 2021)
 
+---
+
 ### Statistical package contributor
 * **R packages:** [PSF](https://cran.r-project.org/package=PSF), [imputeTestbench](https://cran.r-project.org/package=imputeTestbench), [imputePSF](https://cran.r-project.org/package=imputePSF), [PredictTestbench](http://crantastic.org/packages/PredictTestbench), [decomposedPSF](https://cran.r-project.org/package=decomposedPSF), [WindCurves](https://cran.r-project.org/package=WindCurves), [GuessCompx](https://cran.r-project.org/package=GuessCompx), [Jaya](https://cran.r-project.org/package=Jaya), [ForecastTB](https://cran.r-project.org/package=ForecastTB), [CleanTS](https://cran.r-project.org/package=cleanTS).
 * **Python Package:** [PSF](https://pypi.org/project/PSF-Py/)
+
+---
 
 ### Editorship of International Journals
 * Energies (MDPI, SI: Data-Driven Approaches for Environmental Sustainability, Guest Editor)
 * Data in Brief (Elsevier, Editorial Board Member)
 * Frontiers in Energy Research (Frontiers, Review Editor)
 * Information (MDPI, Topic Editor and Guest Editor)
+
+---
 
 ### Reviewership of International Journals
 * **Elsevier:** Computer Methods and Programs in Biomedicine, Journal of Hazardous Materials,
@@ -98,16 +111,22 @@ of Applied Research and Technology, Engineering and Applied Science Research, Op
 F1000 Research, Journal of Sustainability Science and Management, Journal of Harbin Institute of Technology.
 * **News Articles/Magazines:** REVE (Wind Energy and Electric Vehicle Magazine).
 
+---
+
 ## Education
 
-### ![VNIT_LOGO](https://user-images.githubusercontent.com/10669836/134785353-16c68fdb-cb49-4a86-85cc-cd7c3ccd4546.png)Ph.D., Data Science (2019)
+### ![VNIT_LOGO](https://user-images.githubusercontent.com/10669836/134785353-16c68fdb-cb49-4a86-85cc-cd7c3ccd4546.png) Ph.D., Data Science (2019)
 [Visvesvaraya National Institute of Technology, Nagpur, Maharashtra, India](https://vnit.ac.in/)
 
-### ![BITS_LOGO](https://user-images.githubusercontent.com/10669836/134785358-070831b1-8fd1-41b6-9d81-edd11e6d9ce1.png)M.E., Embedded Systems (2014)
+---
+
+### ![BITS_LOGO](https://user-images.githubusercontent.com/10669836/134785358-070831b1-8fd1-41b6-9d81-edd11e6d9ce1.png) M.E., Embedded Systems (2014)
 [Birla Institute of Technology and Science, Pilani, Rajasthan, India](https://www.bits-pilani.ac.in/)
 
-### ![SVPCLOGO](https://user-images.githubusercontent.com/10669836/134785471-5c0cf7d9-3263-43ff-bea8-f2f8f54e05cc.jpg)B.E., Electronics and Tele-communication Engineering (2011)
+---
+
+### ![SVPCLOGO](https://user-images.githubusercontent.com/10669836/134785471-5c0cf7d9-3263-43ff-bea8-f2f8f54e05cc.jpg) B.E., Electronics and Tele-communication Engineering (2011)
 [St. Vincent Pallotti College of Engineering and Technology, Nagpur, India](https://www.stvincentngp.edu.in/)
 
-
+---
 
