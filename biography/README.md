@@ -2,7 +2,7 @@
 layout: page
 title: Biography
 description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
+  Biography of Dr. Neeraj Dhanraj Bokde
 hide_description: true
 sitemap: false
 permalink: /biography/
