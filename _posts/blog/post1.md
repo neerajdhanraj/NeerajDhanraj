@@ -1,7 +1,16 @@
 ---
-layout: blog
-title: 7 fun facts about Indian Food
-date: 2020-09-27T16:02:02.302Z
+layout: page
+title: Welcome
+description: >
+  The personal website of Dr. Neeraj Dhanraj Bokde
+hide_description: true
+last_modified_at: 2018-08-03
+no_link_title: false 
+no_excerpt: false 
+hide_image: false
+cover: false
+sitemap: false
+permalink: 
 ---
 Here are the 7 fun facts about Indian Food;
 
