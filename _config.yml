@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Blog
-    url:               _posts/blog/
+    url:               /_posts/blog/
   - title:             Biography
     url:               /biography/
   - title:             Education and Experience
