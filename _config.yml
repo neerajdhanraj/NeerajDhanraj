@@ -49,8 +49,6 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Welcome
-    url:               /blog/
   - title:             Biography
     url:               /biography/
   - title:             Education and Experience
@@ -144,10 +142,10 @@ defaults:
       sitemap:         false
 
   # # You can use the following to enable comments on all posts.
-   - scope:
-       type:            posts
-     values:
-       comments:        true
+   #- scope:
+   #    type:            posts
+   #  values:
+   #    comments:        true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
