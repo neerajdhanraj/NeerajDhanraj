@@ -49,8 +49,6 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Welcome
-    url:               
   - title:             Biography
     url:               /biography/
   - title:             Education and Experience
@@ -61,6 +59,8 @@ menu:
     url:               /software/
   - title:             News and Updates
     url:               /news/
+  - title:             Blog
+    url:               
   - title:             About
     url:               /about/
 
