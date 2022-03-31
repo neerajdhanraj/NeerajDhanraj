@@ -15,22 +15,15 @@ related_posts:
 sitemap: false
 ---
 
-Hydejack offers a few additional features to markup your markdown.
-Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,
-so that your content remains compatible with other Jekyll themes.
+## March 2022
 
-## Large Tables
-
-| Default aligned |Left aligned| Center aligned  | Right aligned  | Default aligned |Left aligned| Center aligned  | Right aligned  | Default aligned |Left aligned| Center aligned  | Right aligned  | Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|:-----------|:---------------:|---------------:|-----------------|:-----------|:---------------:|---------------:|-----------------|:-----------|:---------------:|---------------:|-----------------|:-----------|:---------------:|---------------:|
-| First body part |Second cell | Third cell      | fourth cell    | First body part |Second cell | Third cell      | fourth cell    | First body part |Second cell | Third cell      | fourth cell    | First body part |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | **strong**      | baz            | Second line     |foo         | **strong**      | baz            | Second line     |foo         | **strong**      | baz            | Second line     |foo         | **strong**      | baz            |
-| Third line      |quux        | baz             | bar            | Third line      |quux        | baz             | bar            | Third line      |quux        | baz             | bar            | Third line      |quux        | baz             | bar            |
-| Second body     |            |                 |                | Second body     |            |                 |                | Second body     |            |                 |                | Second body     |            |                 |                |
-| 2 line          |            |                 |                | 2 line          |            |                 |                | 2 line          |            |                 |                | 2 line          |            |                 |                |
-| Footer row      |            |                 |                | Footer row      |            |                 |                | Footer row      |            |                 |                | Footer row      |            |                 |                |
-{:.scroll-table}
-
+* Contributors are invited to Google Summer of Code (GSoC) - 2022 !!!
+  * There are two project proposals related to time series analysis submitted in GSOC-2022 with the organization, '[R Project for Statistical Computing](https://github.com/rstats-gsoc/gsoc2022/wiki)'.
+  * The descriptions of these projects are as follows:
+     * [imputeTestbenchG: imputation testbench for Genomics data](https://github.com/rstats-gsoc/gsoc2022/wiki/imputeTestbenchG%3A-imputation-testbench-for-Genomics-data) (Co-mentor: Mogens Sandø Lund, Director, and Head of Center for Quantitative Genetics and Genomics, Aarhus University, Denmark).
+     * [VedicDateTime](https://github.com/rstats-gsoc/gsoc2022/wiki/VedicDateTime) (Co-mentor: TBA).
+  * The structure, benefits, and other details of the GSoC can be found at: https://developers.google.com/open-source/gsoc/resources/downloads/GSoC2021Flyer.pdf
+  * Contributors are welcome to participate in GSoC-2022 by submitting the tests provided on the respective project wiki page. 
 
 ## Code blocks
 
