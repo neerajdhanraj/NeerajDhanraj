@@ -12,7 +12,7 @@ Originally from Nagpur, India, I am currently based in Aarhus, Denmark, where I 
 
 I was educated and trained in India and Denmark in engineering, data science, renewable energy, and computer science. At the crossroads of these fields, my research interests lie within the general area of theoretical and applied data science, time series analysis view on industrial applications such as in digital twins, artificial intelligence, statistical software development, visualization techniques, and predictive analysis; and on exploring the scope of automation of the machine learning and data science methodologies.
 
-![s3](https://user-images.githubusercontent.com/10669836/134778693-f4c2acf8-0124-44db-af3f-c11f8076f8eb.jpg)
+![s3](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/50d3de9cebbf239009c294d1e987c61f9e8fcddf/images/s3.jpg)
 
 This website is new and updating on regular interval. Meanwhile you will find my description, codes, publication, and documents on my other social platforms.
 {:.note}
