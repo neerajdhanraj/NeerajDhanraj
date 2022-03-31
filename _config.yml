@@ -298,17 +298,6 @@ hydejack:
 # ----------------------------------------------------------------------------------------
 
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "_posts/blog"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
-
   featured_categories:
     permalink:         /:name/
     output:            true
