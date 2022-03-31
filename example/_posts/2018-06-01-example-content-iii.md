@@ -15,7 +15,7 @@ related_posts:
 sitemap: false
 ---
 
-## March 2022
+## Google Summer of Code (GSoC) - 2022
 
 * Contributors are invited to Google Summer of Code (GSoC) - 2022 !!!
   * There are two project proposals related to time series analysis submitted in GSOC-2022 with the organization, '[R Project for Statistical Computing](https://github.com/rstats-gsoc/gsoc2022/wiki)'.
