@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Example Content III
+title: Google Summer of Code (GSoC) - 2022
 description: >
-  A page showing Hydejack-specific markdown content.
+  Contributors are invited to Google Summer of Code (GSoC) - 2022!!!
 image: 
   path: /assets/img/blog/example-content-iii.jpg
   srcset:
@@ -24,67 +24,6 @@ sitemap: false
      * [VedicDateTime](https://github.com/rstats-gsoc/gsoc2022/wiki/VedicDateTime) (Co-mentor: TBA).
   * The structure, benefits, and other details of the GSoC can be found at: https://developers.google.com/open-source/gsoc/resources/downloads/GSoC2021Flyer.pdf
   * Contributors are welcome to participate in GSoC-2022 by submitting the tests provided on the respective project wiki page. 
-
-## Code blocks
-
-~~~js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those
-// arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-~~~
-
-
-## Math
-Lorem ipsum $$ f(x) = x^2 $$.
-
-$$
-\begin{aligned}
-  \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
-            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
-            &= (x_1, \ldots, x_n)
-               \left(\begin{array}{ccc}
-                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
-                 \vdots          & \ddots & \vdots         \\
-                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
-               \end{array}\right)
-               \left(\begin{array}{c}
-                 y_1    \\
-                 \vdots \\
-                 y_n
-               \end{array}\right)
-\end{aligned}
-$$
-
-
-## Message boxes
-**NOTE**: You can add a message box.
-{:.message}
-
-## Large text
-You can add large text.
-{:.lead}
-
-## Large images
-![Full-width image](https://placehold.it/800x100){:.lead data-width="800" data-height="100"}
-
-## Captions to images
-![Full-width image](https://placehold.it/800x100){:.lead data-width="800" data-height="100"}
-A caption to an image.
-{:.figure}
-
-## Large quotes
-> You can make a quote "pop out".
-{:.lead}
-
-## Faded text
-I'm faded, faded, faded.
-{:.faded}
 
 
 [mm]: https://guides.github.com/features/mastering-markdown/
