@@ -49,9 +49,9 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             Welcome
+    url:               /blog/
   - title:             Biography
-    url:               /biography/
-  - title:             Biography1
     url:               /biography/
   - title:             Education and Experience
     url:               /eduexp/
