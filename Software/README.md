@@ -4,6 +4,9 @@ title: Software and Tools
 description: >
   A list of software contributed by Dr. Neeraj Dhanraj Bokde
 hide_description: true
+accent_image: 
+  background: url('/images/kailash.jpg') center/cover
+  overlay: false
 sitemap: false
 permalink: /software/
 ---
