@@ -19,4 +19,4 @@ permalink: /news/
   * Contributors are welcome to participate in GSoC-2022 by submitting the tests provided on the respective project wiki page. 
 
 
-![SeemaDen](https://github.com/neerajdhanraj/NeerajDhanraj/blob/081c4acb79b0c004a666d73b6ea1a3f61b9481be/images/SeemaDen.gif)
+![SeemaDen](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/50d3de9cebbf239009c294d1e987c61f9e8fcddf/images/SeemaDen.gif)
