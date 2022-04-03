@@ -46,6 +46,11 @@ permalink: /software/
 #### CRAN
 * [https://cran.r-project.org/package=ForecastTB](https://cran.r-project.org/package=ForecastTB)
 * [Shiny App](https://psfonline.shinyapps.io/ForeCastTB/?_ga=2.245185158.2036765493.1628790300-1082146698.1628790300)
+
+<iframe src="https://mayur1009.shinyapps.io/cleanTS/" width="100%" height="700px"></iframe>
+Please click on three parallel lines on left-top of the Shiny panel for better visualization.
+{:.note}
+
 #### Publication/Manual
 * **Bokde N.**, Yaseen Z. M. and Andresen G. B. (2020). [ForecastTB - An R Package as a Test-bench for Time Series Forecasting: Application of Wind Speed and Solar Radiation Modeling](https://www.mdpi.com/1996-1073/13/10/2578). _Energies_ (IF 3.004), 13(10), 2578.
 
@@ -62,7 +67,7 @@ permalink: /software/
 * [Shiny App](https://mayur1009.shinyapps.io/cleanTS/)
 
 <iframe src="https://mayur1009.shinyapps.io/cleanTS/" width="100%" height="700px"></iframe>
-Please click on three parallel lines on left-top of the Shiny panel.
+Please click on three parallel lines on left-top of the Shiny panel for better visualization.
 {:.note}
 
 #### Publication/Manual
