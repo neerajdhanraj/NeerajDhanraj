@@ -49,7 +49,7 @@ permalink: /software/
 * [https://cran.r-project.org/package=ForecastTB](https://cran.r-project.org/package=ForecastTB)
 * [Shiny App](https://psfonline.shinyapps.io/ForeCastTB1/)
 
-<iframe src="https://psfonline.shinyapps.io/ForeCastTB1/" width="100%" height="400px"></iframe>
+<iframe src="https://psfonline.shinyapps.io/ForeCastTB1/" width="100%" height="600px"></iframe>
 Please click on three parallel lines on left-top of the Shiny panel for better visualization.
 {:.note}
 
