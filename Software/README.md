@@ -56,6 +56,7 @@ Please click on three parallel lines on left-top of the Shiny panel for better v
 #### Publication/Manual
 * **Bokde N.**, Yaseen Z. M. and Andresen G. B. (2020). [ForecastTB - An R Package as a Test-bench for Time Series Forecasting: Application of Wind Speed and Solar Radiation Modeling](https://www.mdpi.com/1996-1073/13/10/2578). _Energies_ (IF 3.004), 13(10), 2578.
 
+---
 
 ### 4. CleanTS: Testbench for Univariate Time Series Cleaning
 * A reliable and efficient tool for cleaning univariate time series data.
@@ -75,6 +76,7 @@ Please click on three parallel lines on left-top of the Shiny panel for better v
 #### Publication/Manual
 * Under construction.
 
+---
 
 ### 5. GuessCompx: Empirically Estimates Algorithm Complexity
 * Make an empirical guess on the time and memory complexities of an algorithm or a function.
@@ -86,6 +88,7 @@ Please click on three parallel lines on left-top of the Shiny panel for better v
 #### Publication/Manual
 * Agenis-Nevers M., **Bokde N.**, Yaseen Z., and Shende M. (2020). [An empirical estimation for time and memory algorithm complexities: Newly developed R package](https://link.springer.com/article/10.1007/s11042-020-09471-8). _Multimedia Tools and Applications_ (IF 2.757). (https://doi.org/10.1007/s11042-020-09471-8)
 
+---
 
 ### 6. Jaya: a Gradient-Free Optimization Algorithm
 * Maximization or Minimization of a fitness function using Jaya Algorithm (JA).
@@ -100,6 +103,7 @@ Please click on three parallel lines on left-top of the Shiny panel for better v
 #### Publication/Manual
 * **Bokde N.**, and Shende M. (2020). [A guide to Jaya Package](https://cran.rstudio.com/web/packages/Jaya/vignettes/A_guide_to_JA.html). 
 
+---
 
 ### 7. WindCurves: Tool to Fit Wind Turbine Power Curves
 * Provides a tool to fit and compare the wind turbine power curves with successful curve fitting techniques.
@@ -112,6 +116,7 @@ Please click on three parallel lines on left-top of the Shiny panel for better v
 #### Publication/Manual
 * **Bokde N.**, Feijoo A., and Villanueva D. (2018). [Wind turbine power curves based on Weibull cumulative distribution function](https://www.mdpi.com/2076-3417/8/10/1757). _Applied Sciences_ (Invited/Feature paper) (IF 2.679), 8(10), 1757.
 
+---
 
 ### 8. decomposedPSF: Time Series Prediction with PSF and Decomposition Methods (EMD and EEMD)
 * Predict future values with hybrid combinations of Pattern Sequence based Forecasting (PSF), Autoregressive Integrated Moving Average (ARIMA), Empirical Mode Decomposition (EMD) and Ensemble Empirical Mode Decomposition (EEMD) methods based hybrid methods.
@@ -122,6 +127,7 @@ Please click on three parallel lines on left-top of the Shiny panel for better v
 * **Bokde N.**, Feijoo A., and Kulat K. (2018). [Analysis of Differencing and Decomposition prepossessing methods for wind speed prediction](https://www.sciencedirect.com/science/article/pii/S1568494618304290?casa_token=i-1txOkUNcMAAAAA:laMUdOcRv7mPGy4YpFGvOsNL4CjW20MELiGunz9v5zmi-Di8OZqZtdq6Elol6BIdBWY5QdY). _Applied Soft Computing_ (IF 6.725), 71(), 926-938.
 * **Bokde N.**, Tranberg B., and Andresen G. B. (2021). [Short-term CO2 emissions forecasting based on decomposition approaches and its impact on electricity market scheduling](https://www.sciencedirect.com/science/article/pii/S0306261920314926). _Applied Energy_ (IF 9.746). 281, 116061. (Preprint: https://arxiv.org/pdf/2003.10868).
 
+---
 
 ### 9. imputePSF: Impute Missing Data in Time Series Data with PSF Based Method
 * Imputes the missing values in time series data with PSF algorithm based approach.
@@ -129,5 +135,5 @@ Please click on three parallel lines on left-top of the Shiny panel for better v
 #### CRAN
 * [https://cran.r-project.org/package=imputePSF](https://cran.r-project.org/package=imputePSF)
 
-
+---
 
