@@ -74,7 +74,7 @@ Please click on three parallel lines on left-top of the Shiny panel for better v
 {:.note}
 
 #### Publication/Manual
-* Under construction.
+* **Bokde N.**, Yaseen Z. M. and Andresen G. B. (2022). [cleanTS: Automated (AutoML) Tool to Clean Univariate Time Series at Microscales](https://arxiv.org/abs/2110.11815). _arXiv_.
 
 ---
 
