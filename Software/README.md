@@ -47,9 +47,9 @@ permalink: /software/
 ![w3](https://user-images.githubusercontent.com/10669836/134778685-38cca478-aef2-49d7-ad48-a57693cf92c3.PNG)
 #### CRAN
 * [https://cran.r-project.org/package=ForecastTB](https://cran.r-project.org/package=ForecastTB)
-* [Shiny App](https://psfonline.shinyapps.io/ForeCastTB/?_ga=2.245185158.2036765493.1628790300-1082146698.1628790300)
+* [Shiny App](https://psfonline.shinyapps.io/ForeCastTB1/)
 
-<iframe src="https://psfonline.shinyapps.io/ForeCastTB/" width="100%" height="400px"></iframe>
+<iframe src="https://psfonline.shinyapps.io/ForeCastTB1/" width="100%" height="400px"></iframe>
 Please click on three parallel lines on left-top of the Shiny panel for better visualization.
 {:.note}
 
