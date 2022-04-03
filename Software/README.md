@@ -60,6 +60,11 @@ permalink: /software/
 #### CRAN
 * [https://cran.r-project.org/package=cleanTS](https://cran.r-project.org/package=cleanTS)
 * [Shiny App](https://mayur1009.shinyapps.io/cleanTS/)
+
+<iframe src="https://mayur1009.shinyapps.io/cleanTS/" width="100%" height="700px"></iframe>
+Please click on three parallel lines on left-top of the Shiny panel.
+{:.note}
+
 #### Publication/Manual
 * Under construction.
 
