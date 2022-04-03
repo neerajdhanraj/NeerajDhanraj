@@ -17,4 +17,4 @@ I was educated and trained in India and Denmark in engineering, data science, re
 This website is new and updating on regular interval. Meanwhile you will find my description, codes, publication, and documents on my other social platforms.
 {:.note}
 
-
+<iframe src="http://trainingidn.shinyapps.io/OxShef_shiny_tutorials_shiny101/" width="100%" height="400px"></iframe>
