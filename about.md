@@ -21,6 +21,8 @@ Please feel free to contact. The contact details and other social media profiles
 * Personal Website: [https://www.neerajbokde.in](https://www.neerajbokde.in)
 * Official Website: [https://pure.au.dk/portal/en/neerajdhanraj@mpe.au.dk](https://pure.au.dk/portal/en/neerajdhanraj@mpe.au.dk)
 * Google Scholar: [https://scholar.google.com/citations?user=N2kk4AQAAAAJ&hl=en](https://scholar.google.com/citations?user=N2kk4AQAAAAJ&hl=en)
+<iframe src="https://scholar.google.com/citations?user=N2kk4AQAAAAJ&hl=en" width="100%" height="200px"></iframe>
+
 * ResearchGate: [https://www.researchgate.net/profile/Neeraj-Bokde](https://www.researchgate.net/profile/Neeraj-Bokde)
 * LinkedIn: [https://www.linkedin.com/in/neeraj-bokde-9680ba19/](https://www.linkedin.com/in/neeraj-bokde-9680ba19/)
 * GitHub: [https://github.com/neerajdhanraj](https://github.com/neerajdhanraj)
