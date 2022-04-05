@@ -50,77 +50,80 @@ DOI: [10.1016/j.neucom.2022.03.014](https://doi.org/10.1016/j.neucom.2022.03.014
 
 ### 2019
 
-* Paliwal V., Ghare A., Mirajkar A., **Bokde N.**, and Feijoo A. (2019). Computer Modeling for the Operation Optimization of Mula Reservoir, Upper Godavari Basin, India, Using Jaya Algorithm. _Sustainability_ (IF 3.251), 12(1), 84.
+* Paliwal V., Ghare A., Mirajkar A., **Bokde N.**, and Feijoo A. (2019). Computer Modeling for the Operation Optimization of Mula Reservoir, Upper Godavari Basin, India, Using Jaya Algorithm. _Sustainability_ (IF 3.251), 12(1), 84. DOI: [10.3390/su12010084](https://doi.org/10.3390/su12010084) `Water Management` `Optimization`
 * Feijoo A., and **Bokde N.** (2019). A method for inducing Pearson correlation between two different wind speed series. _IEEE Power Engineering Letters_. In Revision.
-* **Bokde N.**, Feijoo A., Al-Ansari N., and Yaseen Z. (2019). A comparison between reconstruction methods for generation of synthetic time series applied to wind speed
-simulation. _IEEE Access_ (IF 4.098), 7, 135386-135398.
-* Tao S., Xu. Q., Feijóo A., Kuenzel S., and **Bokde N.** (2019). Integrated wind farm power curve and power curve distribution function considering wake effect and terrain gradient. _Energies_ (IF 3.004), 12(13), 2482.
-* **Bokde N.**, Feijoo A., Villanueva D., and Kulat K. (2019). A review on hybrid empirical mode decomposition models for wind speed and wind power prediction. _Energies_ (IF 3.004), 12(2), 254.
+* **Bokde N.**, Feijoo A., Al-Ansari N., and Yaseen Z. (2019). A comparison between reconstruction methods for generation of synthetic time series applied to wind speed simulation. _IEEE Access_ (IF 4.098), 7, 135386-135398. DOI: [10.1109/ACCESS.2019.2941826](https://doi.org/10.1109/ACCESS.2019.2941826) `Time Series Analysis` `Synthetic data`
+* Tao S., Xu. Q., Feijóo A., Kuenzel S., and **Bokde N.** (2019). Integrated wind farm power curve and power curve distribution function considering wake effect and terrain gradient. _Energies_ (IF 3.004), 12(13), 2482. DOI: [10.3390/en12132482](https://doi.org/10.3390/en12132482) `Energy`
+* **Bokde N.**, Feijoo A., Villanueva D., and Kulat K. (2019). A review on hybrid empirical mode decomposition models for wind speed and wind power prediction. _Energies_ (IF 3.004), 12(2), 254. DOI: [10.3390/en12020254](https://doi.org/10.3390/en12020254) `Review` `Energy` `Forecasting`
 
 ### 2018
 
-* **Bokde N.**, Feijoo A., Villanueva D., and Kulat K. (2018). A novel and alternative approach for direct and indirect wind power prediction methods. _Energies_ (Invited/Feature paper) (IF 3.004), 11(11), 2923.
-* **Bokde N.**, Feijoo A., and Villanueva D. (2018). Wind turbine power curves based on Weibull cumulative distribution function. _Applied Sciences_ (Invited/Feature paper) (IF 2.679), 8(10), 1757.
-* **Bokde N.**, Beck M. W., Martínez-Alvarez F., and Kulat K. D. (2018). A novel imputation methodology for time series based on pattern sequence forecasting. _Pattern Recognition Letters_ (IF 3.756), 116(), 88-96.
-* **Bokde N.**, Feijoo A., and Kulat K. (2018). Analysis of Differencing and Decomposition prepossessing methods for wind speed prediction. _Applied Soft Computing_ (IF 6.725), 71(), 926-938.
-* **Bokde N.**, Kulat K. D., Beck M. W., and Asencio Cortés G. (2018). R package imputeTestbench to compare imputations methods for univariate time series. _The R Journal_ (IF 3.984), 10(1), 208-233.
+* **Bokde N.**, Feijoo A., Villanueva D., and Kulat K. (2018). A novel and alternative approach for direct and indirect wind power prediction methods. _Energies_ (Invited/Feature paper) (IF 3.004), 11(11), 2923. DOI: [10.3390/en11112923](https://doi.org/10.3390/en11112923) `Energy` `Forecasting`
+* **Bokde N.**, Feijoo A., and Villanueva D. (2018). Wind turbine power curves based on Weibull cumulative distribution function. _Applied Sciences_ (Invited/Feature paper) (IF 2.679), 8(10), 1757. DOI: [10.3390/app8101757](https://doi.org/10.3390/app8101757) `Energy` `Curve Fitting`
+* **Bokde N.**, Beck M. W., Martínez-Alvarez F., and Kulat K. D. (2018). A novel imputation methodology for time series based on pattern sequence forecasting. _Pattern Recognition Letters_ (IF 3.756), 116(), 88-96. DOI: [10.1016/j.patrec.2018.09.020](https://doi.org/10.1016/j.patrec.2018.09.020) `Energy` `Time Series Analysis` `Imputation`
+* **Bokde N.**, Feijoo A., and Kulat K. (2018). Analysis of Differencing and Decomposition prepossessing methods for wind speed prediction. _Applied Soft Computing_ (IF 6.725), 71(), 926-938. DOI: [10.1016/j.asoc.2018.07.041](https://doi.org/10.1016/j.asoc.2018.07.041) `Energy` `Time Series Analysis` `Forecasting`
+* **Bokde N.**, Kulat K. D., Beck M. W., and Asencio Cortés G. (2018). R package imputeTestbench to compare imputations methods for univariate time series. _The R Journal_ (IF 3.984), 10(1), 208-233. DOI: [10.32614/RJ-2018-024](https://doi.org/10.32614/RJ-2018-024) `Time Series Analysis` `Imputation`
 
 ### 2017
 
-* Gupta A., **Bokde N.**, and Kulat K.D. (2017). Hybrid leakage management for water network using PSF algorithm and soft computing techniques. _Water Resources Management_ (IF
-3.517), 32(3), 1133-1151.
-* Gupta A., **Bokde N.**, Marathe D., and Kulat K. D. (2017). Optimization techniques for leakage management in urban water distribution networks. _Water Science and Technology: Water Supply_ (IF 1.275), 17(6), 1638-1652.
-* **Bokde N.**, Asencio-Cortés G., Martínez-Alvarez F., and Kulat K. D. (2017). PSF: Introduction to R Package for Pattern Sequence Based Forecasting Algorithm. _The R Journal_ (IF 3.984), 9(1), 324-333.
+* Gupta A., **Bokde N.**, and Kulat K.D. (2017). Hybrid leakage management for water network using PSF algorithm and soft computing techniques. _Water Resources Management_ (IF 3.517), 32(3), 1133-1151. DOI: [10.1007/s11269-017-1859-3](https://doi.org/10.1007/s11269-017-1859-3) `Water Management` `Time Series Analysis` `Forecasting`
+* Gupta A., **Bokde N.**, Marathe D., and Kulat K. D. (2017). Optimization techniques for leakage management in urban water distribution networks. _Water Science and Technology: Water Supply_ (IF 1.275), 17(6), 1638-1652. DOI: [10.2166/ws.2017.064](https://doi.org/10.2166/ws.2017.064) `Water Management` `Time Series Analysis` `Forecasting`
+* **Bokde N.**, Asencio-Cortés G., Martínez-Alvarez F., and Kulat K. D. (2017). PSF: Introduction to R Package for Pattern Sequence Based Forecasting Algorithm. _The R Journal_ (IF 3.984), 9(1), 324-333. DOI: [10.32614/RJ-2017-021](https://doi.org/10.32614/RJ-2017-021) `Time Series Analysis` `Forecasting`
 
+---
 
 ## Other Articles
 
-* Naganna, S. R., Beyaztas, B. H., **Bokde, N.**, & Armanuos, A. M. (2020). On the evaluation of the Gradient Tree Boosting model for groundwater level forecasting. _Knowledge-Based Engineering and Sciences_, 1(01), 48–57.
-* Gupta, A., **Bokde, N.**, Marathe, D., and Kulat K. (2018). A Novel Approach for Video based Fire Detection System using Spatial and Texture Analysis. _Indian Journal of Science and Technology_, 11(19). (Scopus indexed)
-* **Bokde, N.**, Gupta, A., and Kulat, K. (2017). Backward Elimination Approach of Regression Model to Decide the Road Safety Policies Across the States in India. _Indian Journal of Science and Technology_, 9(48). (Scopus indexed)
-* Gupta, A., **Bokde, N.**, Marathe, D., and Kulat, K. (2016). Leakage Reduction in Water Distribution Systems with Efficient Placement and Control of Pressure Reducing Valves
-Using Soft Computing Techniques. _Engineering, Technology & Applied Science Research_, 7(2), pp-1528. (Scopus and ESCI indexed)
-* **Bokde, N.**, Bodhe, G. L., Bokade, N., and Kulat, K. D. (2016). Development of adaptive and customizable Base Station system in Wireless Sensor Network. _International Journal of Applied Engineering Research_, 11(1), 33-39. (Scopus indexed)
-* Gupta, A., Mishra, S., **Bokde, N.**, and Kulat, K. (2016). Need of Smart Water Systems In India. _International Journal of Applied Engineering Research_, 11(4), 2216-2223. (Scopus indexed).
+* Naganna, S. R., Beyaztas, B. H., **Bokde, N.**, & Armanuos, A. M. (2020). On the evaluation of the Gradient Tree Boosting model for groundwater level forecasting. _Knowledge-Based Engineering and Sciences_, 1(01), 48–57. DOI: [10.51526/kbes.2020.1.01.48-57](https://doi.org/10.51526/kbes.2020.1.01.48-57) `Water Management` `Time Series Analysis` `Forecasting`
+* Gupta, A., **Bokde, N.**, Marathe, D., and Kulat K. (2018). A Novel Approach for Video based Fire Detection System using Spatial and Texture Analysis. _Indian Journal of Science and Technology_, 11(19). (Scopus indexed) DOI: [10.17485/ijst/2018/v11i19/88825](https://dx.doi.org/10.17485/ijst/2018/v11i19/88825) `Object Detection`
+* **Bokde, N.**, Gupta, A., and Kulat, K. (2017). Backward Elimination Approach of Regression Model to Decide the Road Safety Policies Across the States in India. _Indian Journal of Science and Technology_, 9(48). (Scopus indexed) DOI: [10.17485/ijst/2016/v9i48/85089](https://dx.doi.org/10.17485/ijst/2016/v9i48/85089) `Data Science`
+* Gupta, A., **Bokde, N.**, Marathe, D., and Kulat, K. (2016). Leakage Reduction in Water Distribution Systems with Efficient Placement and Control of Pressure Reducing Valves Using Soft Computing Techniques. _Engineering, Technology & Applied Science Research_, 7(2), pp-1528. (Scopus and ESCI indexed) DOI: [10.48084/etasr.1032](https://doi.org/10.48084/etasr.1032)
+* **Bokde, N.**, Bodhe, G. L., Bokade, N., and Kulat, K. D. (2016). Development of adaptive and customizable Base Station system in Wireless Sensor Network. _International Journal of Applied Engineering Research_, 11(1), 33-39. (Scopus indexed) `Wireless Sensor Networks`
+* Gupta, A., Mishra, S., **Bokde, N.**, and Kulat, K. (2016). Need of Smart Water Systems In India. _International Journal of Applied Engineering Research_, 11(4), 2216-2223. (Scopus indexed). `Review` `Water Management`
+
+---
 
 ## Conference Articles
 
 ### 2021
-* **Bokde N.**, Johansen K.,Wandahl S., and Teizer J. (2021). ADigital Twin Framework For Equipment Emissions FromConstruction Site Operations. In _Proceedings of 21st International Conference on Construction Application of Virtual Reality (pp. 31-42). Middlesbrough, UK: Teesside University Press_.
+* **Bokde N.**, Johansen K.,Wandahl S., and Teizer J. (2021). A Digital Twin Framework For Equipment Emissions FromConstruction Site Operations. In _Proceedings of 21st International Conference on Construction Application of Virtual Reality (pp. 31-42). Middlesbrough, UK: Teesside University Press_. [URL](https://www.researchgate.net/publication/357529035_Industry40_Applications_for_Full_Lifecycle_Integration_of_Buildings_Proceedings_of_the_21st_International_Conference_on_Construction_Applications_of_Virtual_Reality) `Digital Twins` `Emission`
 
 ### 2019
-* Villanueva D., Feijoo A., and **Bokde N.** (2019). A Strategy for Power Generation Optimization in a Hybrid Wind-BESS Power Plant. In _International Conference on Renewable Energy and Environment Engineering, Munich, Germany_.
-* Durán P., Villanueva D., Feijoo A., and **Bokde N.** (2019). Interior Point Algorithm Applied to the Optimization of the Power Supplied by a Wind Farm with a BESS. In _International Conference on Renewable Energy and Environment Engineering, Munich, Germany._
-* Patil, J., **Bokde, N.**, Mishra, S., and Kulat, K. D. (2019) A segmentation approach to optimize spectrum allocation for secondary users in a cognitive network. In _International Conference on Computing, Communication and Networking Technologies, IIT Kanpur._
+* Villanueva D., Feijoo A., and **Bokde N.** (2019). A Strategy for Power Generation Optimization in a Hybrid Wind-BESS Power Plant. In _International Conference on Renewable Energy and Environment Engineering, Munich, Germany_. DOI: [10.1051/e3sconf/201912204004](https://doi.org/10.1051/e3sconf/201912204004) `Energy` `Optimization`
+* Durán P., Villanueva D., Feijoo A., and **Bokde N.** (2019). Interior Point Algorithm Applied to the Optimization of the Power Supplied by a Wind Farm with a BESS. In _International Conference on Renewable Energy and Environment Engineering, Munich, Germany._ DOI: [10.1051/e3sconf/201912204002](https://doi.org/10.1051/e3sconf/201912204002) `Energy` `Optimization`
+* Patil, J., **Bokde, N.**, Mishra, S., and Kulat, K. D. (2019) A segmentation approach to optimize spectrum allocation for secondary users in a cognitive network. In _International Conference on Computing, Communication and Networking Technologies, IIT Kanpur._ [URL](https://www.researchgate.net/publication/334573267_A_segmentation_approach_to_optimize_spectrum_allocation_for_secondary_user_in_a_cognitive_network) `Cognitive Radio` `Forecasting`
 
 ### 2018
-* Patil, J., **Bokde, N.**, Mishra, S., and Kulat, K. D. (2018) PSF based spectrum occupancy prediction in cognitive radio. In _International Conference on Advanced Engineering Optimization Through Intelligent Techniques, SVNIT Surat._
+* Patil, J., **Bokde, N.**, Mishra, S., and Kulat, K. D. (2018) PSF based spectrum occupancy prediction in cognitive radio. In _International Conference on Advanced Engineering Optimization Through Intelligent Techniques, SVNIT Surat._ DOI: [10.1007/978-981-13-8196-6_53](https://doi.org/10.1007/978-981-13-8196-6_53) `Cognitive Radio` `Forecasting`
 
 ### 2017
-* **Bokde, N.**, Wakpanjar, A., Kulat, K. D., and Feijoo A. (2017) Robust performance of PSF method over outliers and random patterns in univariate time series forecasting. In
-_International Technology Congress, Pune._
-* **Bokde, N.**, Troncoso, A., Asencio-Cortés, G., Kulat, K., and Martínez-Álvarez, F. (2017) Pattern sequence similarity based techniques for wind speed forecasting. In _International Work-Conference on Time Series (ITISE), Granada, Spain 2, 786-794._ (Scopus indexed)
+* **Bokde, N.**, Wakpanjar, A., Kulat, K. D., and Feijoo A. (2017) Robust performance of PSF method over outliers and random patterns in univariate time series forecasting. In _International Technology Congress, Pune._ [URL](https://novapublishers.com/shop/computer-science-advances-research-and-applications/) `Forecasting`
+* **Bokde, N.**, Troncoso, A., Asencio-Cortés, G., Kulat, K., and Martínez-Álvarez, F. (2017) Pattern sequence similarity based techniques for wind speed forecasting. In _International Work-Conference on Time Series (ITISE), Granada, Spain 2, 786-794._ (Scopus indexed) [URL](https://www.researchgate.net/profile/Francisco-Martinez-Alvarez/publication/320563795_Pattern_sequence_similarity_based_techniques_for_wind_speed_forecasting/links/59edea8e4585158fe534130f/Pattern-sequence-similarity-based-techniques-for-wind-speed-forecasting.pdf) `Energy` `Forecasting`
 
 ### 2015
 * **Bokde, N.**, Peshwe, P. D., Gupta, A., and Kulat, K. D. (2015). RemoteWSN: A novel technique for remotely visualizing connectivity in WSN working on a weight based
-routing algorithm. In _Recent Advances in Electronics & Computer Engineering (RAECE), 2015 National Conference on (pp. 92-95). IEEE._ (Scopus indexed).
+routing algorithm. In _Recent Advances in Electronics & Computer Engineering (RAECE), 2015 National Conference on (pp. 92-95). IEEE._ (Scopus indexed). DOI: [10.1109/RAECE.2015.7510232](https://doi.org/10.1109/RAECE.2015.7510232) `Wireless Sensor Networks`
+
+---
 
 ## Book Chapters
-* Patil, J., **Bokde, N.**, Mishra, S., and Kulat, K. D. (2019) PSF based spectrum occupancy prediction in cognitive radio. In _Advanced Engineering Optimization Through Intelligent Techniques, Springer Nature Singapore._
-* **Bokde, N.**, Wakpanjar, A., Kulat, K. D., and Feijoo A. (2018). Robust performance of PSF method over outliers and random patterns in univariate time series forecasting. In _Computer Science Advances: Research and Applications._ 
-* Gupta, A., Satpute, V. R., Kulat, K. D., and **Bokde, N.** (2016). Real-Time Abandoned Object Detection Using Video Surveillance. In _Proceedings of the International Conference on Recent Cognizance in Wireless Communication & Image Processing (pp. 837-843). Springer, New Delhi._
+* Patil, J., **Bokde, N.**, Mishra, S., and Kulat, K. D. (2019) PSF based spectrum occupancy prediction in cognitive radio. In _Advanced Engineering Optimization Through Intelligent Techniques, Springer Nature Singapore._ DOI: [10.1007/978-981-13-8196-6_53](https://doi.org/10.1007/978-981-13-8196-6_53) `Cognitive Radio` `Forecasting`
+* **Bokde, N.**, Wakpanjar, A., Kulat, K. D., and Feijoo A. (2018). Robust performance of PSF method over outliers and random patterns in univariate time series forecasting. In _Computer Science Advances: Research and Applications._ [URL](https://novapublishers.com/shop/computer-science-advances-research-and-applications/) `Forecasting`
+* Gupta, A., Satpute, V. R., Kulat, K. D., and **Bokde, N.** (2016). Real-Time Abandoned Object Detection Using Video Surveillance. In _Proceedings of the International Conference on Recent Cognizance in Wireless Communication & Image Processing (pp. 837-843). Springer, New Delhi._ [URL](https://www.researchgate.net/publication/301720838_Real-Time_Abandoned_Object_Detection_Using_Video_Surveillance) `Object Detection`
 
+---
 
 ## Technical notes and Preprints
-* Shende M., **Bokde, N.**, Feijoo A. (2021). cleanTS: Testbench for Univariate Time Series Cleaning. URL _https://cran.r-project.org/package=cleanTS_ R package version, 0.1.0-
-* **Bokde, N.**, Andersen G. B. (2020). ForecastTB: Test Bench for the Comparison of Forecast Methods. URL _https://CRAN.R-project.org/package=ForecastTB_ R package version, 1.0.1.
-* Shende, M., **Bokde, N.** (2019). Jaya: Jaya, a Gradient-Free Optimization Algorithm. URL _https://CRAN.Rproject.org/package=Jaya_. R package version, 0.1.9.
-* Agenis, M., **Bokde, N.** (2019). GuessCompx: Empirically Estimates Algorithm Complexity. URL _https://CRAN.Rproject.org/package=GuessCompx_. R package version, 1.0.3.
-* **Bokde N.** and Feijoo A. (2018). WindCurves: Tool to Fit Wind Turbine Power Curves. URL _https://cran.r-project.org/package=WindCurves_. R package version 0.1.3.
+* Shende M., **Bokde, N.**, Feijoo A. (2021). cleanTS: Testbench for Univariate Time Series Cleaning. R package version, 0.1.0. [View on CRAN](https://cran.r-project.org/package=cleanTS)
+* **Bokde, N.**, Andersen G. B. (2020). ForecastTB: Test Bench for the Comparison of Forecast Methods. R package version, 1.0.1. [View on CRAN](https://cran.r-project.org/package=ForecastTB)
+* Shende, M., **Bokde, N.** (2019). Jaya: Jaya, a Gradient-Free Optimization Algorithm. R package version, 0.1.9. [View on CRAN](https://cran.r-project.org/package=Jaya)
+* Agenis, M., **Bokde, N.** (2019). GuessCompx: Empirically Estimates Algorithm Complexity. R package version, 1.0.3. [View on CRAN](https://cran.r-project.org/package=GuessCompx)
+* **Bokde N.** and Feijoo A. (2018). WindCurves: Tool to Fit Wind Turbine Power Curves. R package version 0.1.3. [View on CRAN](https://cran.r-project.org/package=WindCurves)
 * **Bokde, N.**, & Kulat, K. (2016). Demonstration of an open source platform for reproducible comparison of predictive models (No. e2251v1). _PeerJ Preprints_.
 * **Bokde, N.**, Gupta, A., & Kulat, K. (2016). Introduction of seasonality concept in PSF algorithm to improve univariate time series predictions (No. e2184v1). _PeerJ Preprints_.
-* **Bokde, N.**, Asencio-Cortés G., Martínez-Álvarez F. (2016). PSF: Algorithm for Pattern Sequence Based Forecasting. URL _https://CRAN.Rproject.org/package=PSF_. R package version, 0.4
-* **Bokde, N.**, Beck M. W. (2016). imputeTestbench: Testbench for Missing Data Imputing Models/Methods Comparison. URL _https://CRAN.Rproject.org/package=imputetestbench_. R
-package version, 3.0.1.
-* **Bokde, N.** (2016). imputePSF: Impute Missing Data in Time Series Data with PSF Based Method. URL _https://CRAN.Rproject.org/package=imputePSF_. R package version, 0.1.0.
-* **Bokde, N.** (2016). PredictTestbench: Testbench for Comparison of Data Prediction Models. URL _https://CRAN.Rproject.org/package=Predicttestbench_. R package version, 1.1.3.
+* **Bokde, N.**, Asencio-Cortés G., Martínez-Álvarez F. (2016). PSF: Algorithm for Pattern Sequence Based Forecasting. R package version, 0.4. [View on CRAN](https://cran.r-project.org/package=PSF)
+* **Bokde, N.**, Beck M. W. (2016). imputeTestbench: Testbench for Missing Data Imputing Models/Methods Comparison. R package version, 3.0.1. [View on CRAN](https://cran.r-project.org/package=imputeTestbench)
+* **Bokde, N.** (2016). imputePSF: Impute Missing Data in Time Series Data with PSF Based Method. R package version, 0.1.0. [View on CRAN](https://cran.r-project.org/package=imputePSF)
+* **Bokde, N.** (2016). PredictTestbench: Testbench for Comparison of Data Prediction Models. R package version, 1.1.3. [View on CRAN](https://cran.r-project.org/package=ForecastTB)
+
+---
