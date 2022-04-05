@@ -13,8 +13,8 @@ redirect_from:
 
 Please feel free to contact. The contact details and other social media profiles are as follows:
 
-* Current Address: Aarhus, Denmark
-* Permanent Address: Nagpur, Maharashtra, India
+* Current Address: Aarhus, Denmark <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/denmark.png" width="24"> 
+* Permanent Address: Nagpur, Maharashtra, India <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/india.png" width="24"> 
 * Personal Email: [neerajdhanraj@gmail.com](mailto:neerajdhanraj@gmail.com)
 * Official Email: [neerajdhanraj@cae.au.dk](mailto:neerajdhanraj@cae.au.dk)
 * Personal Website: [https://www.neerajbokde.in](https://www.neerajbokde.in)
