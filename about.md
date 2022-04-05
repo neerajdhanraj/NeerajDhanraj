@@ -9,7 +9,9 @@ redirect_from:
   - /download/
 ---
 
-# About Neeraj
+# About Neeraj 
+
+<img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/LOGO.PNG" width="200">
 
 Please feel free to contact. The contact details and other social media profiles are as follows:
 
