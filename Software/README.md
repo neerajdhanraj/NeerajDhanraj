@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Software and Tools
+image: /assets/img/a2.jpg
 description: >
   A list of software contributed by Dr. Neeraj Dhanraj Bokde
 hide_description: true
