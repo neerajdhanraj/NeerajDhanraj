@@ -9,7 +9,7 @@ redirect_from:
   - /download/
 ---
 
-# About Neeraj 
+# About Neeraj Dhanraj Bokde, Ph.D.
 
 <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/LOGO.PNG" width="200">
 
@@ -19,7 +19,7 @@ Please feel free to contact. The contact details and other social media profiles
 * Permanent Address: Nagpur, Maharashtra, India <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/india.png" width="24"> 
 * Personal Email: [neerajdhanraj@gmail.com](mailto:neerajdhanraj@gmail.com)
 * Official Email: [neerajdhanraj@cae.au.dk](mailto:neerajdhanraj@cae.au.dk)
-* Personal Website: [https://www.neerajbokde.in](https://www.neerajbokde.in)
+* Personal Website: [https://neerajbokde.in](https://www.neerajbokde.in)
 * Official Website: [https://pure.au.dk/portal/en/neerajdhanraj@mpe.au.dk](https://pure.au.dk/portal/en/neerajdhanraj@mpe.au.dk)
 * Google Scholar: [https://scholar.google.com/citations?user=N2kk4AQAAAAJ&hl=en](https://scholar.google.com/citations?user=N2kk4AQAAAAJ&hl=en)
 * ResearchGate: [https://www.researchgate.net/profile/Neeraj-Bokde](https://www.researchgate.net/profile/Neeraj-Bokde)
