@@ -15,6 +15,8 @@ I was educated and trained in India and Denmark in engineering, data science, re
 
 ![s3](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/50d3de9cebbf239009c294d1e987c61f9e8fcddf/images/s3.jpg)
 
+ [<img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/LOGO.PNG" width="200">](https://www.neerajbokde.in/)
+
 This website is new and updating on regular interval. Meanwhile you will find my description, codes, publication, and documents on my other social platforms.
 {:.note}
 
