@@ -128,3 +128,5 @@ routing algorithm. In _Recent Advances in Electronics & Computer Engineering (RA
 * **Bokde, N.** (2016). PredictTestbench: Testbench for Comparison of Data Prediction Models. R package version, 1.1.3. [View on CRAN](https://cran.r-project.org/package=ForecastTB)
 
 ---
+
+ [<img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/LOGO.PNG" width="200">](https://www.neerajbokde.in/)
