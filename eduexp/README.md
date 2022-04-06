@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Education and Experience
+image: /assets/img/a2.jpg
 description: >
   Education and work experiences of Dr. Neeraj Dhanraj Bokde
 hide_description: true
