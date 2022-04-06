@@ -22,3 +22,5 @@ permalink: /news/
 
 ![SeemaDen](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/1690091dda77c41644a2880f88414265cc501187/images/SeemaDen.gif)
 
+ [<img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/LOGO.PNG" width="200">](https://www.neerajbokde.in/)
+
