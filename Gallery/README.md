@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gallery
+image: /assets/img/a2.jpg
 description: >
   Gallery by Dr. Neeraj Dhanraj Bokde
 hide_description: true
