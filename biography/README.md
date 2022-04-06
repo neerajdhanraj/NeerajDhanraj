@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Biography
+image: /assets/img/a2.jpg
 description: >
   Biography of Dr. Neeraj Dhanraj Bokde
 hide_description: true
