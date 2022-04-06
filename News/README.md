@@ -1,6 +1,7 @@
 ---
 layout: page
 title: News and Updates
+image: /assets/img/a2.jpg
 description: >
   Latest news and updates from Dr. Neeraj Dhanraj Bokde
 hide_description: true
