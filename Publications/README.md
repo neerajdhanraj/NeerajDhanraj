@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+image: /assets/img/a2.jpg
 description: >
   A list of publication for Dr. Neeraj Dhanraj Bokde
 hide_description: true
