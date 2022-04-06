@@ -5,8 +5,6 @@ layout: list
 # The title of the tag's page.
 title: News and Updates
 
-image: /assets/img/a2.jpg
-
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: about #example
 
