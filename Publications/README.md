@@ -14,14 +14,15 @@ permalink: /publication/
 
 ### 2022
 
+* Shewale A., Mokhade A., Funde N., **Bokde N.** (2022). A Survey on Efficient Demand Side Management Techniques for Residential Appliance Scheduling problem in Smart Homes. _Energies_ (IF 3.004). Accepted. `Energy` `Optimization` `Demand Response`
 * Tao, H., **Bokde N.**, et al. (2022). Groundwater level prediction with machine and deep learning: a comprehensive review. _Neurocomputing_ (IF 5.719). 489, 271-308.
 DOI: [10.1016/j.neucom.2022.03.014](https://doi.org/10.1016/j.neucom.2022.03.014) `Review` `Deep Learning` `Machine Learning` `Prediction`
 * Naik B., Hashmi M. F., Geem Z. W., and **Bokde N.** (2022). DeepPlayer-Track: Player and Referee Tracking with Jersey Color Recognition in Soccer. _IEEE Access_ (IF 4.098), Accepted. DOI: [10.1109/ACCESS.2022.3161441](https://doi.org/10.1109/ACCESS.2022.3161441) `Sports` `Deep Learning`
 * Dandu S., Kumar V., Sengupta J., and **Bokde N.** (2022). Performance Analysis of Multilayer Coil Based MI Waveguide Communication System. _Computers, Materials Continua_ (IF 3.780), Accepted. `Electronics`
+* Sharma A., Dongre S., Gupta R., Pandey P., and **Bokde N.** (2022). Partitioning of Water Distribution Network Accounting Existing Valves. _Computer Modeling in Engineering and Sciences_ (IF 1.593). Accepted. DOI: [10.32604/cmes.2022.018867](https://www.techscience.com/CMES/online/detail/18342) `Water Management`
 
 ### 2021
 
-* Sharma A., Dongre S., Gupta R., Pandey P., and **Bokde N.** (2021). Partitioning of Water Distribution Network Accounting Existing Valves. _Computer Modeling in Engineering and Sciences_ (IF 1.593). 130(3), 1-23. DOI: [10.32604/cmes.2022.018867](https://www.techscience.com/CMES/online/detail/18342) `Water Management`
 * Hashmi M. F., Ashish B. K., Chaitanya P., Keskar A. G., Salih S., and **Bokde N.** (2021). GaitVision: Pattern Recognition based Gait Recognition. _Complexity_ (IF 2.833), 2021, Article ID 1589716, 15. DOI: [10.1155/2021/1589716](https://doi.org/10.1155/2021/1589716) `Sports` `Deep Learning`
 * Sawant M., Shende M., Feijoo A., and **Bokde N.** (2021). The State-of-the-art Progress in Cloud Detection, Identification, and Tracking Approaches: A Systematic Review. _Energies_ (IF 3.004). 14(23), 8119. DOI: [10.3390/en14238119](https://doi.org/10.3390/en14238119) `Review` `Clouds detection` `Object Detection`
 * Paliwal V., Ghare A., Mirajkar A., **Bokde N.**, and Yaseen Z. (2021). Proposition of New Metaphor-Less Algorithms for Reservoir Operation. _Complexity_ (IF 2.833), 2021, Article ID 6642986, 11. DOI: [10.1155/2021/6642986](https://doi.org/10.1155/2021/6642986) `Water Management` `Optimization`
