@@ -14,7 +14,7 @@ permalink: /publication/
 
 ### 2022
 
-* Shewale A., Mokhade A., Funde N., **Bokde N.** (2022). A Survey on Efficient Demand Side Management Techniques for Residential Appliance Scheduling problem in Smart Homes. _Energies_ (IF 3.004). Accepted. `Energy` `Optimization` `Demand Response`
+* Shewale A., Mokhade A., Funde N., **Bokde N.** (2022). A Survey on Efficient Demand Side Management Techniques for Residential Appliance Scheduling problem in Smart Homes. _Energies_ (IF 3.004). 15, 2863. DOI: [10.3390/en15082863](https://doi.org/10.3390/en15082863) `Energy` `Optimization` `Demand Response`
 * Tao, H., **Bokde N.**, et al. (2022). Groundwater level prediction with machine and deep learning: a comprehensive review. _Neurocomputing_ (IF 5.719). 489, 271-308.
 DOI: [10.1016/j.neucom.2022.03.014](https://doi.org/10.1016/j.neucom.2022.03.014) `Review` `Deep Learning` `Machine Learning` `Prediction`
 * Naik B., Hashmi M. F., Geem Z. W., and **Bokde N.** (2022). DeepPlayer-Track: Player and Referee Tracking with Jersey Color Recognition in Soccer. _IEEE Access_ (IF 4.098), Accepted. DOI: [10.1109/ACCESS.2022.3161441](https://doi.org/10.1109/ACCESS.2022.3161441) `Sports` `Deep Learning`
