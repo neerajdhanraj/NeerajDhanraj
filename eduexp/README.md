@@ -8,7 +8,9 @@ hide_description: true
 sitemap: false
 permalink: /eduexp/
 ---
-## :briefcase: Experience 
+## Experience :briefcase: 
+
+:briefcase: 
 
 ### ![AU_LOGO](https://user-images.githubusercontent.com/10669836/134785307-902c66e4-a553-4b6c-84dc-7bc2acc04bc3.png) Postdoctoral Researcher - Data Science and Digital Twins
 #### August 2021 - Present
