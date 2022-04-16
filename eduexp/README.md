@@ -8,9 +8,7 @@ hide_description: true
 sitemap: false
 permalink: /eduexp/
 ---
-## Experience :briefcase: 
-
-:briefcase: 
+## <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/work.png" width="30">  Experience 
 
 ### ![AU_LOGO](https://user-images.githubusercontent.com/10669836/134785307-902c66e4-a553-4b6c-84dc-7bc2acc04bc3.png) Postdoctoral Researcher - Data Science and Digital Twins
 #### August 2021 - Present
@@ -47,7 +45,7 @@ Analytical Instrumentaion Devision,
 
 ---
 
-## :book: Volunteer Experience
+## <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/vol.png" width="30"> Volunteer Experience
 
 ### Mentor at Google Summer of Code (GSoC) (Organisation: R Project for Statistical Computing)
 * [Asymptotic complexity testing framework/package](https://summerofcode.withgoogle.com/projects/#4887653356404736) (Year: 2020)
@@ -114,7 +112,7 @@ F1000 Research, Journal of Sustainability Science and Management, Journal of Har
 
 ---
 
-## :school: Education
+## <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/education.png" width="30"> Education
 
 ### ![VNIT_LOGO](https://user-images.githubusercontent.com/10669836/134785353-16c68fdb-cb49-4a86-85cc-cd7c3ccd4546.png) Ph.D., Data Science (2019)
 [Visvesvaraya National Institute of Technology, Nagpur, Maharashtra, India](https://vnit.ac.in/)
