@@ -17,9 +17,9 @@ permalink: /publication/
 * Shewale A., Mokhade A., Funde N., **Bokde N.** (2022). A Survey on Efficient Demand Side Management Techniques for Residential Appliance Scheduling problem in Smart Homes. _Energies_ (IF 3.004). 15, 2863. DOI: [10.3390/en15082863](https://doi.org/10.3390/en15082863) `Energy` `Optimization` `Demand Response`
 * Tao, H., **Bokde N.**, et al. (2022). Groundwater level prediction with machine and deep learning: a comprehensive review. _Neurocomputing_ (IF 5.719). 489, 271-308.
 DOI: [10.1016/j.neucom.2022.03.014](https://doi.org/10.1016/j.neucom.2022.03.014) `Review` `Deep Learning` `Machine Learning` `Prediction`
-* Naik B., Hashmi M. F., Geem Z. W., and **Bokde N.** (2022). DeepPlayer-Track: Player and Referee Tracking with Jersey Color Recognition in Soccer. _IEEE Access_ (IF 4.098), Accepted. DOI: [10.1109/ACCESS.2022.3161441](https://doi.org/10.1109/ACCESS.2022.3161441) `Sports` `Deep Learning`
+* Naik B., Hashmi M. F., Geem Z. W., and **Bokde N.** (2022). DeepPlayer-Track: Player and Referee Tracking with Jersey Color Recognition in Soccer. _IEEE Access_ (IF 4.098), 10, 32494-32509. DOI: [10.1109/ACCESS.2022.3161441](https://doi.org/10.1109/ACCESS.2022.3161441) `Sports` `Deep Learning`
 * Dandu S., Kumar V., Sengupta J., and **Bokde N.** (2022). Performance Analysis of Multilayer Coil Based MI Waveguide Communication System. _Computers, Materials Continua_ (IF 3.780), Accepted. `Electronics`
-* Sharma A., Dongre S., Gupta R., Pandey P., and **Bokde N.** (2022). Partitioning of Water Distribution Network Accounting Existing Valves. _Computer Modeling in Engineering and Sciences_ (IF 1.593). Accepted. DOI: [10.32604/cmes.2022.018867](https://www.techscience.com/CMES/online/detail/18342) `Water Management`
+* Sharma A., Dongre S., Gupta R., Pandey P., and **Bokde N.** (2022). Partitioning of Water Distribution Network Accounting Existing Valves. _Computer Modeling in Engineering and Sciences_ (IF 1.593). 131(3), 1515-1537. DOI: [10.32604/cmes.2022.018867](https://www.techscience.com/CMES/v131n3/47401) `Water Management`
 
 ### 2021
 
