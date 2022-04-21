@@ -360,7 +360,7 @@ When `monte_carlo()` function with `fval` and `figs` ON flags:
 
     monte_carlo(object = a1, size = 144, iteration = 2, fval = 1, figs = 1)
 
-<img src="/images/ForecatTB-Vignette_files/figure-markdown_strict/unnamed-chunk-12-1.png" style="display: block; margin: auto;" /><img src="ForecatTB-Vignette_files/figure-markdown_strict/unnamed-chunk-12-2.png" style="display: block; margin: auto;" />
+<img src="/images/ForecatTB-Vignette_files/figure-markdown_strict/unnamed-chunk-12-1.png" style="display: block; margin: auto;" /><img src="/images/ForecatTB-Vignette_files/figure-markdown_strict/unnamed-chunk-12-2.png" style="display: block; margin: auto;" />
 
     ## $Error_Parameters
     ##         ARIMA     LPSF
