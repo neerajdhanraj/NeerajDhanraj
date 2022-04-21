@@ -354,29 +354,7 @@ This function returns:
 -   Error values with provided models in each iteration along with the
     mean values
 
-<!-- -->
 
-    a1 <- prediction_errors(data = nottem, nval = 48, 
-                            Method = c("test1(data, nval)"), 
-                            MethodName = c("LPSF"), append_ = 1)
-    monte_carlo(object = a1, size = 180, iteration = 10)
-
-    ##         ARIMA     LPSF
-    ## 8    3.613975 5.211064
-    ## 36   2.918024 4.769718
-    ## 13   3.813523 5.343636
-    ## 22   2.922797 4.930024
-    ## 28   5.615779 5.567521
-    ## 46   2.790409 5.076289
-    ## 37   3.506115 4.872614
-    ## 32   2.590447 4.758633
-    ## 16   3.458952 5.515672
-    ## 58   2.534576 5.303882
-    ## Mean 3.376460 5.134905
-
-------------------------------------------------------------------------
-
-------------------------------------------------------------------------
 
 When `monte_carlo()` function with `fval` and `figs` ON flags:
 
