@@ -274,10 +274,12 @@ forecasting methods in terms of `RMSE`, `MAE` and `MAPE`. In addition,
 it allows to append multiple new error metrics. The Percent change in
 variance (PCV) is an another error metric with following definition:
 
-$PCV = \\frac{\\mid var(Predicted) - var(Observed) \\mid}{var(Observed)}$
+<img src="https://render.githubusercontent.com/render/math?math=PCV = \frac{\mid var(Predicted) - var(Observed) \mid}{var(Observed)}">
 
-where *v**a**r*(*P**r**e**d**i**c**t**e**d*) and
-*v**a**r*(*O**b**s**e**r**v**e**d*) are variance of predicted and
+
+
+
+where `var(Predicted)` and `var(Observed)` are variance of predicted and
 obvserved values. Following chunk code is the function for PCV error
 metric:
 
