@@ -141,14 +141,14 @@ students working on wind turbine power curves. The salient features of
     a name given to the function.
 
 
-   ##    
+   # 
+   
     library(WindCurves)
     data(pcurves)
     s <- pcurves$Speed
     p <- pcurves$`Nordex N90`
     da <- data.frame(s,p)
     x <- fitcurve(data = da, MethodPath = "source('dumpdata.R')", MethodName = "Random values")
-      
       
     ##    Weibull CDF model
     ##    -----------------
