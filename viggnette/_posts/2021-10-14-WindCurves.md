@@ -45,7 +45,6 @@ students working on wind turbine power curves. The salient features of
     discrete samples of wind turbine power curves provided by turbine
     manufacurers as:
 
-<!-- -->
     library(WindCurves)
 
     ## Warning: pakke 'WindCurves' blev bygget under R version 4.1.3
@@ -125,7 +124,7 @@ students working on wind turbine power curves. The salient features of
         example is stored as .R file with `dump()` function and made
         available in the `WindCurves` package and written as:
 
-<!-- -->
+
 
     random <- function(x)
     {
@@ -141,7 +140,6 @@ students working on wind turbine power curves. The salient features of
     a location of the function proposed by the user and `MethodName` is
     a name given to the function.
 
-<!-- -->
 
     library(WindCurves)
     data(pcurves)
@@ -252,7 +250,7 @@ power curve fitting.
     represent wind turbine power output in ‘kW’ against wind speed in
     ‘metres per second’ as shown below:
 
-<!-- -->
+
 
     data(pcurves)
     pcurves
@@ -288,7 +286,7 @@ power curve fitting.
     Speed Vs Power discrete points from power curve image. This can be
     achieved with the following simple instruction:
 
-<!-- -->
+
 
     #img2points("image.jpeg")
 
