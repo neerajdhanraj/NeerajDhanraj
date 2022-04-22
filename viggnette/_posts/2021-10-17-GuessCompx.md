@@ -15,6 +15,7 @@ accent_image:
 accent_color: '#ff2819'
 theme_color: '#ccc'
 related_posts:
+  - viggnette/_posts/2021-10-14-WindCurves.md
   - viggnette/_posts/2021-10-15-Jaya.md
   - viggnette/_posts/2021-10-16-ForecastTB.md
 sitemap: false
