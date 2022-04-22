@@ -18,7 +18,7 @@ permalink: /publication/
 * Tao, H., **Bokde N.**, et al. (2022). Groundwater level prediction with machine and deep learning: a comprehensive review. _Neurocomputing_ (IF 5.719). 489, 271-308.
 DOI: [10.1016/j.neucom.2022.03.014](https://doi.org/10.1016/j.neucom.2022.03.014) `Review` `Deep Learning` `Machine Learning` `Prediction`
 * Naik B., Hashmi M. F., Geem Z. W., and **Bokde N.** (2022). DeepPlayer-Track: Player and Referee Tracking with Jersey Color Recognition in Soccer. _IEEE Access_ (IF 4.098), 10, 32494-32509. DOI: [10.1109/ACCESS.2022.3161441](https://doi.org/10.1109/ACCESS.2022.3161441) `Sports` `Deep Learning`
-* Dandu S., Kumar V., Sengupta J., and **Bokde N.** (2022). Performance Analysis of Multilayer Coil Based MI Waveguide Communication System. _Computers, Materials Continua_ (IF 3.780), Accepted. `Electronics`
+* Dandu S., Kumar V., Sengupta J., and **Bokde N.** (2022). Performance Analysis of Multilayer Coil Based MI Waveguide Communication System. _Computers, Materials Continua_ (IF 3.780), 72(3), 5287-5300. DOI: [10.32604/cmc.2022.026390](https://www.techscience.com/cmc/v72n3/47490) `Electronics`
 * Sharma A., Dongre S., Gupta R., Pandey P., and **Bokde N.** (2022). Partitioning of Water Distribution Network Accounting Existing Valves. _Computer Modeling in Engineering and Sciences_ (IF 1.593). 131(3), 1515-1537. DOI: [10.32604/cmes.2022.018867](https://www.techscience.com/CMES/v131n3/47401) `Water Management`
 
 ### 2021
