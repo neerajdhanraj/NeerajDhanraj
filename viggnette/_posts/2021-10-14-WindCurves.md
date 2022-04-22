@@ -43,12 +43,12 @@ students working on wind turbine power curves. The salient features of
 
 -   A power curve can be fitted with the `WindCurves` package from a
     discrete samples of wind turbine power curves provided by turbine
-    manufacurers as:
+    manufacurers as:                 
+    
+   ##
 
-    library(WindCurves)
-
-    ## Warning: pakke 'WindCurves' blev bygget under R version 4.1.3
-
+    library(WindCurves) 
+    
     data(pcurves)
     s <- pcurves$Speed
     p <- pcurves$`Nordex N90`
@@ -141,13 +141,15 @@ students working on wind turbine power curves. The salient features of
     a name given to the function.
 
 
+   ##    
     library(WindCurves)
     data(pcurves)
     s <- pcurves$Speed
     p <- pcurves$`Nordex N90`
     da <- data.frame(s,p)
     x <- fitcurve(data = da, MethodPath = "source('dumpdata.R')", MethodName = "Random values")
-
+      
+      
     ##    Weibull CDF model
     ##    -----------------
     ##    P = 1 - exp[-(S/C)^k]
@@ -251,10 +253,12 @@ power curve fitting.
     ‘metres per second’ as shown below:
 
 
-
+     
+    
+   ##
     data(pcurves)
     pcurves
-
+    
     ##    Speed Vestad V80 Vestad V164 Siemens 82 Siemens 107 Repower 82 Nordex N90
     ## 1      1          0           0          0           0          0          0
     ## 2      2          0           0          0           0          0          0
@@ -316,4 +320,3 @@ points are to extracted. The procedure of extraction is as follows:
 > \[2\] Iain Staffell, “Wind turbine power curves, 2012”
 > ([via](https://goo.gl/tD2JW6))
 
-![](WindCurves-Vignette_files/figure-markdown_strict/pressure-1.png)
