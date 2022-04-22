@@ -46,7 +46,6 @@ students working on wind turbine power curves. The salient features of
     manufacurers as:
 
 <!-- -->
-
     library(WindCurves)
 
     ## Warning: pakke 'WindCurves' blev bygget under R version 4.1.3
@@ -114,7 +113,7 @@ students working on wind turbine power curves. The salient features of
 
     plot(x)
 
-![](WindCurves-Vignette_files/figure-markdown_strict/unnamed-chunk-1-1.png)
+![](/images/WindCurves-Vignette_files/figure-markdown_strict/unnamed-chunk-1-1.png)
 
 -   User can utilize `WindCurves` package as a testbench so that a new
     curve fitting technique can be compared with above mentioned
@@ -183,7 +182,7 @@ students working on wind turbine power curves. The salient features of
 
     plot(x)
 
-![](WindCurves-Vignette_files/figure-markdown_strict/unnamed-chunk-3-1.png)
+![](/images/WindCurves-Vignette_files/figure-markdown_strict/unnamed-chunk-3-1.png)
 
 -   Also, `WindCurves` allows user to add more error measures with
     `validate.curve()` function as explained below:
@@ -243,7 +242,7 @@ The effect of this function can be seen in the results obtained with
 
     plot(x)
 
-![](WindCurves-Vignette_files/figure-markdown_strict/unnamed-chunk-5-1.png)
+![](/images/WindCurves-Vignette_files/figure-markdown_strict/unnamed-chunk-5-1.png)
 
 Similarly, user can compare various techniques used for wind turbine
 power curve fitting.
