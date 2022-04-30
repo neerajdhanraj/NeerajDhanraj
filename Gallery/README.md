@@ -19,7 +19,7 @@ Mango is a national fruit of India and one cannot imagine summer of India withou
 
 ![Mango](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/53e6be6ef2c12e566abd2f61cb788b2f4b3284aa/images/Mango.jpg)
 
-![Mango Tree](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/90287d41ed92f554580f67676c6b7d11d7b91cfa/images/MangoTree.mp4)
+![Mango Tree](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/a1a9f1980ae72c283a650fb5ae76adf887a67fb0/images/MangoTree.gif)
 
 ## Beautiful Aarhus City exploration with Beautiful life-partner, Seema!
 Aarhus is the second largest city in Denmark. We, both I and Seema, work in Aarhus. During our stay, we have visited several beautiful places in the city. As you can see, Aarhus is full of natural beauties, and really a great place to explore.
