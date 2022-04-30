@@ -14,6 +14,17 @@ sitemap: false
 permalink: /gallery/
 ---
 
+## Mango, the National Fruit of India
+Mango is a national fruit of India and one cannot imagine summer of India without Mangoes. My parents has grown up a alluring Mango tree at our home in Nagpur, India. 
+
+![Mango](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/53e6be6ef2c12e566abd2f61cb788b2f4b3284aa/images/Mango.jpg)
+
+
+https://user-images.githubusercontent.com/10669836/166101611-340b4332-c27e-4406-a9d6-4ee907468bc3.mp4
+
+
+![Mango Tree](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/53e6be6ef2c12e566abd2f61cb788b2f4b3284aa/images/Mango%20Tree.mp4)
+
 ## Beautiful Aarhus City exploration with Beautiful life-partner, Seema!
 Aarhus is the second largest city in Denmark. We, both I and Seema, work in Aarhus. During our stay, we have visited several beautiful places in the city. As you can see, Aarhus is full of natural beauties, and really a great place to explore.
 
