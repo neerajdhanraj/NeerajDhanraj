@@ -14,7 +14,8 @@ permalink: /publication/
 
 ### 2022
 
-*  Shende M., Feijoo A., and **Bokde N.** (2022). cleanTS: Automated (AutoML) Tool to Clean Univariate Time Series at Microscales. _Neurocomputing_ (IF 5.719). Accepted. DOI: []() `Time Series Analysis` `Software` `Machine Learning` `AutoML`
+*  Goutam B., Hashmi M. F., Geem Z. W., and **Bokde N.** (2022). A Comprehensive Review of Deep Learning Strategies in Retinal Disease Diagnosis Using Fundus Images. _IEEE Access_ (IF 4.098). Accepted. DOI: []() `Review` `Deep Learning` `Computer Vision` `Object Detection` `Biomedical`
+*  Shende M., Feijoo A., and **Bokde N.** (2022). cleanTS: Automated (AutoML) Tool to Clean Univariate Time Series at Microscales. _Neurocomputing_ (IF 5.719). Accepted. DOI: [10.1016/j.neucom.2022.05.057](https://doi.org/10.1016/j.neucom.2022.05.057) `Time Series Analysis` `Software` `Machine Learning` `AutoML`
 *  Naik B., Hashmi M. F., and **Bokde N.** (2022). A Comprehensive Review of Computer Vision in Sports: Open Issues, Future Trends and Research Directions. _Applied Sciences_ (IF 2.679). 12(9), 4429. DOI: [10.3390/app12094429](https://doi.org/10.3390/app12094429) `Review` `Sports` `Computer Vision`
 * Shewale A., Mokhade A., Funde N., **Bokde N.** (2022). A Survey on Efficient Demand Side Management Techniques for Residential Appliance Scheduling problem in Smart Homes. _Energies_ (IF 3.004). 15(8), 2863. DOI: [10.3390/en15082863](https://doi.org/10.3390/en15082863) `Review` `Energy` `Optimization` `Demand Response`
 * Tao, H., **Bokde N.**, et al. (2022). Groundwater level prediction with machine and deep learning: a comprehensive review. _Neurocomputing_ (IF 5.719). 489, 271-308.
