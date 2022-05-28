@@ -13,7 +13,7 @@ permalink: /eduexp/
 ### ![AU_LOGO](https://user-images.githubusercontent.com/10669836/134785307-902c66e4-a553-4b6c-84dc-7bc2acc04bc3.png) Assistant Professor
 #### June 2022 onwards
 
-[Center for Quantitative Genetics and Genomics](https://qgg.au.dk/en),
+[Center for Quantitative Genetics and Genomics](https://pure.au.dk/portal/en/persons/neeraj-bokde(db26f43b-198c-4ba9-bb47-7d5a34eab6cf).html),
 
 [Aarhus University, Aarhus, Denmark](https://international.au.dk/).
 
