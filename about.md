@@ -24,9 +24,14 @@ Please feel free to contact. The contact details and other social media profiles
 * Google Scholar: [https://scholar.google.com/citations?user=N2kk4AQAAAAJ&hl=en](https://scholar.google.com/citations?user=N2kk4AQAAAAJ&hl=en)
 * ResearchGate: [https://www.researchgate.net/profile/Neeraj-Bokde](https://www.researchgate.net/profile/Neeraj-Bokde)
 * LinkedIn: [https://www.linkedin.com/in/neeraj-bokde-9680ba19/](https://www.linkedin.com/in/neeraj-bokde-9680ba19/)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="neeraj-bokde-9680ba19" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://dk.linkedin.com/in/neeraj-bokde-9680ba19?trk=profile-badge">Neeraj Bokde</a></div>
+              
 * GitHub: [https://github.com/neerajdhanraj](https://github.com/neerajdhanraj)
 * Orcid ID: [https://orcid.org/0000-0002-3493-9302](https://orcid.org/0000-0002-3493-9302)
 * Scopus: [https://www.scopus.com/authid/detail.uri?authorId=57148487500](https://www.scopus.com/authid/detail.uri?authorId=57148487500)
 * Publons: [https://publons.com/researcher/1592857/neeraj-dhanraj-bokde](https://publons.com/researcher/1592857/neeraj-dhanraj-bokde)
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://scholar.google.co.in/citations?user=N2kk4AQAAAAJ&hl=en" data-iframely-url="//iframely.net/433iQH1"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="neeraj-bokde-9680ba19" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://dk.linkedin.com/in/neeraj-bokde-9680ba19?trk=profile-badge">Neeraj Bokde</a></div>
+              
