@@ -77,25 +77,27 @@ Analytical Instrumentaion Devision,
 * Data in Brief (Elsevier, Editorial Board Member)
 * Frontiers in Energy Research (Frontiers, Review Editor)
 * Information (MDPI, Topic Editor and Guest Editor)
+* Journal of Healthcare Engineering (Hindawi,  SI: [Developments in Internet of Bio-Nano Things for Advanced Healthcare Engineering](https://www.hindawi.com/journals/jhe/si/584579/), Guest Editor)
 
 ---
 
 ### Reviewership of International Journals
 * **Elsevier:** Computer Methods and Programs in Biomedicine, Journal of Hazardous Materials,
 Journal of Hydrology, Applied Energy, Data in Brief, Ocean Engineering, Measurement, Marine
-Pollution Bulletin, Environmental Pollution.
+Pollution Bulletin, Environmental Pollution, Advances in Engineering Software.
 * **IEEE:** IEEE Access, IEEE Transactions on Knowledge and Data Engineering, IEEE Signal Processing Letters,
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, IEEE Systems Journal.
 * **IET:** IET Signal Processing, IET Renewable Power Generation, IET Microwaves, Antennas &
 Propagation, IET Image Processing, IET Cyber-Physical Systems: Theory & Applications,
-Electronics Letters, IET Generation Transmission & Distribution.
+Electronics Letters, IET Generation Transmission & Distribution, CAAI Transactions on Intelligence Technology.
 * **Springer:** National Academy of Science Letters, Theoretical and Applied Climatology, Natural
 Hazards, Environmental Science and Pollution Research, Energy Systems, Engineering with
-Computers, Artificial Intelligence Review, Stochastic Environmental Research and Risk Assessment.
+Computers, Artificial Intelligence Review, Stochastic Environmental Research and Risk Assessment, Clean Technologies and
+Environmental Policy.
 * **Taylor & Francis:** Engineering Applications of Computational Fluid Mechanics, ISH Journal of
 Hydraulic Engineering, Hydrological Sciences Journal, International Journal of Green Energy,
 Journal of the Chinese Institute of Engineers, Applied Artificial Intelligence, Cyber-Physical Systems, Cybernetics and Systems,
-Journal of Building Performance Simulation, Technological and Economic Development of Economy.
+Journal of Building Performance Simulation, Technological and Economic Development of Economy, International Journal of Management Science and Engineering Management.
 * **MDPI:** Information, Water, Sustainability, Energies, Sensors, Electronics, Materials, Applied
 Sciences, International Journal of Environmental Research and Public Health, Aerospace,
 Future Internet, Entropy, Urban Science, Actuators, Tropical Medicine and Infectious Disease, Biology, Wind, Diagnostics, Buildings, Atmosphere,
@@ -106,14 +108,14 @@ Journal of Advanced Transportation, International Journal of Photoenergy, The Sc
 World Journal,  Advances in Meteorology, Journal
 of Mathematics, Discrete Dynamics in Nature and Society, Journal of Applied Mathematics, Journal of
 Sensors, Mobile Information Systems, Scientific Programming, Journal of Electrical and Computer Engineering,
-International Journal of Aerospace Engineering, Computational and Mathematical Methods in Medicine, Journal of Healthcare Engineering.
+International Journal of Aerospace Engineering, Computational and Mathematical Methods in Medicine, Journal of Healthcare Engineering, Wireless Communications and Mobile Computing.
 * **Wiley:** International Transactions on Electrical Energy Systems, Concurrency Computation
 Practice and Experience, Engineering Reports, Expert Systems.
 * **Emerald:** International Journal of Intelligent Computing and Cybernetics.
 * **Frontiers:** Frontiers in Energy Research.
 * **Nature:** BMC Health Services Research, Scientific Reports.
 * **PLOS:** PLOS One, PLOS Water.
-* **ACM:** ACM Transactions on Sensor Networks.
+* **ACM:** ACM Transactions on Sensor Networks, ACM Computing Surveys.
 * **World Scientific:** International Journal of Information Technology and Decision Making.
 * **Miscellaneous:** The R Journal, Canadian Journal of Civil Engineering, Jordanian Journal of
 Computers and Information Technology, Computers, Materials & Continua, PLoS One, Journal
