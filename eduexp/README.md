@@ -78,6 +78,7 @@ Analytical Instrumentaion Devision,
 * Frontiers in Energy Research (Frontiers, Review Editor)
 * Information (MDPI, Topic Editor and Guest Editor)
 * Journal of Healthcare Engineering (Hindawi,  SI: [Developments in Internet of Bio-Nano Things for Advanced Healthcare Engineering](https://www.hindawi.com/journals/jhe/si/584579/), Guest Editor)
+* Frontiers in Energy Efficiency (Modelling and Simulation) (Frontiers, Review Editor)
 
 ---
 
