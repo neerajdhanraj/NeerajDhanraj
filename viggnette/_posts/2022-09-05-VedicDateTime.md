@@ -2,7 +2,7 @@
 layout: post
 title: VedicDateTime - An R Package to Implement Vedic Calendar System
 description: >
-  This post is a demonstrate an R Package for implementing Vedic Calendar System
+  This post is to demonstrate an R Package for implementing Vedic Calendar System
 image: 
   path: /images/VedicDateTimeLogo.png
   srcset:
@@ -21,4 +21,4 @@ related_posts:
 sitemap: false
 ---
 
-This post is a demonstrate an R Package 'VedicDateTime' for implementing Vedic Calendar System. Stay tuned! 
+This post is to demonstrate an R Package 'VedicDateTime' for implementing Vedic Calendar System and its possible applications in Time Series Analysis. Stay Tuned! 
