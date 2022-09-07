@@ -144,7 +144,7 @@ F1000 Research, Journal of Sustainability Science and Management, Journal of Har
 
 ---
 
-### [<img src="https://github.com/neerajdhanraj/NeerajDhanraj/blob/19198ca605e8c2718f9f80c23cf02d748250b65a/images/NUlogo.jpg" width="75">](https://nagpuruniversity.ac.in/) B.E., Electronics and Tele-communication Engineering (2011)
+### ![NUlogo](https://user-images.githubusercontent.com/10669836/188805575-4374f840-e56a-4c67-8b50-04dd6429a680.png) B.E., Electronics and Tele-communication Engineering (2011)
 [Nagpur University, Nagpur, Maharashtra, India](https://nagpuruniversity.ac.in/)
 
 ---
