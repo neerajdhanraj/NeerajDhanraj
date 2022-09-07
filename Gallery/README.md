@@ -14,6 +14,22 @@ sitemap: false
 permalink: /gallery/
 ---
 
+## A visit to Ramtek town (near Nagpur, Maharashtra, India)
+
+<img src="https://user-images.githubusercontent.com/10669836/188812676-e837ea5d-c962-488f-bef5-9cb86c6843a9.png" width="700">
+
+<img src="https://user-images.githubusercontent.com/10669836/188812717-d3b6abb0-7f7b-422c-a20e-1f0acdc023f3.png" width="700">
+
+<img src="https://user-images.githubusercontent.com/10669836/188812825-677c12a7-dca3-429d-9b65-6a5dda34e62c.png" width="700">
+
+<img src="https://user-images.githubusercontent.com/10669836/188812880-2cc7fe3f-a281-4519-a03b-1899f2d715b3.png" width="700">
+
+<img src="https://user-images.githubusercontent.com/10669836/188812944-f0ed99d4-ade8-473f-b040-c04cdb56a6d2.png" width="700">
+
+<img src="https://user-images.githubusercontent.com/10669836/188812986-47ceff7e-54e8-4948-acb2-b4f453efaa5d.png" width="700">
+
+
+
 ## Mango, the National Fruit of India
 Mango is a national fruit of India and one cannot imagine summer of India without Mangoes. My parents has grown up a alluring Mango tree at our home in Nagpur, India. 
 
@@ -28,6 +44,8 @@ Aarhus is the second largest city in Denmark. We, both I and Seema, work in Aarh
 
 ## Holi, Festival of colors!
 Hoil is one of the famous Hindu festivals in India. This picture was clicked in the year 2016.
+
+<img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/holi.jpg" width="700">
 
 ![Holi](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/holi.jpg)
 
