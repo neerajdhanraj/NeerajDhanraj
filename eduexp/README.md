@@ -144,7 +144,8 @@ F1000 Research, Journal of Sustainability Science and Management, Journal of Har
 
 ---
 
-### ![NUlogo](https://user-images.githubusercontent.com/10669836/188806436-ef6678ac-8c49-485b-a3a5-ae90ac5b4cd5.png) B.E., Electronics and Tele-communication Engineering (2011)
+
+### <img src="https://user-images.githubusercontent.com/10669836/188806436-ef6678ac-8c49-485b-a3a5-ae90ac5b4cd5.png" width="70"> B.E., Electronics and Tele-communication Engineering (2011)
 [Nagpur University, Nagpur, Maharashtra, India](https://nagpuruniversity.ac.in/)
 
 ---
