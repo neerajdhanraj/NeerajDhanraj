@@ -8,13 +8,14 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Originally from Nagpur, India, I am currently based in Aarhus, Denmark,
-    where I work as a Postdoctoral Researcher in the Construction Automation and
-    Information Technologies Group within the Department of Civil and Architectural Engineering at Aarhus University.
+    Originally from Nagpur, India, I am currently based in Aarhus, Denmark, where I work as an Assistant Professor at
+    the Center for Quantitative Genetics and Genomics, Aarhus University.
+   
     I was educated and trained in India and Denmark in engineering, data science, renewable energy, and computer science.
     At the crossroads of these fields, my research interests lie within the general area of theoretical and applied data science,
-    time series analysis view on industrial applications such as in digital twins, artificial intelligence, statistical software development,
-    visualization techniques, and predictive analysis; and on exploring the scope of automation of the machine learning and data science methodologies.
+    time series analysis view on industrial applications such as in digital twins, artificial intelligence, bioinformatics,
+    statistical software development, visualization techniques, and predictive analysis; and on exploring the scope of automation
+    of the machine learning and data science methodologies.
     
     [<img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/LOGO.PNG" width="200">](https://www.neerajbokde.in/)
 
