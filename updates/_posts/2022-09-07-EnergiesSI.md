@@ -28,9 +28,10 @@ Dear Colleagues,
 I am editing a Special Issue "[Data Driven Approaches for Environmental Sustainability 2023](https://www.mdpi.com/journal/energies/special_issues/NKX8X28I58)" at Energies journal. 
 Its information is given below and the detailed flyer for this special issue is available [here](https://www.mdpi.com/journal/energies/special_issue_flyer_pdf/NKX8X28I58/web). 
 
-<img align="right" src="https://user-images.githubusercontent.com/10669836/188822405-daaaaabe-6e03-41ff-8853-29a624ae2677.png" width="100">
 
 ### Special Issue Information
+
+<img align="right" src="https://user-images.githubusercontent.com/10669836/188822405-daaaaabe-6e03-41ff-8853-29a624ae2677.png" width="100">
 
 The “three pillars of sustainability” concept, which encompasses social, economic, and environmental sustainability, is well-known and very important in society. However, currently, greater importance is given to social and economic development at the cost of environmental sustainability. In recent decades, major topic discussed in this area have included the harvesting of renewable resources, the depletion of non-renewable resources, and the creation of pollution. Recent advancements in data analysis techniques and methodologies along with higher-level computational infrastructures have presented many new dimensions to observe patterns and provide more effective solutions. For this Special Issue of Energies on “Data-driven approaches for environmental sustainability”, we invite authors to submit articles on, but not limited to, the following topics: data-analysis-driven analysis, policies, and case studies of environmental parameters such as renewable energy, air and water pollution, and water leakage management; enhancement of data analysis techniques such as predictions, time series forecasting, data imputations, optimization methodologies, and their applications in environmental sustainability; data collection, data cleaning, and novel visualization techniques; data analysis tools, software, and packages for use in environmental sustainability.
 
