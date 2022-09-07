@@ -123,7 +123,7 @@ Practice and Experience, Engineering Reports, Expert Systems.
 * **PLOS:** PLOS One, PLOS Water.
 * **ACM:** ACM Transactions on Sensor Networks, ACM Computing Surveys.
 * **World Scientific:** International Journal of Information Technology and Decision Making.
-* **Sage:** Energy & Environment.
+* **Sage:** Energy & Environment, Science Progress.
 * **Miscellaneous:** The R Journal, Canadian Journal of Civil Engineering, Jordanian Journal of
 Computers and Information Technology, Computers, Materials & Continua, PLoS One, Journal
 of Applied Research and Technology, Engineering and Applied Science Research, Open Physics, Karbala International Journal of Modern Science,
