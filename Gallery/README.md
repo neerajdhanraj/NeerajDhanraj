@@ -53,8 +53,6 @@ Hoil is one of the famous Hindu festivals in India. This picture was clicked in 
 
 <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/holi.jpg" width="700">
 
-![Holi](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/holi.jpg)
-
 ## Burning Satellite: The Views from Nagpur and other Vidarbha Region
 On 2nd April 2022, at around 9 PM, my cousins have witnessed a beautiful burning object scene in the sky in Nagpur and other Vidarbha regions. Later, it came to know that it was a burning satellite, maybe due to the uncontrolled destroying process. Unfortunately, I could not watch this LIVE in the sky but got these videos from my cousins and her colleagues. These compiled videos are in the public domain and courtesy to the corresponding photographer.
 
