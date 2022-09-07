@@ -62,7 +62,8 @@ Analytical Instrumentaion Devision,
 * [Automated (AutoML) tool to clean univariate time series at microscales](https://summerofcode.withgoogle.com/projects/#4626948166254592) (Year: 2021)
 * [Add Robust Betas to Performance Analytics](https://summerofcode.withgoogle.com/projects/#5412619369840640) (Year: 2021)
 * [imputeTestbenchG: imputation testbench for Genomics data](https://github.com/rstats-gsoc/gsoc2022/wiki/imputeTestbenchG\%3A-imputation-testbench-for-Genomics-data) (Year: 2022)
-* [VedicDateTime](https://github.com/rstats-gsoc/gsoc2022/wiki/VedicDateTime-(Part-A)}{VedicDateTime) (Year: 2022)
+* [VedicDateTime (Part A)](https://github.com/rstats-gsoc/gsoc2022/wiki/VedicDateTime-\%28Part-A\%29) (Year: 2022)
+* [VedicDateTime (Part B)](https://github.com/rstats-gsoc/gsoc2022/wiki/VedicDateTime-\%28Part-B\%29) (Year: 2022)
 
 ---
 
@@ -79,26 +80,29 @@ Analytical Instrumentaion Devision,
 * Information (MDPI, Topic Editor and Guest Editor)
 * Journal of Healthcare Engineering (Hindawi,  SI: [Developments in Internet of Bio-Nano Things for Advanced Healthcare Engineering](https://www.hindawi.com/journals/jhe/si/584579/), Guest Editor)
 * Frontiers in Energy Efficiency (Modelling and Simulation) (Frontiers, Review Editor)
-
+* Energies (MDPI, SI: [Data-Driven Approaches for Environmental Sustainability 2023](https://www.mdpi.com/journal/energies/special_issues/NKX8X28I58), Guest Editor)
 ---
 
 ### Reviewership of International Journals
 * **Elsevier:** Computer Methods and Programs in Biomedicine, Journal of Hazardous Materials,
 Journal of Hydrology, Applied Energy, Data in Brief, Ocean Engineering, Measurement, Marine
-Pollution Bulletin, Environmental Pollution, Advances in Engineering Software.
+Pollution Bulletin, Environmental Pollution, Advances in Engineering Software, Water Science and Engineering,
+Journal of Energy Storage, Applied Energy, Remote Sensing Applications: Society and Environment.
 * **IEEE:** IEEE Access, IEEE Transactions on Knowledge and Data Engineering, IEEE Signal Processing Letters,
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, IEEE Systems Journal.
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, IEEE Systems Journal,
+IEEE Transactions on Consumer Electronics.
 * **IET:** IET Signal Processing, IET Renewable Power Generation, IET Microwaves, Antennas &
 Propagation, IET Image Processing, IET Cyber-Physical Systems: Theory & Applications,
 Electronics Letters, IET Generation Transmission & Distribution, CAAI Transactions on Intelligence Technology.
 * **Springer:** National Academy of Science Letters, Theoretical and Applied Climatology, Natural
 Hazards, Environmental Science and Pollution Research, Energy Systems, Engineering with
 Computers, Artificial Intelligence Review, Stochastic Environmental Research and Risk Assessment, Clean Technologies and
-Environmental Policy.
+Environmental Policy, Proceedings of the Indian National Science Academy.
 * **Taylor & Francis:** Engineering Applications of Computational Fluid Mechanics, ISH Journal of
 Hydraulic Engineering, Hydrological Sciences Journal, International Journal of Green Energy,
 Journal of the Chinese Institute of Engineers, Applied Artificial Intelligence, Cyber-Physical Systems, Cybernetics and Systems,
-Journal of Building Performance Simulation, Technological and Economic Development of Economy, International Journal of Management Science and Engineering Management.
+Journal of Building Performance Simulation, Technological and Economic Development of Economy, International Journal of Management Science and Engineering Management,
+Communications in Statistics – Theory and Methods, Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, Cogent Engineering.
 * **MDPI:** Information, Water, Sustainability, Energies, Sensors, Electronics, Materials, Applied
 Sciences, International Journal of Environmental Research and Public Health, Aerospace,
 Future Internet, Entropy, Urban Science, Actuators, Tropical Medicine and Infectious Disease, Biology, Wind, Diagnostics, Buildings, Atmosphere,
@@ -109,15 +113,16 @@ Journal of Advanced Transportation, International Journal of Photoenergy, The Sc
 World Journal,  Advances in Meteorology, Journal
 of Mathematics, Discrete Dynamics in Nature and Society, Journal of Applied Mathematics, Journal of
 Sensors, Mobile Information Systems, Scientific Programming, Journal of Electrical and Computer Engineering,
-International Journal of Aerospace Engineering, Computational and Mathematical Methods in Medicine, Journal of Healthcare Engineering, Wireless Communications and Mobile Computing.
+International Journal of Aerospace Engineering, Computational and Mathematical Methods in Medicine, Journal of Healthcare Engineering, Wireless Communications and Mobile Computing, Applied Computational Intelligence and Soft Computing.
 * **Wiley:** International Transactions on Electrical Energy Systems, Concurrency Computation
 Practice and Experience, Engineering Reports, Expert Systems.
-* **Emerald:** International Journal of Intelligent Computing and Cybernetics.
-* **Frontiers:** Frontiers in Energy Research.
+* **Emerald:** International Journal of Intelligent Computing and Cybernetics, Asian Journal of Economics and Banking.
+* **Frontiers:** Frontiers in Energy Research, Frontiers in Public Health.
 * **Nature:** BMC Health Services Research, Scientific Reports.
 * **PLOS:** PLOS One, PLOS Water.
 * **ACM:** ACM Transactions on Sensor Networks, ACM Computing Surveys.
 * **World Scientific:** International Journal of Information Technology and Decision Making.
+* **Sage:** Energy & Environment.
 * **Miscellaneous:** The R Journal, Canadian Journal of Civil Engineering, Jordanian Journal of
 Computers and Information Technology, Computers, Materials & Continua, PLoS One, Journal
 of Applied Research and Technology, Engineering and Applied Science Research, Open Physics, Karbala International Journal of Modern Science,
@@ -138,8 +143,8 @@ F1000 Research, Journal of Sustainability Science and Management, Journal of Har
 
 ---
 
-### ![SVPCLOGO](https://user-images.githubusercontent.com/10669836/134785471-5c0cf7d9-3263-43ff-bea8-f2f8f54e05cc.jpg) B.E., Electronics and Tele-communication Engineering (2011)
-[St. Vincent Pallotti College of Engineering and Technology, Nagpur, India](https://www.stvincentngp.edu.in/)
+### <img src="https://github.com/neerajdhanraj/NeerajDhanraj/blob/19198ca605e8c2718f9f80c23cf02d748250b65a/images/NUlogo.jpg" width="75"> B.E., Electronics and Tele-communication Engineering (2011)
+[Nagpur University, Nagpur, Maharashtra, India](https://nagpuruniversity.ac.in/)
 
 ---
 
