@@ -14,7 +14,13 @@ sitemap: false
 permalink: /gallery/
 ---
 
+## Gathering after a log time :)
+
+<img src="https://user-images.githubusercontent.com/10669836/188815092-6c2cd3fe-8b98-4544-9955-fc9be8482e01.png" width="700">
+
 ## A visit to Ramtek town (near Nagpur, Maharashtra, India)
+
+Ramtek town is famous for its ancient Gadh (Fort) Temple of Shri Rama, the Hindu god. However, a very few people know about further older (at least 1200 years old) temple situation in the same town. This temple is know as Kapoor Baoli. A miraculous place to visit in Central India.
 
 <img src="https://user-images.githubusercontent.com/10669836/188812676-e837ea5d-c962-488f-bef5-9cb86c6843a9.png" width="700">
 
