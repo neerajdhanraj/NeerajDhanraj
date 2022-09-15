@@ -21,11 +21,30 @@ related_posts:
 sitemap: false
 ---
 
-This post is to demonstrate an R Package 'VedicDateTime' for implementing Vedic Calendar System and its possible applications in Time Series Analysis. Stay Tuned! 
+The **VedicDateTime** package provides a platform for the Vedic calendar system having several functionalities to facilitate conversion between Gregorian and Vedic calendar systems, and is helpful in examining its impact in the time series analysis domain. The background is described in [Neeraj Dhanraj Bokde et al. (2021)](https://doi.org/10.48550/arXiv.2111.03441), [Karanam L. Ramakumar et al. (2011)](https:archive.org/details/PanchangamCalculations), [K. S. Charak et al. (2012], (https://www.amazon.in/Elements-Vedic-Astrology-K-S-Charak/dp/8190100807), [Satish BD et al. (2013)](https:github.com/webresh/drik-panchanga).
+
+The **VedicDateTime** is available on CRAN: [https://cran.r-project.org/package=VedicDateTime](https://cran.r-project.org/package=VedicDateTime).
+
+To cite package ‘VedicDateTime’ in publications use:
+
+    Neeraj Dhanraj Bokde, Prajwal Kailasnath Patil, Saradindu Sengupta and Andrés Elías Feijóo Lorenzo (2022). 
+    VedicDateTime: Vedic Calendar System. R package version 0.1.1. https://CRAN.R-project.org/package=VedicDateTime
+
+A BibTeX entry for LaTeX users is
+
+    @Manual{,
+    title = {VedicDateTime: Vedic Calendar System},
+    author = {Neeraj Dhanraj Bokde and Prajwal Kailasnath Patil and Saradindu Sengupta and Andrés Elías Feijóo Lorenzo},
+    year = {2022},
+    note = {R package version 0.1.1},
+    url = {https://CRAN.R-project.org/package=VedicDateTime},
+    }
+
+The detailed information, use cases and examples for **VedicDateTime** is discussed below:
 
 # Introduction
 
-The whole concept of **VedicDateTime** is based on the Hindu calendar system. The lunisolar Hindu calendar and its aspects are as old as **Surya Siddhanta**, an ancient Sanskrit text on astronomy \cite{nnoak} . Even today, this calendar is prevalent in India and it is mostly found in **Hindu Panchanga** an Indian almanac that details information about the various festivals, rituals, and planetary combinations and has been in use since time immemorial in the Indian subcontinent. This Panchanga can be commonly found in most Indian homes \cite{kscharak}.
+The whole concept of **VedicDateTime** is based on the Hindu calendar system. The lunisolar Hindu calendar and its aspects are as old as **Surya Siddhanta**, an ancient Sanskrit text on astronomy. Even today, this calendar is prevalent in India and it is mostly found in **Hindu Panchanga** an Indian almanac that details information about the various festivals, rituals, and planetary combinations and has been in use since time immemorial in the Indian subcontinent. This Panchanga can be commonly found in most Indian homes \cite{kscharak}.
 
 The **VedicDateTime** package aims to convert the commonly used Gregorian date-time to the Vedic date-time as per the calculations of the **Panchang**. Panchanga which means 'five arms' consists of the five most important parts - **Tithi, Vaara, Nakshatra, Yoga,** and **Karana**. The **Vaara** or the day of the week is based on Sun alone; **Tithi** and **Karana** are based upon Moon alone; **Nakshatra** and **Yoga** are based upon both Moon and Sun. This makes the Hindu calendar a true lunisolar calendar. **VedicDateTime** contributes a new calendar system in R that can have huge potential to discover meaningful patterns in natural time series.
 
