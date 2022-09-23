@@ -19,6 +19,15 @@ permalink: /eduexp/
 
 -----
 
+### <img src="https://user-images.githubusercontent.com/10669836/191917303-48fb2adf-8661-47cf-a754-5a4c8013a322.png" width="300"> Researcher
+#### August 2019 - Present
+
+[iCLIMATE Aarhus University Interdisciplinary Centre for Climate Change](https://pure.au.dk/portal/en/persons/neeraj-bokde(db26f43b-198c-4ba9-bb47-7d5a34eab6cf).html),
+
+[Aarhus University, Tjele, Denmark](https://international.au.dk/).
+
+-----
+
 
 ### ![AU_LOGO](https://user-images.githubusercontent.com/10669836/134785307-902c66e4-a553-4b6c-84dc-7bc2acc04bc3.png) Postdoctoral Researcher - Data Science and Digital Twins
 #### August 2021 - May 2022
