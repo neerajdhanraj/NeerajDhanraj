@@ -48,11 +48,23 @@ Aarhus is the second largest city in Denmark. We, both I and Seema, work in Aarh
 
 ![SeemaDen](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/1690091dda77c41644a2880f88414265cc501187/images/SeemaDen.gif)
 
+## Christmas Lights at Aarhus, Denmark
+<img src="https://user-images.githubusercontent.com/10669836/192088844-6956d87e-14b0-4bc1-bdb6-4ae32382a0ee.png" width="700">
+
+
 ## Holi, Festival of colors!
 Hoil is one of the famous Hindu festivals in India. This picture was clicked in the year 2016.
 
 <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/holi.jpg" width="700">
 <img src="https://user-images.githubusercontent.com/10669836/192088289-e2fb7fda-78a5-4d46-8276-7e249369d2a0.png" width="700">
+
+## Back to December 2019
+<img src="https://user-images.githubusercontent.com/10669836/192088623-e0bbea56-ed1b-44b9-bb56-1ae7ff508bac.png" width="700">
+<img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/50d3de9cebbf239009c294d1e987c61f9e8fcddf/images/s3.jpg" width="700">
+
+## Back to 2014
+<img src="https://user-images.githubusercontent.com/10669836/192088684-ff76cf8c-ade0-47e1-9ffb-001d97f0ef3f.png" width="700">
+<img src="https://user-images.githubusercontent.com/10669836/192088740-40c4cd50-856c-4ec2-bb66-f4e6056bd158.png" width="700">
 
 
 ## Burning Satellite: The Views from Nagpur and other Vidarbha Region
