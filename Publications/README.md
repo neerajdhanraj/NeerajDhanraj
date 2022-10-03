@@ -14,6 +14,7 @@ permalink: /publication/
 
 ### 2022
 
+*  Srivastava I., Bhat S., Suryavardhan B V., **Bokde N.** (2022). Fault Detection, Isolation and Service Restoration in Modern Power Distribution System: A Review. _Energies_ (IF 3.252). 15(19), 7264. DOI: [10.3390/en15197264](https://doi.org/10.3390/en15197264) `Review` `Energy` `Smart Grid` `Power Distribution` 
 *  Shende M., Feijoo A., and **Bokde N.** (2022). cleanTS: Automated (AutoML) Tool to Clean Univariate Time Series at Microscales. _Neurocomputing_ (IF 5.779). 500, 155-176. DOI: [10.1016/j.neucom.2022.05.057](https://doi.org/10.1016/j.neucom.2022.05.057) `Time Series Analysis` `Software` `Machine Learning` `AutoML`
 *  Hashmi A., Mali H., Meena A., Hashmi M. F., and **Bokde N.** (2022). Surface Characteristics Measurement Using Computer Vision: A Review. _Computer Modeling in Engineering and Sciences_ (IF 2.027). Accepted. DOI: []() `Review` `Deep Learning` `Computer Vision`
 *  Shende M., Salih S., **Bokde N.**, Scholz M., Oudah A., and Yaseen Z. (2022). Natural Time Series Parameters Forecasting: Validation of the Pattern-Sequence-Based Forecasting (PSF) Algorithm; A New Python Package. _Applied Sciences_ (IF 2.838). 12(12), 6194. DOI: [10.3390/app12126194](https://doi.org/10.3390/app12126194) `Time Series Analysis` `Software` `Machine Learning` `Forecasting`
