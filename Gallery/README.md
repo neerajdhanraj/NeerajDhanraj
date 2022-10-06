@@ -16,7 +16,7 @@ permalink: /gallery/
 
 ## Meet My Son, Pruthviraj!!
 
-Meet my son, Pruthviraj. On the oscpious occasion of Krishna Janmashtami (Gokulashtami - an annual Hindu festival that celebrates the birth of Krishna, the eighth avatar of Vishnu), he was dressed up like Bhagwan Shri Krishna. 
+Meet my son, Pruthviraj. On the auspicious occasion of Krishna Janmashtami (Gokulashtami - an annual Hindu festival that celebrates the birth of Krishna, the eighth avatar of Vishnu), he was dressed up like Bhagwan Shri Krishna. 
 
 <img src="https://user-images.githubusercontent.com/10669836/194341158-762d8a2d-9e0d-42cf-bf0b-f352686b6742.png" width="700">
 <img src="https://user-images.githubusercontent.com/10669836/194341326-bdd335be-dfe4-4843-8b7b-5c0e62d33f63.png" width="700">
