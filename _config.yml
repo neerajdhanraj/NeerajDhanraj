@@ -74,7 +74,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2022. All rights reserved @ Dr. Neeraj Dhanraj Bokde. (Updated on September 2022)
+copyright:             © 2020 - 2022. All rights reserved @ Dr. Neeraj Dhanraj Bokde. (Updated on October 2022)
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
