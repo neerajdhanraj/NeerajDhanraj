@@ -11,6 +11,9 @@ permalink: /publication/
 
 ## JCR Articles
 
+### 2023
+
+*  Hashmi A., Mali H., Meena A., Hashmi M. F., and **Bokde N.** (2023). Surface Characteristics Measurement Using Computer Vision: A Review. _Computer Modeling in Engineering and Sciences_ (IF 2.027). 135(2), 917-1005. DOI: [10.32604/cmes.2023.021223](http://dx.doi.org/10.32604/cmes.2023.021223) `Review` `Deep Learning` `Computer Vision`
 
 ### 2022
 
@@ -18,7 +21,6 @@ permalink: /publication/
 *  Kannaiyan S., **Bokde N.** (2022). Performance of Parabolic Trough Collector with Different Heat Transfer Fluids and Control Operation. _Energies_ (IF 3.252). 15(20), 7572. DOI: [10.3390/en15207572](https://doi.org/10.3390/en15207572) `Solar` `Energy` `Modeling` 
 *  Srivastava I., Bhat S., Suryavardhan B V., **Bokde N.** (2022). Fault Detection, Isolation and Service Restoration in Modern Power Distribution System: A Review. _Energies_ (IF 3.252). 15(19), 7264. DOI: [10.3390/en15197264](https://doi.org/10.3390/en15197264) `Review` `Energy` `Smart Grid` `Power Distribution` 
 *  Shende M., Feijoo A., and **Bokde N.** (2022). cleanTS: Automated (AutoML) Tool to Clean Univariate Time Series at Microscales. _Neurocomputing_ (IF 5.779). 500, 155-176. DOI: [10.1016/j.neucom.2022.05.057](https://doi.org/10.1016/j.neucom.2022.05.057) `Time Series Analysis` `Software` `Machine Learning` `AutoML`
-*  Hashmi A., Mali H., Meena A., Hashmi M. F., and **Bokde N.** (2022). Surface Characteristics Measurement Using Computer Vision: A Review. _Computer Modeling in Engineering and Sciences_ (IF 2.027). Accepted. DOI: []() `Review` `Deep Learning` `Computer Vision`
 *  Shende M., Salih S., **Bokde N.**, Scholz M., Oudah A., and Yaseen Z. (2022). Natural Time Series Parameters Forecasting: Validation of the Pattern-Sequence-Based Forecasting (PSF) Algorithm; A New Python Package. _Applied Sciences_ (IF 2.838). 12(12), 6194. DOI: [10.3390/app12126194](https://doi.org/10.3390/app12126194) `Time Series Analysis` `Software` `Machine Learning` `Forecasting`
 *  Salunke S., Ahuja B., Hashmi M. F., Marriboyina V., and **Bokde N.** (2022). 5D Gauss Map Perspective to Image Encryption with Transfer Learning Validation. _Applied Sciences_ (IF 2.838). 12(11), 5321. DOI: [10.3390/app12115321](https://doi.org/10.3390/app12115321) `Image Encryption` `Deep Learning` `Transfer Learning`
 *  Goutam B., Hashmi M. F., Geem Z. W., and **Bokde N.** (2022). A Comprehensive Review of Deep Learning Strategies in Retinal Disease Diagnosis Using Fundus Images. _IEEE Access_ (IF 4.098). 10, 57796-57823. DOI: [10.1109/ACCESS.2022.3178372](https://doi.org/10.1109/ACCESS.2022.3178372) `Review` `Deep Learning` `Computer Vision` `Object Detection` `Biomedical`
