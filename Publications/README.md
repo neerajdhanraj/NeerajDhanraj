@@ -17,6 +17,7 @@ permalink: /publication/
 
 ### 2022
 
+*  Sawant M., Patil R., Shikhare T., Nagle S., Chavan S., Negi S., and **Bokde N.** (2022). A Selective Review on Recent Advancements in Long, Short and Ultra-Short-Term Wind Power Prediction. _Energies_ (IF 3.252). 15(21), 8107. DOI: [10.3390/en15218107](https://doi.org/10.3390/en15218107) `Wind` `Energy` `Wind Power` `Forecasting`
 *  Khare S., Gaikwad N., and **Bokde N.** (2022). Intelligent Motor Imagery Detection System using Electro- encephalography with Adaptive Wavelets. _Sensors_ (IF 3.847). 22(21), 8128. DOI: [10.3390/s22218128](https://doi.org/10.3390/s22218128) `Classification` `Imagery detection`
 *  Kannaiyan S., **Bokde N.** (2022). Performance of Parabolic Trough Collector with Different Heat Transfer Fluids and Control Operation. _Energies_ (IF 3.252). 15(20), 7572. DOI: [10.3390/en15207572](https://doi.org/10.3390/en15207572) `Solar` `Energy` `Modeling` 
 *  Srivastava I., Bhat S., Suryavardhan B V., **Bokde N.** (2022). Fault Detection, Isolation and Service Restoration in Modern Power Distribution System: A Review. _Energies_ (IF 3.252). 15(19), 7264. DOI: [10.3390/en15197264](https://doi.org/10.3390/en15197264) `Review` `Energy` `Smart Grid` `Power Distribution` 
