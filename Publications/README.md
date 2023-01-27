@@ -13,10 +13,7 @@ permalink: /publication/
 
 ### 2023
 
-*  Surya Vardhan B. V., Khedkar M., , Hashmi M., Srivastava I., Thankre P., and **Bokde N.** (2023). A Comparative Analysis of Hyperparameter Tuned Stochastic Short Term Load Forecasting for Power System Operators. _Energies_ (IF 3.252). 16(3), 1243. DOI: [10.3390/en16031243](https://doi.org/10.3390/en16031243) `Power load` `Short term load` `Forecasting` `Machine Learning`
-*  Salunke S., Shrivastava A., Hashmi M., Ahuja B., and **Bokde N.** (2023). Quad Key Secured 3D Gauss Encryption Compression System with Lyapunov Exponent Validation for Digital Images. _Applied Sciences_ (IF 2.838). 13(3), 1616. DOI: [10.3390/app13031616](https://doi.org/10.3390/app13031616) `Encryption` `Image Processing`
-*  Tiwari S., Sengupta J., and **Bokde N.** (2023). Analysis of Individual User Data Rate in a TDMA-RIS-NOMA Downlink System: Beyond the Limitation of Conventional NOMA. _Electronics_ (IF 2.690). 12(3), 618. DOI: [10.3390/electronics12030618](https://doi.org/10.3390/electronics12030618) `Communication`
-*  Hashmi A., Mali H., Meena A., Hashmi M. F., and **Bokde N.** (2023). Surface Characteristics Measurement Using Computer Vision: A Review. _Computer Modeling in Engineering and Sciences_ (IF 2.027). 135(2), 917-1005. DOI: [10.32604/cmes.2023.021223](http://dx.doi.org/10.32604/cmes.2023.021223) `Review` `Deep Learning` `Computer Vision`
+* sample
 
 ### 2022
 
