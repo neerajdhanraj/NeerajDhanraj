@@ -10,7 +10,7 @@ permalink: /eduexp/
 ---
 ## <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/work.png" width="30">  Experience 
 
-### <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/dewa_logo.png" width="90"> Associate Researcher
+### <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/dewa_logo.png" width="90"> Researcher
 #### February 2023 - Present
 
 [Research & Development (R&D) Centre](https://www.dewa.gov.ae/en/about-us/strategic-initiatives/mbr-solar-park/research-and-development-centre),
