@@ -13,7 +13,7 @@ permalink: /publication/
 
 ### 2023
 
-*  Ahuja B., Doriya R., Salunke S., Hashmi M., Gupta A., and **Bokde N.** (2023). HDIEA: High Dimensional Color Image Encryption Architecture Using 5D Gauss-Logistic and Lorenz System. _Connection Science_ (IF 3.500). Accepted. DOI: []() `Encryption` `Image Processing` 
+*  Ahuja B., Doriya R., Salunke S., Hashmi M., Gupta A., and **Bokde N.** (2023). HDIEA: High Dimensional Color Image Encryption Architecture Using 5D Gauss-Logistic and Lorenz System. _Connection Science_ (IF 3.500). DOI: [10.1080/09540091.2023.2175792](https://doi.org/10.1080/09540091.2023.2175792) `Encryption` `Image Processing` 
 *  Surya Vardhan B. V., Khedkar M., , Hashmi M., Srivastava I., Thankre P., and **Bokde N.** (2023). A Comparative Analysis of Hyperparameter Tuned Stochastic Short Term Load Forecasting for Power System Operators. _Energies_ (IF 3.252). 16(3), 1243. DOI: [10.3390/en16031243](https://doi.org/10.3390/en16031243) `Power load` `Short term load` `Forecasting` `Machine Learning`
 *  Sahu S. K., Mokhade A., and **Bokde N.** (2023). An Overview of Machine Learning, Deep Learning and Reinforcement Learning Based Techniques in Quantitative Finance: Recent Progress and Challenges. _Applied Sciences_ (IF 2.838). 13(3), 1956. DOI: [10.3390/app13031956](https://doi.org/10.3390/app13031956) `Review` `Finance` `Deep Learning` `Machine Learning`  
 *  Salunke S., Shrivastava A., Hashmi M., Ahuja B., and **Bokde N.** (2023). Quad Key Secured 3D Gauss Encryption Compression System with Lyapunov Exponent Validation for Digital Images. _Applied Sciences_ (IF 2.838). 13(3), 1616. DOI: [10.3390/app13031616](https://doi.org/10.3390/app13031616) `Encryption` `Image Processing`
