@@ -19,7 +19,7 @@ permalink: /eduexp/
 
 -----
 
-### ![AU_LOGO](https://user-images.githubusercontent.com/10669836/134785307-902c66e4-a553-4b6c-84dc-7bc2acc04bc3.png) Assistant Professor
+### <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/QGG_logo.png" width="100"> Assistant Professor
 #### June 2022 - Present
 
 [Center for Quantitative Genetics and Genomics](https://pure.au.dk/portal/en/persons/neeraj-bokde(db26f43b-198c-4ba9-bb47-7d5a34eab6cf).html),
