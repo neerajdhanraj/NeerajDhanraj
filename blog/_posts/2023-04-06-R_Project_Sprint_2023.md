@@ -4,11 +4,11 @@ title: R Project Sprint 2023 - A Celebration of Collaboration and Innovation
 description: >
   Details of my nomination for R Project Sprint 2023
 image: 
-  path: /images/RProjectSprint/RPS04.png
+  path: /images/R_LOGO.jpg
   srcset:
-    1060w: /images/RProjectSprint/RPS04.png
-    530w:  /images/RProjectSprint/RPS04.png,5x.jpg
-    265w:  /images/RProjectSprint/RPS04.png@0,25x.jpg
+    1060w: /images/R_LOGO.jpg
+    530w:  /images/R_LOGO.jpg,5x.jpg
+    265w:  /images/R_LOGO.jpg@0,25x.jpg
 accent_image: 
   background: url('/assets/img/blog/temple.jpg') center/cover
   overlay: false
