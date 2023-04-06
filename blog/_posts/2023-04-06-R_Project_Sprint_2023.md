@@ -4,11 +4,11 @@ title: R Project Sprint 2023 - A Celebration of Collaboration and Innovation
 description: >
   Details of my nomination for R Project Sprint 2023
 image: 
-  path: /images/GSOC22.PNG
+  path: /images/RProjectSprint/RPS04.png
   srcset:
-    1060w: /images/GSOC22.PNG
-    530w:  /images/GSOC22.PNG@0,5x.jpg
-    265w:  /images/GSOC22.PNG@0,25x.jpg
+    1060w: /images/RProjectSprint/RPS04.png
+    530w:  /images/RProjectSprint/RPS04.png,5x.jpg
+    265w:  /images/RProjectSprint/RPS04.png@0,25x.jpg
 accent_image: 
   background: url('/assets/img/blog/temple.jpg') center/cover
   overlay: false
@@ -20,7 +20,7 @@ related_posts:
 sitemap: false
 ---
 
-## R Project Sprint 2023: A Celebration of Collaboration and Innovation
+## Nomination for 'R Project Sprint 2023': A Celebration of Collaboration and Innovation
 
 ### Nomination
 I am excited to share that I have been nominated to participate in the upcoming [R Project Sprint 2023](https://contributor.r-project.org/r-project-sprint-2023/)! This annual event unites R enthusiasts, developers, and experts from around the globe to collaborate on projects that aim to enhance and expand the R ecosystem. The R Project Sprint is a true testament to the power of community and collaboration, and I am honored to be part of this incredible gathering.
