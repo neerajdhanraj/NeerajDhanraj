@@ -104,6 +104,9 @@ DOI: [10.1016/j.neucom.2022.03.014](https://doi.org/10.1016/j.neucom.2022.03.014
 
 ## Conference Articles
 
+### 2023
+* Sawarkar, A., Shrimankar, D., **Bokde, N.** (2023). Commercial Clustering of Indian Bamboo Species Using Machine Learning Clustering Techniques and Performance Measures. In _IEEE International Conference on the Paradigm shifts in Communication, Embedded Systems, Machine Learning and Signal Processing (PCEMS 2023)_, Nagpur, India. `Machine Learning` `Custering` `Bioinformatics`
+
 ### 2021
 * **Bokde N.**, Johansen K.,Wandahl S., and Teizer J. (2021). A Digital Twin Framework For Equipment Emissions FromConstruction Site Operations. In _Proceedings of 21st International Conference on Construction Application of Virtual Reality (pp. 31-42). Middlesbrough, UK: Teesside University Press_. [URL](https://www.researchgate.net/publication/357529035_Industry40_Applications_for_Full_Lifecycle_Integration_of_Buildings_Proceedings_of_the_21st_International_Conference_on_Construction_Applications_of_Virtual_Reality) `Digital Twins` `Emission`
 
@@ -126,6 +129,7 @@ routing algorithm. In _Recent Advances in Electronics & Computer Engineering (RA
 ---
 
 ## Book Chapters
+*  Lachure S., Lohidasan A., Tiwari A., Dhabu M., and **Bokde, N.** (2023). Quantum Machine Learning Applications to Address Climate Change: A Short Review. In _Handbook of Research on Quantum Computing for Smart Environments_ (pp. 65--83). IGI Global Publications. DOI: [10.4018/978-1-6684-6697-1.ch004](https://www.igi-global.com/chapter/quantum-machine-learning-applications-to-address-climate-change/319862) `Quantum` `Machine Learning` `Review` 
 * Patil, J., **Bokde, N.**, Mishra, S., and Kulat, K. D. (2019) PSF based spectrum occupancy prediction in cognitive radio. In _Advanced Engineering Optimization Through Intelligent Techniques, Springer Nature Singapore._ DOI: [10.1007/978-981-13-8196-6_53](https://doi.org/10.1007/978-981-13-8196-6_53) `Cognitive Radio` `Forecasting`
 * **Bokde, N.**, Wakpanjar, A., Kulat, K. D., and Feijoo A. (2018). Robust performance of PSF method over outliers and random patterns in univariate time series forecasting. In _Computer Science Advances: Research and Applications._ [URL](https://novapublishers.com/shop/computer-science-advances-research-and-applications/) `Forecasting`
 * Gupta, A., Satpute, V. R., Kulat, K. D., and **Bokde, N.** (2016). Real-Time Abandoned Object Detection Using Video Surveillance. In _Proceedings of the International Conference on Recent Cognizance in Wireless Communication & Image Processing (pp. 837-843). Springer, New Delhi._ [URL](https://www.researchgate.net/publication/301720838_Real-Time_Abandoned_Object_Detection_Using_Video_Surveillance) `Object Detection`
