@@ -137,6 +137,7 @@ routing algorithm. In _Recent Advances in Electronics & Computer Engineering (RA
 ---
 
 ## Technical notes and Preprints
+* **Bokde, N.**, Patil P., Sengupta S., and Feijoo A. (2022). VedicDateTime: Vedic Calendar System. R package version, 0.1.2. [View on CRAN](https://cran.r-project.org/package=VedicDateTime) 
 * Shende M., **Bokde, N.**, Feijoo A. (2021). cleanTS: Testbench for Univariate Time Series Cleaning. R package version, 0.1.0. [View on CRAN](https://cran.r-project.org/package=cleanTS)
 * **Bokde, N.**, Andersen G. B. (2020). ForecastTB: Test Bench for the Comparison of Forecast Methods. R package version, 1.0.1. [View on CRAN](https://cran.r-project.org/package=ForecastTB)
 * Shende, M., **Bokde, N.** (2019). Jaya: Jaya, a Gradient-Free Optimization Algorithm. R package version, 0.1.9. [View on CRAN](https://cran.r-project.org/package=Jaya)
