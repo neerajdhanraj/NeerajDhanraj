@@ -35,9 +35,19 @@ Its information is given below and the detailed flyer for this special issue is 
 
 The “three pillars of sustainability” concept, which encompasses social, economic, and environmental sustainability, is well-known and very important in society. However, currently, greater importance is given to social and economic development at the cost of environmental sustainability. In recent decades, major topic discussed in this area have included the harvesting of renewable resources, the depletion of non-renewable resources, and the creation of pollution. Recent advancements in data analysis techniques and methodologies along with higher-level computational infrastructures have presented many new dimensions to observe patterns and provide more effective solutions. For this Special Issue of Energies on “Data-driven approaches for environmental sustainability”, we invite authors to submit articles on, but not limited to, the following topics: data-analysis-driven analysis, policies, and case studies of environmental parameters such as renewable energy, air and water pollution, and water leakage management; enhancement of data analysis techniques such as predictions, time series forecasting, data imputations, optimization methodologies, and their applications in environmental sustainability; data collection, data cleaning, and novel visualization techniques; data analysis tools, software, and packages for use in environmental sustainability.
 
+Glad to share that following articles are already published in this special issue: 
+
+1. [Performance of Parabolic Trough Collector with Different Heat Transfer Fluids and Control Operation](https://doi.org/10.3390/en15207572)
+2. [Machine Learning Assisted Chemical Process Parameter Mapping on Lignin Hydrogenolysis](https://doi.org/10.3390/en16010256)
+3. [Bioethanol Production from Lignocellulosic Biomass Using Aspergillus niger and Aspergillus flavus Hydrolysis Enzymes through Immobilized S. cerevisiae](https://doi.org/10.3390/en16020823)
+4. [A Comparative Analysis of Hyperparameter Tuned Stochastic Short Term Load Forecasting for Power System Operator](https://doi.org/10.3390/en16031243)
+5. [Impacts of Tariffs on Energy Conscious Behavior with Respect to Household Attributes in Saudi Arabia](https://doi.org/10.3390/en16031458)
+6. [A New QFD-CE Method for Considering the Concept of Sustainable Development and Circular Economy](https://doi.org/10.3390/en16052474)
+7. [From Secondary Biomass to Bio-Methanol through CONVERGE Technology: An Environmental Analysis](https://doi.org/10.3390/en16062726)
+8. [Data-Driven Internal Carbon Pricing Mechanism for Improving Wood Procurement in Integrated Energy and Material Production](https://doi.org/10.3390/en16083473)
+9. [Analysis of the Level of Efficiency of Control Methods in the Context of Energy Intensity](https://doi.org/10.3390/en16083507)
+
 Please consider this special issue and feel free to contact me if you have a relevant manuscript to publish.
-
-
 
 [mm]: https://guides.github.com/features/mastering-markdown/
 [ksyn]: https://kramdown.gettalong.org/syntax.html
