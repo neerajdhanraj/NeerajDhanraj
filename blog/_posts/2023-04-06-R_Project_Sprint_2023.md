@@ -34,10 +34,10 @@ During the R Project Sprint, participants work in teams on various projects, ran
 
 As the R Project Sprint 2023 approaches, I am honored to be part of this inspiring event and look forward to sharing my experiences with you all. The R Project Sprint serves as a reminder of the power of collaboration and the importance of fostering a supportive community in the ever-evolving world of data science.
 
-![RPS02](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/RProjectSprint/RPS02.png) [Source](https://contributor.r-project.org/r-project-sprint-2023/participants/)
+![RPS02](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/RProjectSprint/RSprintL.PNG) [Source](https://contributor.r-project.org/r-project-sprint-2023/participants/)
 
 ### Acknowledging the R Project Sprint 2023 Team
-I would like to take this opportunity to express my heartfelt gratitude to the R Project Sprint 2023 team for their incredible generosity in sponsoring my stay, meals, and travel expenses during the event.
+I would like to take this opportunity to express my heartfelt gratitude to the R Project Sprint 2023 team for the invitation to the event.
 
 By removing financial barriers, the R Project Sprint 2023 team has made it possible for a diverse range of individuals to come together and contribute to the growth and success of the R ecosystem. This level of support truly exemplifies the values of the R community and sets a strong foundation for a productive and inspiring event. I am immensely grateful for their sponsorship and eagerly look forward to making the most of this opportunity at the R Project Sprint 2023.
 
