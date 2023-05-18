@@ -25,7 +25,8 @@ Meet my son, Pruthviraj. On the auspicious occasion of Krishna Janmashtami (Goku
 
 ## My Lovely Parents :revolving_hearts:
 
-<img src="https://github.com/neerajdhanraj/NeerajDhanraj/blob/9475d50b2c62160b7d6df0858f06cc96ea5751d9/images/aaibaba.jpg" width="700">
+![aaibaba](https://github.com/neerajdhanraj/NeerajDhanraj/assets/10669836/d92388eb-c0ea-4989-8efb-18cd270561ee)
+
 
 ## Gathering after a log time :relieved:
 
