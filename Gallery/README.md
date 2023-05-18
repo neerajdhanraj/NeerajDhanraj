@@ -14,7 +14,7 @@ sitemap: false
 permalink: /gallery/
 ---
 
-## Meet My Son, Pruthviraj!! :star2: :dizzy:
+## Meet My Son, Pruthviraj!! 
 
 Meet my son, Pruthviraj. On the auspicious occasion of Krishna Janmashtami (Gokulashtami - an annual Hindu festival that celebrates the birth of Krishna, the eighth avatar of Vishnu), he was dressed up like Bhagwan Shri Krishna. 
 
@@ -23,12 +23,12 @@ Meet my son, Pruthviraj. On the auspicious occasion of Krishna Janmashtami (Goku
 <img src="https://user-images.githubusercontent.com/10669836/194341535-31345779-3bc8-416c-9146-6dfccb0fd6cb.png" width="700">
 <img src="https://user-images.githubusercontent.com/10669836/194341689-65e48f2b-2724-4d6c-80c8-26de332f1f67.png" width="700">
 
-## My Lovely Parents :revolving_hearts:
+## My Lovely Parents 
 
 ![aaibaba](https://github.com/neerajdhanraj/NeerajDhanraj/assets/10669836/d92388eb-c0ea-4989-8efb-18cd270561ee)
 
 
-## Gathering after a log time :relieved:
+## Gathering after a log time :)
 
 <img src="https://user-images.githubusercontent.com/10669836/188815092-6c2cd3fe-8b98-4544-9955-fc9be8482e01.png" width="700">
 
