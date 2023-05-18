@@ -14,7 +14,7 @@ sitemap: false
 permalink: /gallery/
 ---
 
-## Meet My Son, Pruthviraj!!
+## Meet My Son, Pruthviraj!! :star2: :dizzy:
 
 Meet my son, Pruthviraj. On the auspicious occasion of Krishna Janmashtami (Gokulashtami - an annual Hindu festival that celebrates the birth of Krishna, the eighth avatar of Vishnu), he was dressed up like Bhagwan Shri Krishna. 
 
@@ -23,8 +23,11 @@ Meet my son, Pruthviraj. On the auspicious occasion of Krishna Janmashtami (Goku
 <img src="https://user-images.githubusercontent.com/10669836/194341535-31345779-3bc8-416c-9146-6dfccb0fd6cb.png" width="700">
 <img src="https://user-images.githubusercontent.com/10669836/194341689-65e48f2b-2724-4d6c-80c8-26de332f1f67.png" width="700">
 
+## My Lovely Parents :revolving_hearts:
 
-## Gathering after a log time :)
+<img src="https://github.com/neerajdhanraj/NeerajDhanraj/blob/9475d50b2c62160b7d6df0858f06cc96ea5751d9/images/aaibaba.jpg" width="700">
+
+## Gathering after a log time :relieved:
 
 <img src="https://user-images.githubusercontent.com/10669836/188815092-6c2cd3fe-8b98-4544-9955-fc9be8482e01.png" width="700">
 
@@ -33,15 +36,10 @@ Meet my son, Pruthviraj. On the auspicious occasion of Krishna Janmashtami (Goku
 Ramtek town is famous for its ancient Gadh (Fort) Temple of Shri Rama, the Hindu god. However, a very few people know about further older (at least 1200 years old) temple situation in the same town. This temple is know as Kapoor Baoli. A miraculous place to visit in Central India.
 
 <img src="https://user-images.githubusercontent.com/10669836/188812676-e837ea5d-c962-488f-bef5-9cb86c6843a9.png" width="700">
-
 <img src="https://user-images.githubusercontent.com/10669836/188812717-d3b6abb0-7f7b-422c-a20e-1f0acdc023f3.png" width="700">
-
 <img src="https://user-images.githubusercontent.com/10669836/188812825-677c12a7-dca3-429d-9b65-6a5dda34e62c.png" width="700">
-
 <img src="https://user-images.githubusercontent.com/10669836/188812880-2cc7fe3f-a281-4519-a03b-1899f2d715b3.png" width="700">
-
 <img src="https://user-images.githubusercontent.com/10669836/188812944-f0ed99d4-ade8-473f-b040-c04cdb56a6d2.png" width="700">
-
 <img src="https://user-images.githubusercontent.com/10669836/188812986-47ceff7e-54e8-4948-acb2-b4f453efaa5d.png" width="700">
 
 
@@ -50,7 +48,6 @@ Ramtek town is famous for its ancient Gadh (Fort) Temple of Shri Rama, the Hindu
 Mango is a national fruit of India and one cannot imagine summer of India without Mangoes. My parents has grown up a alluring Mango tree at our home in Nagpur, India. 
 
 ![Mango](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/53e6be6ef2c12e566abd2f61cb788b2f4b3284aa/images/Mango.jpg)
-
 ![Mango Tree](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/a1a9f1980ae72c283a650fb5ae76adf887a67fb0/images/MangoTree.gif)
 
 ## Beautiful Aarhus City exploration with Beautiful life-partner, Seema!
