@@ -14,6 +14,20 @@ permalink: /software/
 
 # R Packages
 
+### 1. VedicDateTime: An R Package to Implement Vedic Calendar System
+* Provides platform for Vedic calendar system having several functionalities to facilitate conversion between Gregorian and Vedic calendar systems
+* Helpful in examining its impact in the time series analysis domain. 
+* The background is described in Neeraj Dhanraj Bokde et al. (2021) [doi:10.48550/arXiv.2111.03441](https://doi.org/10.48550/arXiv.2111.03441)
+
+![VedicDateTimeLogo](https://github.com/neerajdhanraj/NeerajDhanraj/assets/10669836/6fe1c6d2-a91e-431a-acc2-bdbab56871df)
+
+
+#### CRAN 
+* [https://cran.r-project.org/package=VedicDateTime](https://cran.r-project.org/package=VedicDateTime)
+#### Publication/Manual
+* Bokde N., Patil P., Sengupta S., and Feijoo A. (2022). [VedicDateTime: An R Package to Implement Vedic Calendar System](https://cran.r-project.org/web/packages/VedicDateTime/vignettes/VedicDateTime.pdf)
+---
+
 ### 1. PSF: Forecasting of Univariate Time Series Using the Pattern Sequence-Based Forecasting (PSF) Algorithm
 * Pattern Sequence Based Forecasting (PSF) takes univariate time series data as input and assist to forecast its future values.
 * This algorithm forecasts the behavior of time series based on similarity of pattern sequences.
