@@ -26,9 +26,10 @@ permalink: /software/
 * [https://cran.r-project.org/package=VedicDateTime](https://cran.r-project.org/package=VedicDateTime)
 #### Publication/Manual
 * Bokde N., Patil P., Sengupta S., and Feijoo A. (2022). [VedicDateTime: An R Package to Implement Vedic Calendar System](https://cran.r-project.org/web/packages/VedicDateTime/vignettes/VedicDateTime.pdf)
+
 ---
 
-### 1. PSF: Forecasting of Univariate Time Series Using the Pattern Sequence-Based Forecasting (PSF) Algorithm
+### 2. PSF: Forecasting of Univariate Time Series Using the Pattern Sequence-Based Forecasting (PSF) Algorithm
 * Pattern Sequence Based Forecasting (PSF) takes univariate time series data as input and assist to forecast its future values.
 * This algorithm forecasts the behavior of time series based on similarity of pattern sequences.
 * Initially, clustering is done with the labeling of samples from database.
@@ -42,7 +43,7 @@ permalink: /software/
 
 ---
 
-### 2. imputeTestbench: Test Bench for the Comparison of Imputation Methods
+### 3. imputeTestbench: Test Bench for the Comparison of Imputation Methods
 * Provides a test bench for the comparison of missing data imputation methods in uni-variate time series.
 * Imputation methods are compared using different error metrics.
 * Proposed imputation methods and alternative error metrics can be used.
@@ -54,7 +55,7 @@ permalink: /software/
 
 ---
 
-### 3. ForecastTB: Test Bench for the Comparison of Forecast Methods
+### 4. ForecastTB: Test Bench for the Comparison of Forecast Methods
 * Provides a test bench for the comparison of forecasting methods in uni-variate time series.
 * Forecasting methods are compared using different error metrics.
 * Proposed forecasting methods and alternative error metrics can be used.
@@ -73,7 +74,7 @@ Please click on three parallel lines on left-top of the Shiny panel for better v
 
 ---
 
-### 4. CleanTS: Testbench for Univariate Time Series Cleaning
+### 5. CleanTS: Testbench for Univariate Time Series Cleaning
 * A reliable and efficient tool for cleaning univariate time series data.
 * It implements reliable and efficient procedures for automating the process of cleaning univariate time series data.
 * The package provides integration with already developed and deployed tools for missing value imputation and outlier detection.
@@ -93,7 +94,7 @@ Please click on three parallel lines on left-top of the Shiny panel for better v
 
 ---
 
-### 5. GuessCompx: Empirically Estimates Algorithm Complexity
+### 6. GuessCompx: Empirically Estimates Algorithm Complexity
 * Make an empirical guess on the time and memory complexities of an algorithm or a function.
 * Tests multiple, increasing size random samples of your data and tries to fit various complexity functions o(n), o(n2), o(log(n)), etc.
 * Based on best fit, it predicts the full computation time on your whole dataset. Results are plotted with 'ggplot2'.
@@ -105,7 +106,7 @@ Please click on three parallel lines on left-top of the Shiny panel for better v
 
 ---
 
-### 6. Jaya: a Gradient-Free Optimization Algorithm
+### 7. Jaya: a Gradient-Free Optimization Algorithm
 * Maximization or Minimization of a fitness function using Jaya Algorithm (JA).
 * A population based method which repeatedly modifies a population of individual solutions.
 * Capable of solving both constrained and unconstrained optimization problems.
@@ -120,7 +121,7 @@ Please click on three parallel lines on left-top of the Shiny panel for better v
 
 ---
 
-### 7. WindCurves: Tool to Fit Wind Turbine Power Curves
+### 8. WindCurves: Tool to Fit Wind Turbine Power Curves
 * Provides a tool to fit and compare the wind turbine power curves with successful curve fitting techniques.
 * Facilitates to examine and compare the performance of a user-defined power curve fitting techniques.
 * Also, provide features to generate power curve discrete points from a graphical power curves.
@@ -133,7 +134,7 @@ Please click on three parallel lines on left-top of the Shiny panel for better v
 
 ---
 
-### 8. decomposedPSF: Time Series Prediction with PSF and Decomposition Methods (EMD and EEMD)
+### 9. decomposedPSF: Time Series Prediction with PSF and Decomposition Methods (EMD and EEMD)
 * Predict future values with hybrid combinations of Pattern Sequence based Forecasting (PSF), Autoregressive Integrated Moving Average (ARIMA), Empirical Mode Decomposition (EMD) and Ensemble Empirical Mode Decomposition (EEMD) methods based hybrid methods.
 #### CRAN
 * [https://cran.r-project.org/package=decomposedPSF](https://cran.r-project.org/package=decomposedPSF)
@@ -144,7 +145,7 @@ Please click on three parallel lines on left-top of the Shiny panel for better v
 
 ---
 
-### 9. imputePSF: Impute Missing Data in Time Series Data with PSF Based Method
+### 10. imputePSF: Impute Missing Data in Time Series Data with PSF Based Method
 * Imputes the missing values in time series data with PSF algorithm based approach.
 * The details about PSF algorithm are available at: <https://cran.r-project.org/package=PSF>.
 #### CRAN
