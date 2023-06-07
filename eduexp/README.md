@@ -8,16 +8,8 @@ hide_description: true
 sitemap: false
 permalink: /eduexp/
 ---
+
 ## <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/work.png" width="30">  Experience 
-
-### <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/dewa_logo.png" width="90"> Senior Researcher
-#### February 2023 - Present
-
-[Research & Development (R&D) Centre](https://www.dewa.gov.ae/en/about-us/strategic-initiatives/mbr-solar-park/research-and-development-centre),
-
-[Dubai Electricity and Water Authority, Dubai, UAE](https://www.dewa.gov.ae/en).
-
------
 
 ### <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/QGG_logo.png" width="100"> Assistant Professor
 #### June 2022 - Present
@@ -37,6 +29,14 @@ permalink: /eduexp/
 
 -----
 
+### <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/dewa_logo.png" width="90"> Senior Researcher
+#### February 2023 - May 2023
+
+[Research & Development (R&D) Centre](https://www.dewa.gov.ae/en/about-us/strategic-initiatives/mbr-solar-park/research-and-development-centre),
+
+[Dubai Electricity and Water Authority, Dubai, UAE](https://www.dewa.gov.ae/en).
+
+-----
 
 ### ![AU_LOGO](https://user-images.githubusercontent.com/10669836/134785307-902c66e4-a553-4b6c-84dc-7bc2acc04bc3.png) Postdoctoral Researcher - Data Science and Digital Twins
 #### August 2021 - May 2022
