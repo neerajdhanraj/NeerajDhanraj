@@ -62,13 +62,13 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        neeraj-bokde-9680ba19
+    linkedin:        neerajbokde
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    download:        <https://scholar.google.com/citations?user=N2kk4AQAAAAJ&hl=en>
+    download:        https://scholar.google.com/citations?user=N2kk4AQAAAAJ&hl=en
     # keybase          <username>
 
 # Another author (optional)
