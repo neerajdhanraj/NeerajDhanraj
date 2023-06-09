@@ -11,7 +11,7 @@ permalink: /eduexp/
 
 ## <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/work.png" width="30">  Experience
 
-### <img src="https://github.com/neerajdhanraj/NeerajDhanraj/blob/a9612406b03148c756f8c789683f328d987faed6/images/TII_Logo.jpg" width="120"> Senior Researcher
+### <img src="https://github.com/neerajdhanraj/NeerajDhanraj/assets/10669836/1752a507-002b-4641-a805-f2adb7feca45" width="120"> Senior Researcher
 #### June 2023 - Present
 
 [Renewable and Sustainable Energy Research Center](https://www.tii.ae/renewable-and-sustainable),
