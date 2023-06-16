@@ -91,6 +91,7 @@ Analytical Instrumentaion Devision,
 * [imputeTestbenchG: imputation testbench for Genomics data](https://github.com/rstats-gsoc/gsoc2022/wiki/imputeTestbenchG\%3A-imputation-testbench-for-Genomics-data) (Year: 2022)
 * [VedicDateTime (Part A)](https://github.com/rstats-gsoc/gsoc2022/wiki/VedicDateTime-\%28Part-A\%29) (Year: 2022)
 * [VedicDateTime (Part B)](https://github.com/rstats-gsoc/gsoc2022/wiki/VedicDateTime-\%28Part-B\%29) (Year: 2022)
+* [Updates in CleanTS Package](https://summerofcode.withgoogle.com/programs/2023/projects/HVYpx0Wa) (Year: 2023)
 
 ---
 
@@ -108,6 +109,7 @@ Analytical Instrumentaion Devision,
 * Journal of Healthcare Engineering (Hindawi,  SI: [Developments in Internet of Bio-Nano Things for Advanced Healthcare Engineering](https://www.hindawi.com/journals/jhe/si/584579/), Guest Editor)
 * Frontiers in Energy Efficiency (Modelling and Simulation) (Frontiers, Review Editor)
 * Energies (MDPI, SI: [Data-Driven Approaches for Environmental Sustainability 2023](https://www.mdpi.com/journal/energies/special_issues/NKX8X28I58), Guest Editor)
+* Frontiers in Energy Research (Frontiers, Associate Editor for Section: [Sustainable Energy Systems](https://www.frontiersin.org/journals/energy-research/sections/sustainable-energy-systems))
 
 ---
 
