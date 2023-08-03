@@ -13,6 +13,8 @@ permalink: /publication/
 
 ### 2023
 
+* Londhe D., Katpatal Y., **Bokde N.** (2023). Performance Assessment of Bias Correction Methods in Downscaling Precipitation and Temperature from CMIP5 Model Simulation. _Applied Sciences_ (IF 2.7). Accepted. `Climate Change` `Environmental Parameters` 
+* Shewale A., Mokhade A., Lipare A., **Bokde N.** (2023). Efficient Techniques for Residential Appliances Scheduling in Smart Homes for Energy Management using Multiple Knapsack Problem. _Arabian Journal for Science and Engineering_ (IF 2.9). Accepted. DOI: []() `Energy` `Optimization` `Demand Response` 
 * Londhe D., Katpatal Y., Mukesh M., **Bokde N.** (2023). Vegetation Dynamics and its Driving Factors in Agro-Climatic Zones of Upper Bhima Sub-basin, Western India. _International Journal of Environmental Science and Technology_ (IF 3.519). DOI: [10.1007/s13762-023-05094-2](https://doi.org/10.1007/s13762-023-05094-2) `Agro-climatic zone` `Environmental Parameters`  
 * Londhe D., Katpatal Y., Singh C., **Bokde N.** (2023). Assessment of vegetation variation and its response to ENSO and IOD in the semi-arid ecosystem of Western India. _Journal of Water & Climate Change_ (IF 2.8). jwc2023010. DOI: [10.2166/wcc.2023.010](https://doi.org/10.2166/wcc.2023.010) `Agro-climatic zone` `Environmental Parameters`  
 *  Ahuja B., Doriya R., Salunke S., Hashmi M., Gupta A., and **Bokde N.** (2023). HDIEA: High Dimensional Color Image Encryption Architecture Using 5D Gauss-Logistic and Lorenz System. _Connection Science_ (IF 3.500). 35(1), 2175792. DOI: [10.1080/09540091.2023.2175792](https://doi.org/10.1080/09540091.2023.2175792) `Encryption` `Image Processing` 
@@ -95,6 +97,7 @@ DOI: [10.1016/j.neucom.2022.03.014](https://doi.org/10.1016/j.neucom.2022.03.014
 
 ## Other Articles
 
+* Jain, S., Bhatiya R., Shrivastava N., Salunke S., Hashmi M., **Bokde, N.** (2023). Virtual Grid based Routing for Query-driven Wireless Sensor Networks. _Future Internet_ (IF 3.4), 15(8), 259. DOI: [doi.org/10.3390/fi15080259](https://doi.org/10.3390/fi15080259) `Wireless Sensor Networks` 
 * Naganna, S. R., Beyaztas, B. H., **Bokde, N.**, & Armanuos, A. M. (2020). On the evaluation of the Gradient Tree Boosting model for groundwater level forecasting. _Knowledge-Based Engineering and Sciences_, 1(01), 48–57. DOI: [10.51526/kbes.2020.1.01.48-57](https://doi.org/10.51526/kbes.2020.1.01.48-57) `Water Management` `Time Series Analysis` `Forecasting`
 * Gupta, A., **Bokde, N.**, Marathe, D., and Kulat K. (2018). A Novel Approach for Video based Fire Detection System using Spatial and Texture Analysis. _Indian Journal of Science and Technology_, 11(19). (Scopus indexed) DOI: [10.17485/ijst/2018/v11i19/88825](https://dx.doi.org/10.17485/ijst/2018/v11i19/88825) `Object Detection`
 * **Bokde, N.**, Gupta, A., and Kulat, K. (2017). Backward Elimination Approach of Regression Model to Decide the Road Safety Policies Across the States in India. _Indian Journal of Science and Technology_, 9(48). (Scopus indexed) DOI: [10.17485/ijst/2016/v9i48/85089](https://dx.doi.org/10.17485/ijst/2016/v9i48/85089) `Data Science`
