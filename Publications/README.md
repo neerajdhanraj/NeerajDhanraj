@@ -3,7 +3,7 @@ layout: page
 title: Publications
 image: /assets/img/a2.jpg
 description: >
-  A list of publication for Dr. Neeraj Dhanraj Bokde
+  A list of publications for Dr. Neeraj Dhanraj Bokde
 hide_description: true
 sitemap: false
 permalink: /publication/
@@ -114,7 +114,7 @@ DOI: [10.1016/j.neucom.2022.03.014](https://doi.org/10.1016/j.neucom.2022.03.014
 * Sawarkar, A., Shrimankar, D., **Bokde, N.** (2023). Commercial Clustering of Indian Bamboo Species Using Machine Learning Clustering Techniques and Performance Measures. In _IEEE International Conference on the Paradigm shifts in Communication, Embedded Systems, Machine Learning and Signal Processing (PCEMS 2023)_, Nagpur, India. `Machine Learning` `Custering` `Bioinformatics`
 
 ### 2021
-* **Bokde N.**, Johansen K.,Wandahl S., and Teizer J. (2021). A Digital Twin Framework For Equipment Emissions FromConstruction Site Operations. In _Proceedings of 21st International Conference on Construction Application of Virtual Reality (pp. 31-42). Middlesbrough, UK: Teesside University Press_. [URL](https://www.researchgate.net/publication/357529035_Industry40_Applications_for_Full_Lifecycle_Integration_of_Buildings_Proceedings_of_the_21st_International_Conference_on_Construction_Applications_of_Virtual_Reality) `Digital Twins` `Emission`
+* **Bokde N.**, Johansen K.,Wandahl S., and Teizer J. (2021). A Digital Twin Framework For Equipment Emissions From Construction Site Operations. In _Proceedings of 21st International Conference on Construction Application of Virtual Reality (pp. 31-42). Middlesbrough, UK: Teesside University Press_. [URL](https://www.researchgate.net/publication/357529035_Industry40_Applications_for_Full_Lifecycle_Integration_of_Buildings_Proceedings_of_the_21st_International_Conference_on_Construction_Applications_of_Virtual_Reality) `Digital Twins` `Emission`
 
 ### 2019
 * Villanueva D., Feijoo A., and **Bokde N.** (2019). A Strategy for Power Generation Optimization in a Hybrid Wind-BESS Power Plant. In _International Conference on Renewable Energy and Environment Engineering, Munich, Germany_. DOI: [10.1051/e3sconf/201912204004](https://doi.org/10.1051/e3sconf/201912204004) `Energy` `Optimization`
