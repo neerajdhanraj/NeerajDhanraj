@@ -13,7 +13,7 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/LOGO.PNG" width="200">
 
-Please feel free to contact. The contact details and other social media profiles are as follows:
+Please feel free to contact me. The contact details and other social media profiles are as follows:
 
 * Current Address: Aarhus, Denmark <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/denmark.png" width="24"> 
 * Permanent Address: Nagpur, Maharashtra, India <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/india.png" width="24"> 
@@ -23,7 +23,7 @@ Please feel free to contact. The contact details and other social media profiles
 * Official Website: [https://pure.au.dk/portal/en/neerajdhanraj@mpe.au.dk](https://pure.au.dk/portal/en/neerajdhanraj@mpe.au.dk)
 * Google Scholar: [https://scholar.google.com/citations?user=N2kk4AQAAAAJ&hl=en](https://scholar.google.com/citations?user=N2kk4AQAAAAJ&hl=en)
 * ResearchGate: [https://www.researchgate.net/profile/Neeraj-Bokde](https://www.researchgate.net/profile/Neeraj-Bokde)
-* LinkedIn: [https://www.linkedin.com/in/neeraj-bokde-9680ba19/](https://www.linkedin.com/in/neeraj-bokde-9680ba19/)
+* LinkedIn: [https://www.linkedin.com/in/neerajbokde/](https://www.linkedin.com/in/neerajbokde/)
 * GitHub: [https://github.com/neerajdhanraj](https://github.com/neerajdhanraj)
 * Orcid ID: [https://orcid.org/0000-0002-3493-9302](https://orcid.org/0000-0002-3493-9302)
 * Scopus: [https://www.scopus.com/authid/detail.uri?authorId=57148487500](https://www.scopus.com/authid/detail.uri?authorId=57148487500)
