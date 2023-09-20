@@ -23,7 +23,9 @@ sitemap: false
 
 The **VedicDateTime** package provides a platform for the Vedic calendar system having several functionalities to facilitate conversion between Gregorian and Vedic calendar systems, and is helpful in examining its impact in the time series analysis domain. The background is described in [Neeraj Dhanraj Bokde et al. (2021)](https://doi.org/10.48550/arXiv.2111.03441), [Karanam L. Ramakumar et al. (2011)](https:archive.org/details/PanchangamCalculations), [K. S. Charak et al. (2012], (https://www.amazon.in/Elements-Vedic-Astrology-K-S-Charak/dp/8190100807), [Satish BD et al. (2013)](https:github.com/webresh/drik-panchanga).
 
-The **VedicDateTime** is available on CRAN: [https://cran.r-project.org/package=VedicDateTime](https://cran.r-project.org/package=VedicDateTime). Also, it is available as a published [journal article](https://link.springer.com/article/10.1007/s11042-023-16553-w).
+The **VedicDateTime** is available on CRAN: [https://cran.r-project.org/package=VedicDateTime](https://cran.r-project.org/package=VedicDateTime). 
+
+Also, it is available as a published [journal article](https://link.springer.com/article/10.1007/s11042-023-16553-w).
 
 To cite package ‘VedicDateTime’ in publications use:
 
