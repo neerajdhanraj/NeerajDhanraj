@@ -23,21 +23,24 @@ sitemap: false
 
 The **VedicDateTime** package provides a platform for the Vedic calendar system having several functionalities to facilitate conversion between Gregorian and Vedic calendar systems, and is helpful in examining its impact in the time series analysis domain. The background is described in [Neeraj Dhanraj Bokde et al. (2021)](https://doi.org/10.48550/arXiv.2111.03441), [Karanam L. Ramakumar et al. (2011)](https:archive.org/details/PanchangamCalculations), [K. S. Charak et al. (2012], (https://www.amazon.in/Elements-Vedic-Astrology-K-S-Charak/dp/8190100807), [Satish BD et al. (2013)](https:github.com/webresh/drik-panchanga).
 
-The **VedicDateTime** is available on CRAN: [https://cran.r-project.org/package=VedicDateTime](https://cran.r-project.org/package=VedicDateTime).
+The **VedicDateTime** is available on CRAN: [https://cran.r-project.org/package=VedicDateTime](https://cran.r-project.org/package=VedicDateTime). Also, it is available as a published [journal article](https://link.springer.com/article/10.1007/s11042-023-16553-w).
 
 To cite package ‘VedicDateTime’ in publications use:
 
-    Neeraj Dhanraj Bokde, Prajwal Kailasnath Patil, Saradindu Sengupta and Andrés Elías Feijóo Lorenzo (2022). 
-    VedicDateTime: Vedic Calendar System. R package version 0.1.1. https://CRAN.R-project.org/package=VedicDateTime
+    Bokde, N.D., Patil, P.K., Sengupta, S. et al. VedicDateTime: An R package to implement Vedic calendar system. 
+    Multimed Tools Appl (2023). https://doi.org/10.1007/s11042-023-16553-w
 
 A BibTeX entry for LaTeX users is
 
-    @Manual{,
-    title = {VedicDateTime: Vedic Calendar System},
-    author = {Neeraj Dhanraj Bokde and Prajwal Kailasnath Patil and Saradindu Sengupta and Andrés Elías Feijóo Lorenzo},
-    year = {2022},
-    note = {R package version 0.1.1},
-    url = {https://CRAN.R-project.org/package=VedicDateTime},
+    @Article{,
+    title = {VedicDateTime: An R package to implement Vedic calendar system},
+    author = {Neeraj Dhanraj Bokde and Prajwal Kailasnath Patil and
+      Saradindu Sengupta and Manisha Sawant and Andrés E. Feijóo-Lorenzo},
+    journal = {Multimedia Tools and Applications},
+    year = {2023},
+    issn = {1573-7721},
+    doi = {10.1007/s11042-023-16553-w},
+    url = {https://doi.org/10.1007/s11042-023-16553-w},
     }
 
 The detailed information, use cases and examples for **VedicDateTime** is discussed below:
