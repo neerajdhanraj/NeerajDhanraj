@@ -17,7 +17,7 @@ permalink: /software/
 ### 1. VedicDateTime: An R Package to Implement Vedic Calendar System
 * Provides platform for Vedic calendar system having several functionalities to facilitate conversion between Gregorian and Vedic calendar systems
 * Helpful in examining its impact in the time series analysis domain. 
-* The background is described in Neeraj Dhanraj Bokde et al. (2021) [doi:10.48550/arXiv.2111.03441](https://doi.org/10.48550/arXiv.2111.03441)
+* The background is described in [doi.org/10.1007/s11042-023-16553-w](https://doi.org/10.1007/s11042-023-16553-w) and [doi:10.48550/arXiv.2111.03441](https://doi.org/10.48550/arXiv.2111.03441)
 
 ![VedicDateTimeLogo](https://github.com/neerajdhanraj/NeerajDhanraj/assets/10669836/6fe1c6d2-a91e-431a-acc2-bdbab56871df)
 
@@ -25,7 +25,7 @@ permalink: /software/
 #### CRAN 
 * [https://cran.r-project.org/package=VedicDateTime](https://cran.r-project.org/package=VedicDateTime)
 #### Publication/Manual
-* Bokde N., Patil P., Sengupta S., and Feijoo A. (2022). [VedicDateTime: An R Package to Implement Vedic Calendar System](https://cran.r-project.org/web/packages/VedicDateTime/vignettes/VedicDateTime.pdf)
+* Bokde N., Patil P., Sengupta S., Sawant M., and Feijoo A. (2023). [VedicDateTime: An R package to implement Vedic calendar system](https://doi.org/10.1007/s11042-023-16553-w)
 
 ---
 
