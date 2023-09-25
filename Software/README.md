@@ -25,7 +25,7 @@ permalink: /software/
 #### CRAN 
 * [https://cran.r-project.org/package=VedicDateTime](https://cran.r-project.org/package=VedicDateTime)
 #### Publication/Manual
-* Bokde N., Patil P., Sengupta S., Sawant M., and Feijoo A. (2023). [VedicDateTime: An R package to implement Vedic calendar system](https://doi.org/10.1007/s11042-023-16553-w)
+* Bokde N., Patil P., Sengupta S., Sawant M., and Feijoo A. (2023). [VedicDateTime: An R package to implement Vedic calendar system](https://doi.org/10.1007/s11042-023-16553-w). _Multimedia Tools and Application_ (IF 3.6).
 
 ---
 
