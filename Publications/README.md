@@ -98,7 +98,7 @@ DOI: [10.1016/j.neucom.2022.03.014](https://doi.org/10.1016/j.neucom.2022.03.014
 
 ## Other Articles
 
-* Takhare S., **Bokde N.**, Feijóo-Lorenzo A., (2023). Forecasting Different Dimensions of Liquidity in the Intraday Electricity Markets: A Review. _AIMS Energy_ (IF 1.8). DOI: []() `Review` `Electricity Market` `Energy`
+* Takhare S., **Bokde N.**, Feijóo-Lorenzo A., (2023). Forecasting Different Dimensions of Liquidity in the Intraday Electricity Markets: A Review. _AIMS Energy_ (IF 1.8), 11(5): 918–959. DOI: [10.3934/energy.2023044](https://doi.org/10.3934/energy.2023044) `Review` `Electricity Market` `Energy`
 * Jain, S., Bhatiya R., Shrivastava N., Salunke S., Hashmi M., **Bokde, N.** (2023). Virtual Grid based Routing for Query-driven Wireless Sensor Networks. _Future Internet_ (IF 3.4), 15(8), 259. DOI: [doi.org/10.3390/fi15080259](https://doi.org/10.3390/fi15080259) `Wireless Sensor Networks` 
 * Naganna, S. R., Beyaztas, B. H., **Bokde, N.**, & Armanuos, A. M. (2020). On the evaluation of the Gradient Tree Boosting model for groundwater level forecasting. _Knowledge-Based Engineering and Sciences_, 1(01), 48–57. DOI: [10.51526/kbes.2020.1.01.48-57](https://doi.org/10.51526/kbes.2020.1.01.48-57) `Water Management` `Time Series Analysis` `Forecasting`
 * Gupta, A., **Bokde, N.**, Marathe, D., and Kulat K. (2018). A Novel Approach for Video based Fire Detection System using Spatial and Texture Analysis. _Indian Journal of Science and Technology_, 11(19). (Scopus indexed) DOI: [10.17485/ijst/2018/v11i19/88825](https://dx.doi.org/10.17485/ijst/2018/v11i19/88825) `Object Detection`
