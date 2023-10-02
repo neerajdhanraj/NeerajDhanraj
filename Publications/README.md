@@ -113,7 +113,7 @@ DOI: [10.1016/j.neucom.2022.03.014](https://doi.org/10.1016/j.neucom.2022.03.014
 ## Conference Articles
 
 ### 2023
-* Sawarkar, A., Shrimankar, D., Singh L., Agrahari A., Lachure S., and **Bokde, N.** (2023). Commercial Indian Bamboo species classification on \textit{matK} DNA barcode sequence using Machine Learning Techniques with K-mer. In _IEEE International Conference on Computer, Electronics and Electrical Engineering (IC2E3 2023)_, Srinagar Garhwal, India, 2023, pp. 1-6. DOI: [10.1109/IC2E357697.2023.10262781](https://doi.org/10.1109/IC2E357697.2023.10262781)  `Machine Learning` `Clustering` `Bioinformatics`
+* Sawarkar, A., Shrimankar, D., Singh L., Agrahari A., Lachure S., and **Bokde, N.** (2023). Commercial Indian Bamboo species classification on _matK_ DNA barcode sequence using Machine Learning Techniques with K-mer. In _IEEE International Conference on Computer, Electronics and Electrical Engineering (IC2E3 2023)_, Srinagar Garhwal, India, 2023, pp. 1-6. DOI: [10.1109/IC2E357697.2023.10262781](https://doi.org/10.1109/IC2E357697.2023.10262781)  `Machine Learning` `Clustering` `Bioinformatics`
 * Sawarkar, A., Shrimankar, D., **Bokde, N.** (2023). Commercial Clustering of Indian Bamboo Species Using Machine Learning Clustering Techniques and Performance Measures. In _IEEE International Conference on the Paradigm shifts in Communication, Embedded Systems, Machine Learning and Signal Processing (PCEMS 2023)_, Nagpur, India, pp. 1-5. DOI: [10.1109/PCEMS58491.2023.10136094](https://doi.org/10.1109/PCEMS58491.2023.10136094) `Machine Learning` `Custering` `Bioinformatics`
 
 ### 2021
