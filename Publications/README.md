@@ -13,7 +13,7 @@ permalink: /publication/
 
 ### 2023
 
-* **Bokde N.**, Milkevych V., Nielsen R., Villumsen T., and Sahana G. (2023). A Novel Approach for Anomaly Detection in Dairy Cow Gas Emission Records. _Computers and Electronics in Agriculture_ (IF 8.3). Accepted. DOI: []() `methane emissions` `CO2 emissions` `Time series analysis` `Dairy cows`
+* **Bokde N.**, Milkevych V., Nielsen R., Villumsen T., and Sahana G. (2023). A Novel Approach for Anomaly Detection in Dairy Cow Gas Emission Records. _Computers and Electronics in Agriculture_ (IF 8.3). Accepted. DOI: []() `Methane emissions` `CO2 emissions` `Time series analysis` `Dairy cows`
 * **Bokde N.**, Patil P., Sengupta S., Sawant M., and Feijoo A. (2023). VedicDateTime: An R Package to Implement Vedic Calendar System. _Multimedia Tools and Applications_ (IF 3.6). Accepted. DOI: [10.1007/s11042-023-16553-w](https://doi.org/10.1007/s11042-023-16553-w) `Software` `Vedic Calendar` `Time Series Analysis`
 * Londhe D., Katpatal Y., **Bokde N.** (2023). Performance Assessment of Bias Correction Methods in Downscaling Precipitation and Temperature from CMIP5 Model Simulation. _Applied Sciences_ (IF 2.7). 13(16), 9142. DOI: [10.3390/app13169142](https://doi.org/10.3390/app13169142) `Climate Change` `Environmental Parameters` 
 * Shewale A., Mokhade A., Lipare A., **Bokde N.** (2023). Efficient Techniques for Residential Appliances Scheduling in Smart Homes for Energy Management using Multiple Knapsack Problem. _Arabian Journal for Science and Engineering_ (IF 2.9). Accepted. DOI: [10.1007/s13369-023-08178-w](https://doi.org/10.1007/s13369-023-08178-w) `Energy` `Optimization` `Demand Response` 
