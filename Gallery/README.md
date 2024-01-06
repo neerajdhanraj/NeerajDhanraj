@@ -17,6 +17,13 @@ permalink: /gallery/
 ## Denmark Visit - December 2023
 
 ![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/baa5a2d82e6aae7fa81de631af426e89e97e7abc/images/DenmarkDecember2023/v3.gif)
+![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/baa5a2d82e6aae7fa81de631af426e89e97e7abc/images/DenmarkDecember2023/v4.gif)
+![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/baa5a2d82e6aae7fa81de631af426e89e97e7abc/images/DenmarkDecember2023/v5.gif)
+![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/baa5a2d82e6aae7fa81de631af426e89e97e7abc/images/DenmarkDecember2023/v6.gif)
+![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/baa5a2d82e6aae7fa81de631af426e89e97e7abc/images/DenmarkDecember2023/v7.gif)
+![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/baa5a2d82e6aae7fa81de631af426e89e97e7abc/images/DenmarkDecember2023/v8.gif)
+![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/baa5a2d82e6aae7fa81de631af426e89e97e7abc/images/DenmarkDecember2023/v9.gif)
+![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/baa5a2d82e6aae7fa81de631af426e89e97e7abc/images/DenmarkDecember2023/v2.gif)
 
 ## Meet My Son, Pruthviraj!! 
 
