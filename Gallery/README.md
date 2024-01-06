@@ -14,6 +14,10 @@ sitemap: false
 permalink: /gallery/
 ---
 
+## Denmark Visit - December 2023
+
+![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/baa5a2d82e6aae7fa81de631af426e89e97e7abc/images/DenmarkDecember2023/v3.gif)
+
 ## Meet My Son, Pruthviraj!! 
 
 Meet my son, Pruthviraj. On the auspicious occasion of Krishna Janmashtami (Gokulashtami - an annual Hindu festival that celebrates the birth of Krishna, the eighth avatar of Vishnu), he was dressed up like Bhagwan Shri Krishna. 
