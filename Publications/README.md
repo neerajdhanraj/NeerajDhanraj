@@ -13,7 +13,7 @@ permalink: /publication/
 
 ### 2024
 
-* Yaseen Z, **Bokde N.**, et al. (2023). Hybridized artificial intelligence models with nature-inspired algorithms for river flow modeling: A comprehensive review, assessment, and possible future research directions. _Engineering Applications of Artificial Intelligence_ (IF 8.0). Accepted. DOI: [10.1016/j.engappai.2023.107559](https://doi.org/10.1016/j.engappai.2023.107559) `Review` `Hydrology` `Artificial Intelligence` `River flow modeling`
+* Yaseen Z, **Bokde N.**, et al. (2023). Hybridized artificial intelligence models with nature-inspired algorithms for river flow modeling: A comprehensive review, assessment, and possible future research directions. _Engineering Applications of Artificial Intelligence_ (IF 8.0). 129, 107559. DOI: [10.1016/j.engappai.2023.107559](https://doi.org/10.1016/j.engappai.2023.107559) `Review` `Hydrology` `Artificial Intelligence` `River flow modeling`
 
 
 ### 2023
