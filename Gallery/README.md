@@ -23,10 +23,10 @@ permalink: /gallery/
 ![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/baa5a2d82e6aae7fa81de631af426e89e97e7abc/images/DenmarkDecember2023/v7.gif)
 ![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/baa5a2d82e6aae7fa81de631af426e89e97e7abc/images/DenmarkDecember2023/v8.gif)
 ![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/baa5a2d82e6aae7fa81de631af426e89e97e7abc/images/DenmarkDecember2023/v9.gif)
-![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/baa5a2d82e6aae7fa81de631af426e89e97e7abc/images/DenmarkDecember2023/v1.gif)
+![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/4b4aa3ca428329925dcd4e67d0b648126982dfb7/images/DenmarkDecember2023/v1.gif)
 ![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/4b4aa3ca428329925dcd4e67d0b648126982dfb7/images/DenmarkDecember2023/v10.gif)
-![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/4b4aa3ca428329925dcd4e67d0b648126982dfb7/images/DenmarkDecember2023/v2.gif)
-![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/4b4aa3ca428329925dcd4e67d0b648126982dfb7/images/DenmarkDecember2023/vv.jpg)
+![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/baa5a2d82e6aae7fa81de631af426e89e97e7abc/images/DenmarkDecember2023/v2.gif)
+<img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/4b4aa3ca428329925dcd4e67d0b648126982dfb7/images/DenmarkDecember2023/vv.jpg" width="600">
 
 ## Meet My Son, Pruthviraj!! 
 
