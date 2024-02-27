@@ -13,8 +13,8 @@ permalink: /publication/
 
 ### 2024
 
-* Kannaiyan S., Chandran S., and **Bokde N.** (2024). Streamlined Open Loop Operation using Karnaugh Map for Solar Thermal Power Plant. _Renewable Energy Focus_ (IF 4.8). Accepted. DOI: [10.1016/j.ref.2024.100549](https://doi.org/10.1016/j.ref.2024.100549) `Solar energy` `Energy Modelling` `Solar Thermal Power Plant` 
-* Yaseen Z, **Bokde N.**, et al. (2023). Hybridized artificial intelligence models with nature-inspired algorithms for river flow modeling: A comprehensive review, assessment, and possible future research directions. _Engineering Applications of Artificial Intelligence_ (IF 8.0). 129, 107559. DOI: [10.1016/j.engappai.2023.107559](https://doi.org/10.1016/j.engappai.2023.107559) `Review` `Hydrology` `Artificial Intelligence` `River flow modeling`
+* Kannaiyan S., Chandran S., and **Bokde N.** (2024). Streamlined Open Loop Operation using Karnaugh Map for Solar Thermal Power Plant. _Renewable Energy Focus_ (IF 4.8). 49, 100549. DOI: [10.1016/j.ref.2024.100549](https://doi.org/10.1016/j.ref.2024.100549) `Solar energy` `Energy Modelling` `Solar Thermal Power Plant` 
+* Yaseen Z, **Bokde N.**, et al. (2024). Hybridized artificial intelligence models with nature-inspired algorithms for river flow modeling: A comprehensive review, assessment, and possible future research directions. _Engineering Applications of Artificial Intelligence_ (IF 8.0). 129, 107559. DOI: [10.1016/j.engappai.2023.107559](https://doi.org/10.1016/j.engappai.2023.107559) `Review` `Hydrology` `Artificial Intelligence` `River flow modeling`
 
 
 ### 2023
