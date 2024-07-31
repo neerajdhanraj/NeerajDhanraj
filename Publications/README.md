@@ -12,7 +12,7 @@ permalink: /publication/
 ## JCR Articles
 
 ### 2024
-
+* Farah S., **Bokde N.**, and Andresen G.B. (2024). Cost and CO2 emissions co-optimisation of green hydrogen production in a grid-connected renewable energy system. arXiv \textbf{(\textit{IF })}. DOI: [10.48550/arXiv.2404.11995](https://doi.org/10.48550/arXiv.2404.11995) `Energy Modelling` `Emissions` `Green Hydrogen` 
 * Surya Vardhan B. V., Swain A., Khedkar M., Srivastava I., and **Bokde N.** (2024). An overview of Indian power sector and its Energy Management. Renewable Energy Focus _Renewable Energy Focus_ (IF 4.8). 50, 100597. DOI: [10.1016/j.ref.2024.100597](https://doi.org/10.1016/j.ref.2024.100597) `Energy Management` `Indian power sector` `Review` 
 * Kannaiyan S., Chandran S., and **Bokde N.** (2024). Streamlined Open Loop Operation using Karnaugh Map for Solar Thermal Power Plant. _Renewable Energy Focus_ (IF 4.8). 49, 100549. DOI: [10.1016/j.ref.2024.100549](https://doi.org/10.1016/j.ref.2024.100549) `Solar energy` `Energy Modelling` `Solar Thermal Power Plant` 
 * Yaseen Z, **Bokde N.**, et al. (2024). Hybridized artificial intelligence models with nature-inspired algorithms for river flow modeling: A comprehensive review, assessment, and possible future research directions. _Engineering Applications of Artificial Intelligence_ (IF 8.0). 129, 107559. DOI: [10.1016/j.engappai.2023.107559](https://doi.org/10.1016/j.engappai.2023.107559) `Review` `Hydrology` `Artificial Intelligence` `River flow modeling`
@@ -119,6 +119,9 @@ DOI: [10.1016/j.neucom.2022.03.014](https://doi.org/10.1016/j.neucom.2022.03.014
 
 ## Conference Articles
 
+### 2024
+* **Bokde, N.**, Lazic J., and Fanara C., (2024). Evaluating Electric Vehicle Integration and Grid Resilience in Abu Dhabi: A Comprehensive Modelling Approach. In _Proceedings of the joint 16th International Green Energy Conference (IGEC-XVI) and 5th International Conference on Energy and AI (ICEAI-V)_, Ningbo, China, pp. 1-11. DOI: []() `Electric vehicles` `Electric Grids` `Grid Resilience` `Energy Modelling`
+  
 ### 2023
 * Sawarkar, A., Shrimankar, D., Singh L., Agrahari A., Lachure S., and **Bokde, N.** (2023). Commercial Indian Bamboo species classification on _matK_ DNA barcode sequence using Machine Learning Techniques with K-mer. In _IEEE International Conference on Computer, Electronics and Electrical Engineering (IC2E3 2023)_, Srinagar Garhwal, India, 2023, pp. 1-6. DOI: [10.1109/IC2E357697.2023.10262781](https://doi.org/10.1109/IC2E357697.2023.10262781)  `Machine Learning` `Clustering` `Bioinformatics`
 * Sawarkar, A., Shrimankar, D., **Bokde, N.** (2023). Commercial Clustering of Indian Bamboo Species Using Machine Learning Clustering Techniques and Performance Measures. In _IEEE International Conference on the Paradigm shifts in Communication, Embedded Systems, Machine Learning and Signal Processing (PCEMS 2023)_, Nagpur, India, pp. 1-5. DOI: [10.1109/PCEMS58491.2023.10136094](https://doi.org/10.1109/PCEMS58491.2023.10136094) `Machine Learning` `Custering` `Bioinformatics`
