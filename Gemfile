@@ -29,7 +29,7 @@ gem "jekyll-sass-converter", "~> 2.0"
 gem "kramdown-math-katex"
 
 # A JavaScript runtime for ruby that helps with running the katex gem above.
-gem "duktape"
+gem 'duktape', '~> 2.7.0.0'
 
 group :jekyll_plugins do
   gem "jekyll-default-layout"
