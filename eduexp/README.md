@@ -163,18 +163,18 @@ F1000 Research, Journal of Sustainability Science and Management, Journal of Har
 
 ## <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/education.png" width="30"> Education
 
-### ![VNIT_LOGO](https://user-images.githubusercontent.com/10669836/134785353-16c68fdb-cb49-4a86-85cc-cd7c3ccd4546.png) Ph.D., Data Science (2019)
+### ![VNIT_LOGO](https://user-images.githubusercontent.com/10669836/134785353-16c68fdb-cb49-4a86-85cc-cd7c3ccd4546.png) Ph.D., Data Science
 [Visvesvaraya National Institute of Technology, Nagpur, Maharashtra, India](https://vnit.ac.in/)
 
 ---
 
-### ![BITS_LOGO](https://user-images.githubusercontent.com/10669836/134785358-070831b1-8fd1-41b6-9d81-edd11e6d9ce1.png) M.E., Embedded Systems (2014)
+### ![BITS_LOGO](https://user-images.githubusercontent.com/10669836/134785358-070831b1-8fd1-41b6-9d81-edd11e6d9ce1.png) M.E., Embedded Systems
 [Birla Institute of Technology and Science, Pilani, Rajasthan, India](https://www.bits-pilani.ac.in/)
 
 ---
 
 
-### <img src="https://user-images.githubusercontent.com/10669836/188806436-ef6678ac-8c49-485b-a3a5-ae90ac5b4cd5.png" width="70"> B.E., Electronics and Tele-communication Engineering (2011)
+### <img src="https://user-images.githubusercontent.com/10669836/188806436-ef6678ac-8c49-485b-a3a5-ae90ac5b4cd5.png" width="70"> B.E., Electronics and Tele-communication Engineering 
 [Nagpur University, Nagpur, Maharashtra, India](https://nagpuruniversity.ac.in/)
 
 ---
