@@ -1,5 +1,5 @@
 [build]
-  command = "bundle install && bundle exec jekyll build"
+  command = "apt-get update && apt-get install -y build-essential ruby-dev && bundle install && bundle exec jekyll build"
   publish = "_site"
 
 
