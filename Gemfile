@@ -31,8 +31,8 @@ gem "kramdown-math-katex"
 # A JavaScript runtime for ruby that helps with running the katex gem above.
 gem 'duktape', '~> 2.7.0.0'
 
-gem 'http_parser.rb', '0.6.0'
-gem 'eventmachine', '1.2.7'
+gem 'http_parser.rb'
+gem 'eventmachine'
 
 group :jekyll_plugins do
   gem "jekyll-default-layout"
