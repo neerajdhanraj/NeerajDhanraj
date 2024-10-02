@@ -1,0 +1,13 @@
+/* Add this in your main CSS file */
+.container {
+    max-width: 1200px;  /* Set a maximum width */
+    margin: 0 auto;     /* Centers the container */
+    padding: 0 15px;    /* Adds padding for small screens */
+}
+
+/* Optional: Add media queries to adjust padding or styles for larger screens */
+@media (min-width: 1200px) {
+    .container {
+        padding: 0 30px;
+    }
+}
