@@ -12,6 +12,7 @@ permalink: /publication/
 ## JCR Articles
 
 ### 2024
+* Baidya D., Kannaiyan S., and **Bokde N.** (2024). Study of Parabolic Trough Collector with Crucial Analysis on Controller and Estimator with Variable Mirror Efficiency. _Journal of Process Control_ (IF 3.3). 143, 103317. DOI: [10.1016/j.jprocont.2024.103317](https://doi.org/10.1016/j.jprocont.2024.103317) `Solar energy` `Energy Modelling` `Solar Thermal Power Plant` 
 * Farah S., **Bokde N.**, and Andresen G.B. (2024). Cost and CO2 emissions co-optimisation of green hydrogen production in a grid-connected renewable energy system. _International Journal of Hydrogen Energy_ (IF 8.1). 84, 164-176. DOI: [10.1016/j.ijhydene.2024.08.062](https://doi.org/10.1016/j.ijhydene.2024.08.062) `Energy Modelling` `Emissions` `Green Hydrogen` 
 * Surya Vardhan B. V., Swain A., Khedkar M., Srivastava I., and **Bokde N.** (2024). An overview of Indian power sector and its Energy Management. Renewable Energy Focus _Renewable Energy Focus_ (IF 4.8). 50, 100597. DOI: [10.1016/j.ref.2024.100597](https://doi.org/10.1016/j.ref.2024.100597) `Energy Management` `Indian power sector` `Review` 
 * Kannaiyan S., Chandran S., and **Bokde N.** (2024). Streamlined Open Loop Operation using Karnaugh Map for Solar Thermal Power Plant. _Renewable Energy Focus_ (IF 4.8). 49, 100549. DOI: [10.1016/j.ref.2024.100549](https://doi.org/10.1016/j.ref.2024.100549) `Solar energy` `Energy Modelling` `Solar Thermal Power Plant` 
