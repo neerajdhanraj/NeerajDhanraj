@@ -12,3 +12,55 @@
     margin: 1rem 0;
   }
 }
+
+// Styles for the main table and button elements
+.dl-table {
+  a {
+    @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      text-underline-offset: .8rem;
+    }
+    @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      padding-bottom: .45rem;
+    }
+  }
+
+  .btn, .gumroad-button {
+    margin: 1rem 0;
+  }
+
+  // Ensure responsiveness for larger screen sizes
+  @media only screen and (min-width: 1024px) {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+  }
+}
+
+// Inline styles for sidebar text and responsiveness
+.sidebar a {
+  text-shadow: rgba(0, 0, 0, 0.25) 0.1rem 0.1rem 0.15rem;
+
+  // Responsiveness for larger screens
+  @media only screen and (min-width: 1024px) {
+    width: 20%;  // Adjust the width based on your layout
+  }
+}
+
+// Add Flexbox to align elements responsively
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+  // Ensure both the sidebar and main table adjust properly
+  .dl-table, .sidebar {
+    flex-basis: 48%;  // Adjusts to 48% of the width to avoid shifting
+  }
+}
+
+// Box-sizing for consistent sizing
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
