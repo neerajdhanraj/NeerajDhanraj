@@ -11,6 +11,9 @@ permalink: /publication/
 
 ## JCR Articles
 
+### 2025
+* **Bokde N.** (2025). A Unified Framework for Multi-Type Hydrogen Production and Storage in Renewable Energy Systems. _Energy Conversion and Management: X_ (IF 7.1). 25, 100847. DOI: [10.1016/j.ecmx.2024.100847](https://doi.org/10.1016/j.ecmx.2024.100847) `Hydrogen` `Energy Modelling` `Renewable Energy` 
+
 ### 2024
 * Baidya D., Kannaiyan S., and **Bokde N.** (2024). Study of Parabolic Trough Collector with Crucial Analysis on Controller and Estimator with Variable Mirror Efficiency. _Journal of Process Control_ (IF 3.3). 143, 103317. DOI: [10.1016/j.jprocont.2024.103317](https://doi.org/10.1016/j.jprocont.2024.103317) `Solar energy` `Energy Modelling` `Solar Thermal Power Plant` 
 * Farah S., **Bokde N.**, and Andresen G.B. (2024). Cost and CO2 emissions co-optimisation of green hydrogen production in a grid-connected renewable energy system. _International Journal of Hydrogen Energy_ (IF 8.1). 84, 164-176. DOI: [10.1016/j.ijhydene.2024.08.062](https://doi.org/10.1016/j.ijhydene.2024.08.062) `Energy Modelling` `Emissions` `Green Hydrogen` 
