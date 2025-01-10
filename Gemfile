@@ -30,8 +30,8 @@ gem "kramdown-math-katex"
 
 # A JavaScript runtime for ruby that helps with running the katex gem above.
 gem 'http_parser.rb', '0.6.0'
-# gem 'duktape', '~> 2.3.0'
-gem 'mini_racer', '~> 0.6.0'
+gem 'duktape', '~> 2.3.0'
+# gem 'mini_racer', '~> 0.6.0'
 gem 'eventmachine', '1.2.7'
 
 
