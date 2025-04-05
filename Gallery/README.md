@@ -13,6 +13,10 @@ theme_color: '#ccc'
 sitemap: false
 permalink: /gallery/
 ---
+## BAPS Abu Dhabi Mandir: A Monument of Peace and Spirituality
+This gallery captures the beauty and spirit of the BAPS Abu Dhabi Mandir. From detailed carvings to the peaceful surroundings, each image reflects the incredible craftsmanship and dedication behind the Mandir. A glimpse into a place built with devotion, tradition, and a message of unity.
+
+![AbuDhabiTemple-optimize](https://github.com/user-attachments/assets/4b0dda2f-d752-411e-9f43-a2f05cccc88d)
 
 ## Denmark Visit - December 2023
 
@@ -65,8 +69,8 @@ Mango is a national fruit of India and one cannot imagine summer of India withou
 ![Mango](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/53e6be6ef2c12e566abd2f61cb788b2f4b3284aa/images/Mango.jpg)
 ![Mango Tree](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/a1a9f1980ae72c283a650fb5ae76adf887a67fb0/images/MangoTree.gif)
 
-## Beautiful Aarhus City exploration with Beautiful life-partner, Seema!
-Aarhus is the second largest city in Denmark. We, both I and Seema, work in Aarhus. During our stay, we have visited several beautiful places in the city. As you can see, Aarhus is full of natural beauties, and really a great place to explore.
+## Beautiful Aarhus City exploration with Beautiful life-partner!
+Aarhus is the second largest city in Denmark. We work in Aarhus. During our stay, we have visited several beautiful places in the city. As you can see, Aarhus is full of natural beauties, and really a great place to explore.
 
 ![SeemaDen](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/1690091dda77c41644a2880f88414265cc501187/images/SeemaDen.gif)
 
