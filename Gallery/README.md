@@ -18,6 +18,11 @@ This gallery captures the beauty and spirit of the BAPS Abu Dhabi Mandir. From d
 
 ![AbuDhabiTemple-optimize](https://github.com/user-attachments/assets/4b0dda2f-d752-411e-9f43-a2f05cccc88d)
 
+## Discovering the Beauty of Abu Dhabi
+Abu Dhabi is a place where tradition and modern life come together beautifully. From grand mosques and quiet beaches to stunning cityscapes, every corner has its own story. Through these photos, I tried to capture the calm, the energy, and the unique charm that make Abu Dhabi so special. A few moments from Dubai are also included, showing the vibrant spirit of the UAE.
+
+![AbuDhabiCity](https://github.com/user-attachments/assets/fb9896f2-a506-40e9-be43-ca9366c62715)
+
 ## Denmark Visit - December 2023
 
 ![Aarhus](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/baa5a2d82e6aae7fa81de631af426e89e97e7abc/images/DenmarkDecember2023/v3.gif)
