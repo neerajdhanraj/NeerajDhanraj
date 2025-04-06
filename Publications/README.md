@@ -13,10 +13,10 @@ permalink: /publication/
 
 <table>
 <tr>
-<td width="30%">
-<img src="images/cover.jpeg" alt="The PyPSA Handbook" width="100%">
+<td width="20%">
+<img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/cover.jpeg" alt="The PyPSA Handbook" width="100%">
 </td>
-<td width="70%">
+<td width="80%">
 <p><strong>Bokde N.</strong>, Fanara C. (2024).<br>
 <strong>The PyPSA Handbook: Integrated Power System Analysis and Renewable Energy Modeling.</strong><br>
 <em>Elsevier Science</em>. ISBN: 044326631X, 9780443266317.<br>
@@ -26,6 +26,7 @@ permalink: /publication/
 </td>
 </tr>
 </table>
+
 
 
 ## JCR Articles
