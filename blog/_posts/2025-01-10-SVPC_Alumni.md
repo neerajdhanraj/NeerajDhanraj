@@ -26,15 +26,13 @@ I am incredibly honored and humbled to be recognized as one of the Distinguished
 
 I extend my heartfelt gratitude to the faculty, staff, and my peers who have been an integral part of this journey. This milestone motivates me to contribute even more meaningfully to my field and the community.
 
+<img src="https://github.com/user-attachments/assets/3d343b0a-d26e-437d-8cc4-dae2934205d9" width="450">
 
-![award_1](https://github.com/user-attachments/assets/3d343b0a-d26e-437d-8cc4-dae2934205d9)
+<img src="https://github.com/user-attachments/assets/04aac850-d6d4-45c4-861e-cd5cce4ec697" width="450">
 
-![award_2](https://github.com/user-attachments/assets/04aac850-d6d4-45c4-861e-cd5cce4ec697)
+<img src="https://github.com/user-attachments/assets/a92b9854-f011-4490-9647-eff267f20446" width="450">
 
-![award_3](https://github.com/user-attachments/assets/a92b9854-f011-4490-9647-eff267f20446)
-
-![award_4](https://github.com/user-attachments/assets/ce3445b6-8673-4eff-8d76-42a2bef73278)
-
+<img src="https://github.com/user-attachments/assets/ce3445b6-8673-4eff-8d76-42a2bef73278" width="450">
 
 Once again, thank you, SVPCET, for this prestigious acknowledgment!
 
