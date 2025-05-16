@@ -13,8 +13,8 @@ theme_color: '#ccc'
 sitemap: false
 permalink: /gallery/
 ---
-## BAPS Abu Dhabi Mandir: A Monument of Peace and Spirituality
-This gallery captures the beauty and spirit of the BAPS Abu Dhabi Mandir. From detailed carvings to the peaceful surroundings, each image reflects the incredible craftsmanship and dedication behind the Mandir. A glimpse into a place built with devotion, tradition, and a message of unity.
+## BAPS Abu Dhabi Hindu Mandir: A Monument of Peace and Spirituality
+This gallery captures the beauty and spirit of the BAPS Abu Dhabi Hindu Mandir. From detailed carvings to the peaceful surroundings, each image reflects the incredible craftsmanship and dedication behind the Mandir. A glimpse into a place built with devotion, tradition, and a message of unity.
 
 ![AbuDhabiTemple-optimize](https://github.com/user-attachments/assets/4b0dda2f-d752-411e-9f43-a2f05cccc88d)
 
