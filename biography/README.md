@@ -17,7 +17,7 @@ Dr. Bokde has held academic and research positions at several prestigious instit
 
 With a multidisciplinary background spanning engineering, computer science, renewable energy, and data science, he effectively bridges theoretical innovation with real-world application. His recent work includes digital twins for energy systems, AI-powered planning tools, and open-source modeling frameworks. As a core user to the PyPSA ecosystem, he emphasizes transparent and reproducible approaches to power system modeling.
 
-Dr. Bokde has been recognized among the top 2\% of scientists globally in Stanford University’s global citation ranking. He has been a review and associate editor for journals such as Frontiers in Energy Research, Data in Brief, Energies, and Information. He also regularly reviews research proposals for international funding bodies, contributing to the evaluation of major projects in energy systems and data science worldwide. His professional updates and open-source contributions can be found at: \url{www.neerajbokde.in}.
+Dr. Bokde has been recognized among the top 2\% of scientists globally in Stanford University’s global citation ranking. He has been a review and associate editor for journals such as Frontiers in Energy Research, Data in Brief, Energies, and Information. He also regularly reviews research proposals for international funding bodies, contributing to the evaluation of major projects in energy systems and data science worldwide. His professional updates and open-source contributions can be found at: www.neerajbokde.in .
 
 ![s3](https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/50d3de9cebbf239009c294d1e987c61f9e8fcddf/images/s3.jpg)
 
