@@ -11,8 +11,17 @@ permalink: /eduexp/
 
 ## <img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/work.png" width="30">  Experience
 
+### <img src="https://github.com/neerajdhanraj/NeerajDhanraj/assets/10669836/1752a507-002b-4641-a805-f2adb7feca45" width="120"> Lead Researcher
+#### April 2025 - Present
+
+[Renewable and Sustainable Energy Research Center](https://www.tii.ae/renewable-and-sustainable),
+
+[Technology Innovation Institute, Abu Dhabi, UAE](https://www.tii.ae/).
+
+-----
+
 ### <img src="https://github.com/neerajdhanraj/NeerajDhanraj/assets/10669836/1752a507-002b-4641-a805-f2adb7feca45" width="120"> Senior Researcher
-#### June 2023 - Present
+#### June 2023 - March 2025
 
 [Renewable and Sustainable Energy Research Center](https://www.tii.ae/renewable-and-sustainable),
 
