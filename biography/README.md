@@ -9,7 +9,7 @@ sitemap: false
 permalink: /biography/
 ---
 
-Dr. Neeraj Dhanraj Bokde is a Senior Researcher at the Renewable and Sustainable Energy Research Center, Technology Innovation Institute (TII), Abu Dhabi, UAE. Originally from Nagpur, India, he brings over twelve years of interdisciplinary experience at the intersection of renewable energy, power systems, data science, and artificial intelligence.
+Dr. Neeraj Dhanraj Bokde is a Lead Researcher at the Renewable and Sustainable Energy Research Center, Technology Innovation Institute (TII), Abu Dhabi, UAE. Originally from Nagpur, India, he brings over twelve years of interdisciplinary experience at the intersection of renewable energy, power systems, data science, and artificial intelligence.
 
 He holds a PhD in Renewable Energy and has authored more than 100 peer-reviewed research articles. He actively contributes to the R and Python open-source ecosystems through several packages available on CRAN and PyPI, supporting statistical modeling, time series forecasting, optimization, and energy system analysis. He has also mentored multiple open-source projects through the Google Summer of Code program, fostering reproducible and community-driven development.
 
