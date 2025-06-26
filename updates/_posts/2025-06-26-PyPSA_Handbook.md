@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Mentorship at DDSA
+title: The PyPSA Handbook is coming soon
 description: >
    
 image: 
-  path: /images/ddsa_neeraj.png
+  path: /images/Handbook_cover.jpg
   srcset:
-    1060w: /images/ddsa_neeraj.png
-    530w:  /images/ddsa_neeraj.png@0,5x.jpg
-    265w:  /images/ddsa_neeraj.png@0,25x.jpg
+    1060w: /images/Handbook_cover.jpg
+    530w:  /images/Handbook_cover.jpg@0,5x.jpg
+    265w:  /images/Handbook_cover.jpg@0,25x.jpg
 accent_image: 
   background: url('/images/T1.jpg') center/cover
   overlay: false
@@ -29,7 +29,7 @@ We’ve structured the book to guide readers from the basics of PyPSA all the wa
 
 The finalized front cover is now ready, and the official banner is below. A full flyer and promotional materials will be available soon.
 
-![The PyPSA Handbook Banner](/path/to/banner-image.png)
+![The PyPSA Handbook Banner](/images/Handbook_front.png)
 
 The book will be available in **paperback** and **eBook** formats via Elsevier. You can already find the official listing here:  
 🔗 [View on Elsevier](https://shop.elsevier.com/books/the-pypsa-handbook/bokde/978-0-443-26631-7)
