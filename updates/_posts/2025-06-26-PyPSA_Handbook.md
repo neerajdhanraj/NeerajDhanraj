@@ -29,16 +29,15 @@ We’ve structured the book to guide readers from the basics of PyPSA all the wa
 
 The finalized front cover is now ready, and the official banner is below. A full flyer and promotional materials will be available soon.
 
-![The PyPSA Handbook Banner](/images/Handbook_front.png)
+<img src="/images/Handbook_front.png" alt="The PyPSA Handbook Banner" width="300"/>
+
 
 The book will be available in **paperback** and **eBook** formats via Elsevier. You can already find the official listing here:  
 🔗 [View on Elsevier](https://shop.elsevier.com/books/the-pypsa-handbook/bokde/978-0-443-26631-7)
 
-Carlo and I have both worked for years at the intersection of modeling, systems thinking, and practical implementation—across Europe and the Middle East. This handbook reflects that combined perspective: clear, code-based, and grounded in solving real challenges in energy planning.
+Carlo and I have both worked for years at the intersection of modeling, systems thinking, and practical implementation—across India, Europe, and the Middle East. This handbook reflects that combined perspective: clear, code-based, and grounded in solving real challenges in energy planning.
 
 More updates will follow soon, including chapter previews and sample notebooks. For now, we’re looking forward to getting this into the hands of the community.
-
-— Neeraj
 
 
 
