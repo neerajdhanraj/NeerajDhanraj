@@ -14,7 +14,7 @@ permalink: /publication/
 <table>
 <tr>
 <td width="20%">
-<img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/cover.jpeg" alt="The PyPSA Handbook" width="100%">
+<img src="/images/Handbook_front.png" alt="The PyPSA Handbook" width="100%">
 </td>
 <td width="80%">
 <p><strong>Bokde N.</strong>, Fanara C. (2025).<br>
