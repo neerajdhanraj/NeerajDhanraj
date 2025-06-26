@@ -20,7 +20,11 @@ permalink: /publication/
 <p><strong>Bokde N.</strong>, Fanara C. (2025).<br>
 <strong>The PyPSA Handbook: Integrated Power System Analysis and Renewable Energy Modeling.</strong><br>
 <em>Elsevier Science</em>. ISBN: 044326631X, 9780443266317.<br>
-<a href="https://books.google.ae/books/about/The_PyPSA_Handbook.html?id=lS9x0AEACAAJ&redir_esc=y">View on Google Books</a></p>
+<div style="display: flex; gap: 20px; justify-content: center; align-items: center; margin-top: 20px;">
+  <a href="https://books.google.ae/books/about/The_PyPSA_Handbook.html?id=lS9x0AEACAAJ&redir_esc=y" style="padding: 10px 20px; background-color: #f2f2f2; border: 1px solid #ccc; text-decoration: none; border-radius: 4px;">View on Google Books</a>
+  <span style="border-left: 1px solid #ccc; height: 24px;"></span>
+  <a href="https://shop.elsevier.com/books/the-pypsa-handbook/bokde/978-0-443-26631-7" style="padding: 10px 20px; background-color: #f2f2f2; border: 1px solid #ccc; text-decoration: none; border-radius: 4px;">View on Elsevier</a>
+</div>
 <p><code>Energy Modelling</code> <code>Power System Analysis</code> <code>Renewable Energy Systems</code> <code>PyPSA</code></p>
 <p><sub>Note: This is a monograph book, upcoming in 2025.</sub></p>
 </td>
