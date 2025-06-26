@@ -25,11 +25,13 @@ sitemap: false
 
 I’m happy to share that *The PyPSA Handbook: Integrated Power System Analysis and Renewable Energy Modeling*—co-authored with Dr. Carlo Fanara—is now in production with Elsevier and scheduled for release in 2025. This book is the result of several years of work in the open-source modeling space, aimed at creating something practical, technically sound, and genuinely useful for both new and experienced users of PyPSA.
 
-We’ve structured the book to guide readers from the basics of PyPSA all the way to more advanced topics such as renewable integration, storage modeling, grid expansion, and sector coupling. It’s packed with real-world examples, reproducible code, and case studies drawn from actual research and applications.
+We’ve structured the book to guide readers from the basics of PyPSA all the way to more advanced topics such as renewable integration, storage modeling, grid expansion, and system reliability. It’s packed with real-world examples, reproducible code, and case studies drawn from actual research and applications.
 
 The finalized front cover is now ready, and the official banner is below. A full flyer and promotional materials will be available soon.
 
-<img src="/images/Handbook_front.png" alt="The PyPSA Handbook Banner" width="300"/>
+<div style="text-align: center;">
+  <img src="/images/Handbook_front.png" alt="The PyPSA Handbook Banner" width="300"/>
+</div>
 
 
 The book will be available in **paperback** and **eBook** formats via Elsevier. You can already find the official listing here:  
