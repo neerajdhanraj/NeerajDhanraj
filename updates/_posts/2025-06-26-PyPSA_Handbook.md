@@ -30,7 +30,7 @@ We’ve structured the book to guide readers from the basics of PyPSA all the wa
 The finalized front cover is now ready, and the official banner is below. A full flyer and promotional materials will be available soon.
 
 <div style="text-align: center;">
-  <img src="/images/Handbook_front.png" alt="The PyPSA Handbook Banner" width="300"/>
+  <img src="/images/Handbook_cover.jpg" alt="The PyPSA Handbook Banner" width="700"/>
 </div>
 
 
