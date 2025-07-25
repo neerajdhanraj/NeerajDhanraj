@@ -43,6 +43,9 @@ The book will be available in **paperback** and **eBook** formats via Elsevier. 
 
 [The PyPSA Handbook Flyer](https://github.com/user-attachments/files/21428843/FLYER_9780443266317.pdf)
 
+[The PyPSA Handbook Cover](https://github.com/user-attachments/files/21430380/Full_Cover_9780443266317-Mech-01.pdf)
+
+
 Carlo and I have both worked for years at the intersection of modeling, systems thinking, and practical implementation—across India, Europe, and the Middle East. This handbook reflects that combined perspective: clear, code-based, and grounded in solving real challenges in energy planning.
 
 More updates will follow soon, including chapter previews and sample notebooks. For now, we’re looking forward to getting this into the hands of the community.
