@@ -25,6 +25,11 @@ sitemap: false
 
 I am happy to share that *The PyPSA Handbook: Integrated Power System Analysis and Renewable Energy Modeling*, co-authored with Dr. Carlo Fanara, is now in production with Elsevier and scheduled for release in 2025. This book is the result of several years of work in the open-source modeling space, aimed at creating something practical, technically sound, and genuinely useful for both new and experienced users of PyPSA.
 
+<div style="text-align: center;">
+  <img src="/images/Handbook_cover.jpg" alt="The PyPSA Handbook Banner" width="900" height="490"/>
+</div>
+
+
 #### Why PyPSA?
 PyPSA (Python for Power System Analysis) has rapidly become one of the most widely used open-source tools for modern energy system modeling. It enables detailed simulations of electricity networks, renewable energy integration, storage systems, grid expansion, and sector coupling—within a transparent, flexible, and Python-based environment. Its reproducibility, scalability, and openness make it ideal for academic research, utility planning, and national-level energy studies.
 
@@ -55,9 +60,6 @@ The finalized cover design is now complete, and the official Elsevier listing is
   <img src="https://github.com/user-attachments/assets/f197bd29-cea8-41d4-b6db-1c92b500add5" alt="The PyPSA Handbook Cover" width="900"/>
 </div>
 
-<div style="text-align: center;">
-  <img src="/images/Handbook_cover.jpg" alt="The PyPSA Handbook Banner" width="900"/>
-</div>
 
 ---
 
