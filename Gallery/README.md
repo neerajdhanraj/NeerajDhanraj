@@ -18,6 +18,11 @@ This gallery captures the beauty and spirit of the BAPS Abu Dhabi Hindu Mandir. 
 
 ![AbuDhabiTemple-optimize](https://github.com/user-attachments/assets/4b0dda2f-d752-411e-9f43-a2f05cccc88d)
 
+## Meet my Laughing Buddha - Vishwanath
+
+![Vishwanath_2](https://github.com/user-attachments/assets/602a101a-67ec-471b-9844-f5b05b78b58e)
+
+
 ## Discovering the Beauty of Abu Dhabi
 Abu Dhabi is a place where tradition and modern life come together beautifully. From grand mosques and quiet beaches to stunning cityscapes, every corner has its own story. Through these photos, I tried to capture the calm, the energy, and the unique charm that make Abu Dhabi so special. A few moments from Dubai are also included, showing the vibrant spirit of the UAE.
 
