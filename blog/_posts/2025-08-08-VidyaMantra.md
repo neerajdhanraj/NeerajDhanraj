@@ -17,7 +17,7 @@ theme_color: '#ccc'
 sitemap: false
 ---
 
-## A simple mantra that reminds me the light of knowledge lives within all of us
+## The Light of Knowledge in All of Us
 
 <div style="background-color:#fff8e7; padding:15px; border-radius:8px;">
 
