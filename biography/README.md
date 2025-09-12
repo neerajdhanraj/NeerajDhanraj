@@ -23,6 +23,12 @@ Dr. Bokde has been recognized among the top 2\% of scientists globally in Stanfo
 
  [<img src="https://raw.githubusercontent.com/neerajdhanraj/NeerajDhanraj/master/images/LOGO.PNG" width="200">](https://www.neerajbokde.in/)
 
+
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=neerajbokde" target="_blank">
+  <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/>
+</a>
+
+
 This website is new and updating on regular interval. Meanwhile you will find my description, codes, publication, and documents on my other social platforms.
 {:.note}
 
