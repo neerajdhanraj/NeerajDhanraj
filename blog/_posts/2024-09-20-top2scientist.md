@@ -23,6 +23,10 @@ I am thrilled to share that I have been recognized among the top 2% of scientist
 
 ![modal-screenshot](https://github.com/user-attachments/assets/6b4e18ff-f02f-45f1-b57d-56bcdaa43fe8)
 
+In 2025,
+
+![Top2Scientist_2025](https://github.com/user-attachments/assets/6cb86cd5-7252-40a1-88b0-4993125855e4)
+
 
 Thank you for your continued support as I strive to contribute to a sustainable and energy-efficient future.
 
