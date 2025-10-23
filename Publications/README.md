@@ -33,6 +33,9 @@ permalink: /publication/
 ## JCR Articles
 
 ### 2025
+
+* Shital S., **Bokde N.**, Lazic J., and Fanara C. (2025). Comparative analysis of PV orientation strategies to tackle summer demand peaks and land limitations _Energy for Sustainable Development_ (IF 4.9). 89, 101854. DOI: [10.1016/j.esd.2025.101864](https://doi.org/10.1016/j.esd.2025.101864) `Solar energy` `Optimal tilt angle` `Renewable Energy`
+  
 * **Bokde N.**, Lazic J., and Fanara C. (2025). Carbon Reduction and Cost Analysis in Solar-Biomass Synergy for UAE’s 2030 Energy Transition. _Renewable Energy Focus_ (IF 4.2). 53, 100691. DOI: [10.1016/j.ref.2025.100691](https://doi.org/10.1016/j.ref.2025.100691) `Energy Modelling` `Solar-Bio-energy Synergy` `Renewable Energy` 
 
 * **Bokde N.** (2025). A Unified Framework for Multi-Type Hydrogen Production and Storage in Renewable Energy Systems. _Energy Conversion and Management: X_ (IF 7.1). 25, 100847. DOI: [10.1016/j.ecmx.2024.100847](https://doi.org/10.1016/j.ecmx.2024.100847) `Hydrogen` `Energy Modelling` `Renewable Energy` 
