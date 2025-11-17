@@ -23,6 +23,12 @@ This gallery captures the beauty and spirit of the BAPS Abu Dhabi Hindu Mandir. 
 ![Vishwanath_2](https://github.com/user-attachments/assets/602a101a-67ec-471b-9844-f5b05b78b58e)
 
 
+## Moments from Our Kanha and Bhedaghat Trip
+Our October 2025 trip to Madhya Pradesh took us through some of its most beautiful and memorable places. We began at Kanha National Park, staying at the Club Mahindra resort surrounded by peaceful forests and open meadows. The calm mornings, greenery and wildlife made the visit very refreshing. From there, we travelled to Bhedaghat and visited the historic Chausath Yogini Temple, which set a spiritual tone for the day. The ropeway ride over the marble hills and the powerful view of the Dhuandhar Waterfall added a perfect mix of natural beauty and quiet moments. These pictures capture the highlights of a trip filled with nature, culture and scenic experiences.
+![kanha_quality_under9mb](https://github.com/user-attachments/assets/54a2c934-95e1-4380-bbbb-37bbeaf2d1a0)
+
+
+
 ## Discovering the Beauty of Abu Dhabi
 Abu Dhabi is a place where tradition and modern life come together beautifully. From grand mosques and quiet beaches to stunning cityscapes, every corner has its own story. Through these photos, I tried to capture the calm, the energy, and the unique charm that make Abu Dhabi so special. A few moments from Dubai are also included, showing the vibrant spirit of the UAE.
 
