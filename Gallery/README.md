@@ -21,6 +21,8 @@ This gallery captures the beauty and spirit of the BAPS Abu Dhabi Hindu Mandir. 
 ## Meet my Laughing Buddha - Vishwanath
 
 ![Vishwanath_2](https://github.com/user-attachments/assets/602a101a-67ec-471b-9844-f5b05b78b58e)
+![Vishwanath_1](https://github.com/user-attachments/assets/1d1e70b7-4759-47db-93cd-7568a99222fb)
+![Vishwanath_2 (2)](https://github.com/user-attachments/assets/c7a0abbd-c619-472f-b8cc-dd8f6a9dfece)
 
 
 ## Moments from Our Kanha and Bhedaghat Trip
