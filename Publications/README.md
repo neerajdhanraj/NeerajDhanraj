@@ -34,6 +34,8 @@ permalink: /publication/
 
 ### 2025
 
+* **Bokde N.** (2025). EDITORIAL: Data-driven sustainability: methods and evidence across energy, policy, and industry _Energies_ (IF 3.2). 18(23), 6164. DOI: [10.3390/en18236164](https://doi.org/10.3390/en18236164) `Review` `Energy modelling` `Data driven models` `Sustainability`
+  
 * Shital S., **Bokde N.**, Lazic J., and Fanara C. (2025). Comparative analysis of PV orientation strategies to tackle summer demand peaks and land limitations _Energy for Sustainable Development_ (IF 4.9). 89, 101854. DOI: [10.1016/j.esd.2025.101864](https://doi.org/10.1016/j.esd.2025.101864) `Solar energy` `Optimal tilt angle` `Renewable Energy`
   
 * **Bokde N.**, Lazic J., and Fanara C. (2025). Carbon Reduction and Cost Analysis in Solar-Biomass Synergy for UAE’s 2030 Energy Transition. _Renewable Energy Focus_ (IF 4.2). 53, 100691. DOI: [10.1016/j.ref.2025.100691](https://doi.org/10.1016/j.ref.2025.100691) `Energy Modelling` `Solar-Bio-energy Synergy` `Renewable Energy` 
