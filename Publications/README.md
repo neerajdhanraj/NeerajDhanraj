@@ -23,8 +23,8 @@ permalink: /publication/
 ISBN: 978-0-443-26631-7.<br>
 DOI: <a href="https://doi.org/10.1016/C2023-0-51266-2">10.1016/C2023-0-51266-2</a><br>
 <a href="https://www.neerajbokde.in/updates/2025-06-26-PyPSA_Handbook/">Further details</a></p>
-<a href="https://shop.elsevier.com/books/the-pypsa-handbook/bokde/978-0-443-26631-7">View on Elsevier</a> </p>
-<a href="https://doi.org/10.1016/C2023-0-51266-2">View on ScienceDirect</a> </p>
+<a href="https://shop.elsevier.com/books/the-pypsa-handbook/bokde/978-0-443-26631-7">View on Elsevier</a> 
+<a href="https://doi.org/10.1016/C2023-0-51266-2">View on ScienceDirect</a> 
 <p><code>Energy Modelling</code> <code>Power System Analysis</code> <code>Renewable Energy Systems</code> <code>PyPSA</code></p>
 </td>
 </tr>
