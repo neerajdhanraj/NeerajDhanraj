@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The PyPSA Handbook is coming soon
+title: The PyPSA Handbook — Now Published
 description: >
    
 image: 
@@ -23,7 +23,6 @@ sitemap: false
 [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-Book-orange)](https://www.sciencedirect.com/book/monograph/9780443266317/the-pypsa-handbook)
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2FC2023--0--51266--2-blue)](https://doi.org/10.1016/C2023-0-51266-2)
 
-&nbsp;
 
 ## The PyPSA Handbook — Now Published
 
@@ -113,8 +112,8 @@ If you use the book in academic work, teaching material, or reports, you may cit
 <div style="max-width:520px; margin: 2rem auto;">
   <iframe 
     src="https://www.linkedin.com/embed/feed/update/urn:li:share:7404851736722632704?collapsed=1"
-    height="609"
-    width="504"
+    height="650"
+    width="604"
     frameborder="0"
     allowfullscreen
     title="LinkedIn post: The PyPSA Handbook">
