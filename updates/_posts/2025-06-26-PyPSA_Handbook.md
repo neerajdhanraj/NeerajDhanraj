@@ -126,6 +126,24 @@ If you use the book in academic work, teaching material, or reports, you may cit
   </p>
 </div>
 
+<div style="max-width:520px; margin:2rem auto; padding:0 12px;">
+  <div style="position:relative; width:100%; height:0; padding-bottom:130%; overflow:hidden; border-radius:12px;">
+    <iframe
+      src="https://www.linkedin.com/embed/feed/update/urn:li:share:7404851736722632704?collapsed=1"
+      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+      allowfullscreen
+      title="LinkedIn post: The PyPSA Handbook">
+    </iframe>
+  </div>
+
+  <p style="text-align:center; font-size:0.9em; margin-top:0.75rem;">
+    If the embedded post does not load, you can view it directly on
+    <a href="https://www.linkedin.com/feed/update/urn:li:share:7404851736722632704/" target="_blank" rel="noopener">
+      LinkedIn
+    </a>.
+  </p>
+</div>
+
 
 With the book now published, we look forward to engaging more closely with the global energy modeling community, through course adoption, feedback from practitioners, and continued discussion around transparent and reproducible energy system analysis.
 
