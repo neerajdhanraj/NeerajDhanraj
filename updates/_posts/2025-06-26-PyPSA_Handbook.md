@@ -42,12 +42,22 @@ The book is available through Elsevier’s official platforms:
 
 The handbook is available in both **eBook** and **paperback** formats, making it suitable for classroom use as well as individual reference.
 
-🔗 [Official listing on Elsevier](https://shop.elsevier.com/books/the-pypsa-handbook/bokde/978-0-443-26631-7)
-🔗 [Download the official flyer (PDF)](https://github.com/user-attachments/files/21428843/FLYER_9780443266317.pdf)
-🔗 [Full book cover (PDF)](https://github.com/user-attachments/files/21430380/Full_Cover_9780443266317-Mech-01.pdf)
+<div style="max-width:520px; margin:2rem auto; padding:0 12px;">
+  <div style="position:relative; width:100%; height:0; padding-bottom:130%; overflow:hidden; border-radius:12px;">
+    <iframe
+      src="https://www.linkedin.com/embed/feed/update/urn:li:share:7404851736722632704?collapsed=1"
+      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+      allowfullscreen
+      title="LinkedIn post: The PyPSA Handbook">
+    </iframe>
+  </div>
 
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/f197bd29-cea8-41d4-b6db-1c92b500add5" alt="The PyPSA Handbook Cover" width="900"/>
+  <p style="text-align:center; font-size:0.9em; margin-top:0.75rem;">
+    If the embedded post does not load, you can view it directly on
+    <a href="https://www.linkedin.com/feed/update/urn:li:share:7404851736722632704/" target="_blank" rel="noopener">
+      LinkedIn
+    </a>.
+  </p>
 </div>
 
 
@@ -109,45 +119,17 @@ If you use the book in academic work, teaching material, or reports, you may cit
 }
 ```
 
-<div style="max-width:520px; margin: 2rem auto;">
-  <iframe 
-    src="https://www.linkedin.com/embed/feed/update/urn:li:share:7404851736722632704?collapsed=1"
-    height="650"
-    width="604"
-    frameborder="0"
-    allowfullscreen
-    title="LinkedIn post: The PyPSA Handbook">
-  </iframe>
-  <p style="text-align:center; font-size:0.9em;">
-    If the embedded post does not load, you can view it directly on
-    <a href="https://www.linkedin.com/feed/update/urn:li:share:7404851736722632704/" target="_blank">
-      LinkedIn
-    </a>.
-  </p>
-</div>
 
-<div style="max-width:520px; margin:2rem auto; padding:0 12px;">
-  <div style="position:relative; width:100%; height:0; padding-bottom:130%; overflow:hidden; border-radius:12px;">
-    <iframe
-      src="https://www.linkedin.com/embed/feed/update/urn:li:share:7404851736722632704?collapsed=1"
-      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
-      allowfullscreen
-      title="LinkedIn post: The PyPSA Handbook">
-    </iframe>
-  </div>
-
-  <p style="text-align:center; font-size:0.9em; margin-top:0.75rem;">
-    If the embedded post does not load, you can view it directly on
-    <a href="https://www.linkedin.com/feed/update/urn:li:share:7404851736722632704/" target="_blank" rel="noopener">
-      LinkedIn
-    </a>.
-  </p>
-</div>
 
 
 With the book now published, we look forward to engaging more closely with the global energy modeling community, through course adoption, feedback from practitioners, and continued discussion around transparent and reproducible energy system analysis.
 
 More updates will follow, including teaching materials, selected examples, and community-driven extensions. For now, we are excited to see The PyPSA Handbook being used in classrooms, research projects, and applied energy studies worldwide.
+
+🔗 [Official listing on Elsevier](https://shop.elsevier.com/books/the-pypsa-handbook/bokde/978-0-443-26631-7)
+🔗 [Download the official flyer (PDF)](https://github.com/user-attachments/files/21428843/FLYER_9780443266317.pdf)
+🔗 [Full book cover (PDF)](https://github.com/user-attachments/files/21430380/Full_Cover_9780443266317-Mech-01.pdf)
+
 
 
 
