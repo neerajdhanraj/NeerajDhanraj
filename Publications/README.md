@@ -34,6 +34,10 @@ DOI: <a href="https://doi.org/10.1016/C2023-0-51266-2">10.1016/C2023-0-51266-2</
 
 ## JCR Articles
 
+### 2026
+* **Bokde N.**, Fanara C., and Hart P. (2026). Decision-oriented indices for quantifying stability and supply-side diversity in decarbonizing power systems _Energy Conversion and Management: X_ (IF 7.6). DOI: [10.1016/j.ecmx.2025.101511](https://doi.org/10.1016/j.ecmx.2025.101511) `Grid stability` `Energy modelling` `Decarbonization` 
+* **Bokde N.** (2026). Power-to-Hydrogen Systems: Stochastic Optimization for Renewable Energy Integration _National Academy Science Letters_ (IF 1.3). DOI: [10.1007/s40009-025-01915-9](https://doi.org/10.1007/s40009-025-01915-9) `Power-to-Hydrogen` `Energy modelling` `Optimization` 
+
 ### 2025
 * **Bokde N.** (2025). EDITORIAL: Data-driven sustainability: methods and evidence across energy, policy, and industry _Energies_ (IF 3.2). 18(23), 6164. DOI: [10.3390/en18236164](https://doi.org/10.3390/en18236164) `Review` `Energy modelling` `Data driven models` `Sustainability`
 * Shital S., **Bokde N.**, Lazic J., and Fanara C. (2025). Comparative analysis of PV orientation strategies to tackle summer demand peaks and land limitations _Energy for Sustainable Development_ (IF 4.9). 89, 101854. DOI: [10.1016/j.esd.2025.101864](https://doi.org/10.1016/j.esd.2025.101864) `Solar energy` `Optimal tilt angle` `Renewable Energy`
