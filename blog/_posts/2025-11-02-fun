@@ -1,0 +1,85 @@
+---
+layout: post
+title: Collection of my Data Science and Research related articles on Medium
+description: >
+  This post is a collection of my articles published on Medium which are majorly related to Time Series Analysis, Data Science, and Research. 
+image: 
+  path: /images/p1.PNG
+  srcset:
+    1060w: /images/p1.PNG
+    530w:  /images/p1.PNG@0,5x.jpg
+    265w:  /images/p1.PNG@0,25x.jpg
+accent_image: 
+  background: url('/images/mtkailash.jpg') center/cover
+  overlay: false
+accent_color: '#ff2819'
+theme_color: '#ccc'
+related_posts:
+  - example/_posts/2017-11-23-example-content-ii.md
+  - /example/2012-02-07-example-content/
+sitemap: false
+---
+
+# Don’t Underestimate the Importance of Fun  
+## मजेची किंमत कमी समजू नका
+
+Recently I came across a simple line written somewhere:
+
+> **“Don’t underestimate the importance of fun.”**
+
+For a moment it stayed with me. And immediately I remembered these lines from Sant Tukaram:
+
+---
+
+### Marathi
+
+संत तुकाराम म्हणतात:
+
+> **“आनंदेचे डोही आनंद तरंग  
+> आनंदचि अंग आनंदाचे”**
+
+या ओळी सांगतात की आनंद हा वेगळा शोधायचा विषय नाही, तो आपल्या जगण्यात आधीपासून आहे. पण आपण मोठे होत जातो तसं मजेला आपण कमी लेखायला लागतो.
+
+लहान मुलांकडे पाहा. त्यांना आनंदासाठी कारण लागत नाही. पावसात भिजणं, विनाकारण हसणं, काहीतरी खेळत बसणं, मजा त्यांच्या दिवसाचा नैसर्गिक भाग असतो. म्हणूनच ते इतके उत्साही आणि जिवंत दिसतात.
+
+मोठ्यांच्या जगात मात्र आपण सतत गंभीर राहायला शिकतो. विशेषतः रिसर्च किंवा टेक्निकल कामात, डेडलाईन, पेपर्स, प्रोजेक्ट्स, डोकं कायम कामात गुंतलेलं असतं. अशा वेळी ब्रेक घेणंही चुकीचं वाटू लागतं. पण सतत ताणाखाली मन काम करत नाही; ते थकतं.
+
+थोडा बॅडमिंटन खेळणं, जिमला जाणं, मित्रांशी गप्पा मारणं, किंवा काही मिनिटं ऑनलाइन गेम खेळणं, या छोट्या गोष्टी मनाला हलकं करतात. आणि गंमत म्हणजे ब्रेक घेतल्यानंतर काम जास्त स्पष्टपणे होतं. फोकस वाढतो.
+
+**आनंद हा लक्झरी नाही. तो गरज आहे.  
+मजा ही पळवाट नाही. ती ऊर्जा आहे.**
+
+जीवन गंभीर आहे, पण आपण कायम गंभीर राहायलाच हवं असं नाही. कधी कधी कारण नसताना फक्त मजा करा. कारण आनंदाला कमी लेखणं म्हणजे जीवनालाच कमी लेखणं.
+
+---
+
+### English
+
+Saint Tukaram wrote:
+
+> *“In the ocean of joy rise waves of joy —  
+> joy itself is the body and the essence.”*
+
+Joy is not something separate from life; it is already part of it. Yet as we grow older, we begin to undervalue fun.
+
+Look at children. They don’t need a reason to be joyful. Playing in the rain, laughing for no reason, simply being playful, fun is built into their day. That is why they seem so alive and energetic.
+
+In adult life, especially in research and technical work, we are trained to stay serious. Deadlines, papers, projects, the mind is always occupied. Taking a break can start to feel wrong. But a constantly stressed mind does not perform well; it gets tired.
+
+A game of badminton, a gym session, conversations with friends, or a few minutes of online games, these small breaks lighten the mind. And after that, work often becomes clearer. Focus improves.
+
+**Joy is not a luxury. It is a necessity.  
+Fun is not escape. It is energy.**
+
+Life is serious, but we do not have to be serious all the time. Sometimes, have fun without a reason. Because underestimating joy is underestimating life.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1380946482334293"
+     crossorigin="anonymous"></script>
+
+[mm]: https://guides.github.com/features/mastering-markdown/
+[ksyn]: https://kramdown.gettalong.org/syntax.html
+[ksyntab]:https://kramdown.gettalong.org/syntax.html#tables
+[ksynmath]: https://kramdown.gettalong.org/syntax.html#math-blocks
+[katex]: https://khan.github.io/KaTeX/
+[rtable]: https://dbushell.com/2016/03/04/css-only-responsive-tables/
