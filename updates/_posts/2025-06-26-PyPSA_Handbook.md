@@ -30,6 +30,30 @@ I am happy to share that **The PyPSA Handbook: Integrated Power System Analysis 
 
 It brings together foundational concepts, modern modeling practices, and fully worked examples in a single, coherent reference for power system analysis and renewable energy planning.
 
+<table>
+<tr>
+<td width="35%">
+<img src="/images/bestseller.png" 
+     alt="Elsevier Physical Sciences & Engineering Bestsellers listing showing The PyPSA Handbook" 
+     width="100%">
+</td>
+
+<td width="65%">
+<p>
+<strong>The PyPSA Handbook</strong> is currently listed among 
+Elsevier’s <em>Physical Sciences & Engineering</em> bestsellers.
+</p>
+
+<p>
+<a href="https://shop.elsevier.com/books/book-bestsellers">
+View the Elsevier bestseller list
+</a>
+</p>
+</td>
+</tr>
+</table>
+
+
 ### Where to Access the Book
 
 The book is available through Elsevier’s official platforms:
