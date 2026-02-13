@@ -32,13 +32,13 @@ It brings together foundational concepts, modern modeling practices, and fully w
 
 <table>
 <tr>
-<td width="35%">
+<td width="70%">
 <img src="/images/bestseller.png" 
      alt="Elsevier Physical Sciences & Engineering Bestsellers listing showing The PyPSA Handbook" 
      width="100%">
 </td>
 
-<td width="65%">
+<td width="30%">
 <p>
 <strong>The PyPSA Handbook</strong> is currently listed among 
 Elsevier’s <em>Physical Sciences & Engineering</em> bestsellers.
