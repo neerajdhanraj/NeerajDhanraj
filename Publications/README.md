@@ -41,7 +41,7 @@ Listed among Elsevier’s Physical Sciences & Engineering bestsellers:
 ## JCR Articles
 
 ### 2026
-* **Bokde N.** and Fanara C. (2026). Designing the UAE’s hydrogen future: A framework for integrated simulation and spatial planning. _Renewable Energy Focus_ (IF 5.9). Accepted. DOI: [10.1016/j.ref.2026.100865](https://doi.org/10.1016/j.ref.2026.100865) `Energy Modelling` `Hydrogen Planning` `Decarbonization` 
+* **Bokde N.** and Fanara C. (2026). Designing the UAE’s hydrogen future: A framework for integrated simulation and spatial planning. _Renewable Energy Focus_ (IF 5.9). 58, 100865. DOI: [10.1016/j.ref.2026.100865](https://doi.org/10.1016/j.ref.2026.100865) `Energy Modelling` `Hydrogen Planning` `Decarbonization` 
 * **Bokde N.**, Kapse M., and Surender K. (2026). Adaptive Multi-Objective Jaya Algorithm with Applications in Renewable Energy System Optimization _Algorithms_ (IF 2.1). 19 (2), 133. DOI: [10.3390/a19020133](https://doi.org/10.3390/a19020133) `Optimization` `R package` `Data Science` `Renewable Energy` 
 * **Bokde N.**, Fanara C., and Hart P. (2026). Decision-oriented indices for quantifying stability and supply-side diversity in decarbonizing power systems _Energy Conversion and Management: X_ (IF 7.6). 29, 101511. DOI: [10.1016/j.ecmx.2025.101511](https://doi.org/10.1016/j.ecmx.2025.101511) `Grid stability` `Energy modelling` `Decarbonization` 
 * **Bokde N.** (2026). Power-to-Hydrogen Systems: Stochastic Optimization for Renewable Energy Integration _National Academy Science Letters_ (IF 1.3). DOI: [10.1007/s40009-025-01915-9](https://doi.org/10.1007/s40009-025-01915-9) `Power-to-Hydrogen` `Energy modelling` `Optimization` 
